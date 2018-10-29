@@ -2,7 +2,7 @@
 description: Information about what this guide is and how to use it.
 ---
 
-# Handy Design Guide
+# Intro
 
 ## Can I become who I want to be?
 
