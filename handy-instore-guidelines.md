@@ -1,2 +1,0 @@
-# Handy Instore Guidelines
-

@@ -1,11 +1,12 @@
----
-description: >-
-  Based on the original Handy colors, the color system expands each color to
-  have 10 different shades. The UI / gray colors are a desaturated version of
-  the Handy blue shades.
----
-
 # Color System
+
+![](.gitbook/assets/colors.png)
+
+Based on the original Handy colors, the color system expands each color to have 11 shades each. The UI / gray colors are a desaturated version of the Handy blue shades.
+
+The original base color is `color50`. See the hex codes and variable names below.
+
+
 
 {% tabs %}
 {% tab title="Blue" %}
@@ -33,11 +34,31 @@ description: >-
 {% endtab %}
 
 {% tab title="Gray" %}
+![gray0 - \#FFFFFF](.gitbook/assets/gray0.png)
 
+![gray10 - \#F8FAFA](.gitbook/assets/gray10.png)
+
+![gray20 - \#E7ECED](.gitbook/assets/gray20.png)
+
+![gray30 - \#CED6D8](.gitbook/assets/gray30.png)
+
+![gray40 - \#A8B6B9](.gitbook/assets/gray40.png)
+
+![gray50 -\#7F9092](.gitbook/assets/gray50.png)
+
+![gray60 - \#58676A](.gitbook/assets/gray60.png)
+
+![gray70 - \#394649](.gitbook/assets/gray70.png)
+
+![gray80 - \#262F31](.gitbook/assets/gray80.png)
+
+![gray90 - \#1B2224](.gitbook/assets/gray90.png)
+
+![gray100 - \#171D1F](.gitbook/assets/gray100.png)
 {% endtab %}
 
 {% tab title="Green" %}
-
+![](.gitbook/assets/gray0.png)
 {% endtab %}
 
 {% tab title="Teal" %}
