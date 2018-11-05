@@ -4,9 +4,9 @@ description: Information about what this guide is and how to use it.
 
 # Intro
 
-## Can I become who I want to be?
+## System Design
 
-That's a tough question but thankfully, our team is on it. Please bear with us while we're investigating.
+This guide contains information about design standards for Handy's products.
 
 ## Have you had a chance to answer the previous question?
 
