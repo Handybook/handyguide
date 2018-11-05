@@ -1,4 +1,4 @@
-# Type Styles
+# Master Files
 
 ## Getting Super Powers
 
