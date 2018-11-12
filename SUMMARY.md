@@ -2,6 +2,8 @@
 
 * [Intro](README.md)
 * [iOS / Android](native/README.md)
+  * [Headers](native/headers.md)
+  * [Lists](native/lists.md)
   * [Typography](native/typography.md)
   * [Tab Bar](native/ios.md)
   * [Menu](native/android.md)
