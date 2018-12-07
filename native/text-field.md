@@ -11,6 +11,7 @@ Text fields are used to allow users to enter, select, and search for text. Text 
 ```text
 font-family: Circular-book
 color: #607D90
+active color : #434343
 padding-left: 16px
 ```
 

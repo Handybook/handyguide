@@ -1,18 +1,26 @@
 # Table of contents
 
 * [Intro](README.md)
+* [Brand Guidelines](brand-guidelines/README.md)
+  * [Color System](brand-guidelines/color-system.md)
+  * [Consumer App Brand](brand-guidelines/consumer-app-brand.md)
+  * [Pro App Brand](brand-guidelines/pro-app-brand.md)
 * [Consumer App](native/README.md)
   * [Headers](native/headers-1.md)
   * [Buttons](native/buttons.md)
   * [Pickers](native/pickers.md)
   * [Text Field](native/text-field.md)
-  * [Lists](native/lists.md)
+  * [Avatars](native/avatars.md)
+  * [Action Lists](native/action-lists/README.md)
+    * [Pro Lists](native/action-lists/lists.md)
+    * [Booking Lists](native/action-lists/booking-lists.md)
+    * [Messages](native/action-lists/messages.md)
+    * [Settings](native/action-lists/settings.md)
 * [Web](web.md)
 * [Design Best Practices](design-best-practices/README.md)
   * [Master Files](design-best-practices/untitled.md)
   * [Color Management](design-best-practices/colorsystem.md)
   * [Sketch](design-best-practices/sketch.md)
-* [Color System](color-system.md)
 * [Handy Personas](handy-personas.md)
 
 ## Handy Instore Guidelines
