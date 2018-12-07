@@ -12,6 +12,7 @@
   * [Text Field](native/text-field.md)
   * [Avatars](native/avatars.md)
   * [Action Lists](native/action-lists/README.md)
+    * [Section Headers](native/action-lists/section-headers.md)
     * [Pro Lists](native/action-lists/lists.md)
     * [Booking Lists](native/action-lists/booking-lists.md)
     * [Messages](native/action-lists/messages.md)
