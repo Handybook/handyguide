@@ -35,6 +35,32 @@ Our secondary palette contains a variety of colors to keep things interesting. U
 
 ### Supporting Color Use
 
+![](../.gitbook/assets/sc_1.png)
+
+Off-White: \#FBFBFB  
+Uses: Text field interiors.
+
+Dark-White: \#F4F4F4
+
+![](../.gitbook/assets/sc_2.png)
+
+Text-Black: \#434343  
+Uses: All paragraph, header, text
+
+Medium-Dark-Slate: \#667884  
+Users: Tertiary text, metadata
+
+![](../.gitbook/assets/sc_3.png)
+
+Light-Slate: \#E8FF2  
+Uses: Lighter divider line - use in lists views or in instances where there is a lot of repeating cells
+
+Medium-Light-Slate: \#DAE2E6  
+Uses: Darker divider line - use in more functional instances like sticking headers or section headers.
+
+Medium-Slate: \#C2CED3  
+Uses: Input field stroke, filter stroke, radio or checkbox outlines.
+
 ### Extended Color Palette
 
 {% tabs %}
