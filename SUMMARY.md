@@ -4,6 +4,7 @@
 * [Brand Guidelines](brand-guidelines/README.md)
   * [Color System](brand-guidelines/color-system.md)
   * [Typography](brand-guidelines/typography.md)
+  * [Iconography](brand-guidelines/iconography.md)
   * [Consumer App Brand](brand-guidelines/consumer-app-brand.md)
   * [Pro App Brand](brand-guidelines/pro-app-brand.md)
 * [Consumer App](native/README.md)

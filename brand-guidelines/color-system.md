@@ -91,7 +91,7 @@ Uses: Input field stroke, filter stroke, radio or checkbox outlines.
 {% tab title="Slate" %}
 ![Light-Slate: \#E8EFF2](../.gitbook/assets/light-slate.png)
 
-![Light-Medium-Slate: \#DAE2E6](../.gitbook/assets/medium-light-slate.png)
+![Medium-Light-Slate: \#DAE2E6](../.gitbook/assets/medium-light-slate.png)
 
 ![Medium-Slate: \#C2CED3](../.gitbook/assets/medium-slate.png)
 
@@ -103,7 +103,7 @@ Uses: Input field stroke, filter stroke, radio or checkbox outlines.
 {% tab title="Yellow" %}
 ![Light-Yellow: \#FCEBC6](../.gitbook/assets/light-yellow.png)
 
-![Light-Medium-Yellow: \#FFDB8D](../.gitbook/assets/medium-light-yellow.png)
+![Medium-Light-Yellow: \#FFDB8D](../.gitbook/assets/medium-light-yellow.png)
 
 ![Medium-Yellow: \#FFB600](../.gitbook/assets/medium-yellow.png)
 
@@ -115,7 +115,7 @@ Uses: Input field stroke, filter stroke, radio or checkbox outlines.
 {% tab title="Red" %}
 ![Light-Red: \#FFD8D8](../.gitbook/assets/light-red.png)
 
-![Light-Medium-Red: \#FC9A9A](../.gitbook/assets/medium-light-red.png)
+![Medium-Light-Red: \#FC9A9A](../.gitbook/assets/medium-light-red.png)
 
 ![Medium-Red: \#E74343](../.gitbook/assets/medium-red.png)
 
@@ -127,7 +127,7 @@ Uses: Input field stroke, filter stroke, radio or checkbox outlines.
 {% tab title="Teal" %}
 ![Light-Teal: \#E0F6F2](../.gitbook/assets/light-teal.png)
 
-![Light-Medium-Teal: \#A6E9DD](../.gitbook/assets/medium-light-teal.png)
+![Medium-Light-Teal: \#A6E9DD](../.gitbook/assets/medium-light-teal.png)
 
 ![Medium-Teal: \#3DCAB1](../.gitbook/assets/medium-teal.png)
 
@@ -139,7 +139,7 @@ Uses: Input field stroke, filter stroke, radio or checkbox outlines.
 {% tab title="Purple" %}
 ![Light-Purple: \#EDD1EB](../.gitbook/assets/light-purple.png)
 
-![Light-Medium-Purple: \#B87DB4](../.gitbook/assets/medium-light-purple.png)
+![Medium-Light-Purple: \#B87DB4](../.gitbook/assets/medium-light-purple.png)
 
 ![Medium-Purple: \#893383](../.gitbook/assets/medium-purple.png)
 
