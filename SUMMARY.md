@@ -23,6 +23,7 @@
   * [Icon Lists](native/icon-lists.md)
   * [Tabs](native/tabs.md)
   * [Navigation](native/navigation.md)
+  * [Message Bubbles](native/message-threads.md)
 * [Web](web.md)
 * [Design Best Practices](design-best-practices/README.md)
   * [Master Files](design-best-practices/untitled.md)
