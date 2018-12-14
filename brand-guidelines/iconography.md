@@ -37,7 +37,7 @@ Inline text icons are mostly illustrative and give more visual elements to a tex
 ```text
 color: medium-dark-slate
 max-width: 12px
-broder: 1px
+border: 1px
 ```
 
 ![](../.gitbook/assets/cleaning-routine.png)
