@@ -13,6 +13,7 @@ Message bubbles house messages in the message thread. Depending on the context, 
 ```text
 background: light-handy-blue 
 max-width: 66.667% (excluding margins)
+border-radius: 5px
 ```
 
 2. Message Text
