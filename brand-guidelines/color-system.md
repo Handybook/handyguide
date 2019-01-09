@@ -149,5 +149,13 @@ Uses: Input field stroke, filter stroke, radio or checkbox outlines.
 {% endtab %}
 {% endtabs %}
 
+|  | Blue | Green | Slate | Yellow | Red | Teal | Purple |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| **Light** | `#EEF6F9` | `#EDF7D6` | `#E8EFF2` | `#FCEBC6` | `#FFD8D8` | `#E0F6F2` | `#EDD1EB` |
+| **Medium-Light** | `#CDE9F8` | `#D5EBBF` | `#DAE2E6` | `#FFDB8D` | `#FC9A9A` | `#A6E9DD` | `#B87DB4` |
+| **Medium** | `#0BB8E3` | `#67BD24` | `#C2CED3` | `#FFB600` | `#E74343` | `#3DCAB1` | `#893383` |
+| **Medium-Dark** | `#036DA1` | `#4A8A18` | `#9CABB5` | `#D69200` | `#B81919` | `#3DAF88` | `#700C6A` |
+| **Dark** | `#073556` | `#215913` | `#667884` | `#B37A00` | `#851919` | `#0A5145` | `#4C0B47` |
+
 
 

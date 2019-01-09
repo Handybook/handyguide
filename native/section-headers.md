@@ -4,7 +4,7 @@
 
 Section headers denote the start of an action list. They are pinned to the top as users scroll 
 
-![](../../.gitbook/assets/section-headers.png)
+![](../.gitbook/assets/section-headers%20%281%29.png)
 
 ```text
 background: Light-Neutral;

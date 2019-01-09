@@ -2,7 +2,7 @@
 
 ## Settings
 
-![](../../.gitbook/assets/settings.png)
+![](../.gitbook/assets/settings.png)
 
 1. Title
 

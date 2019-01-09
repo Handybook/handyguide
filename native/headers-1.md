@@ -1,50 +1,145 @@
+---
+description: >-
+  The header provides the core information that users need when first viewing
+  the page. The header component can be combined with actions.
+---
+
 # Headers
 
-## Headers
+![](../.gitbook/assets/header-overview.png)
 
-The header provides the core information that users need when first viewing the page. The header component can be combined with actions.
+## Types of Headers
 
-### Main Headers
+**1.** [**Main Headers \(m-header-primary\)**](headers-1.md#main-headers)\*\*\*\*
 
-Main Headers are components used on tab pages like Bookings, My Pros, Messages, and Account. Main headers will scroll with the content of the page.
+![](../.gitbook/assets/primary-header.png)
 
-![](../.gitbook/assets/main-header-image.png)
+**2.** [**Secondary Header \(m-header-secondary\)**](headers-1.md#secondary-headers)\*\*\*\*
 
-1. Clear label in title case.
+![](../.gitbook/assets/secondary-header.png)
+
+**3.** [**Section Header \(m-header-section\)**](headers-1.md#section-headers)\*\*\*\*
+
+![](../.gitbook/assets/section-header.png)
+
+**4.** [**Time Subheader \(m-subheader-time\)**](headers-1.md#time-subheader)\*\*\*\*
+
+![](../.gitbook/assets/time-subheader.png)
+
+## Main Headers
+
+Main Headers are components used on main pages like Bookings, My Pros, Messages, and Account. Main headers will scroll with the content of the page.
+
+![Main Header](../.gitbook/assets/main-header-image.png)
+
+**1. Header Label \(a-text-h1\)**
 
 ```text
-font-family: Circular - bold
+a-text-h1:
+font-family: bold
 font-size: 24px;
-font-color: #434343;
+font-color: text-black
 padding-left: 16px;
 padding-right: 16px;
 padding-top: 16px;
 ```
 
-    2.  Action Icons can be placed here if necessary to the tab. Icons should be 20x20
+**2.  Action Icons \(a-header-icon\)**  
+Action icons lead users to other flows and pages or allow users to make decisions on half sheets. They are optional.
 
-### Sub-Headers
+```text
+a-header-icon:
+max-height: 20px
+max-width: 20px
+```
+
+## Secondary Headers
 
 Sub-headers are subpages or flows that are navigated to from a main tab page. Examples include Booking Detail Pages, Pro Search, Pro Profile, or a Message Thread. Unlike main headers, sub-headers will stick to the top so users have a way to navigate away from the page.
 
 ![](../.gitbook/assets/subheader-image.png)
 
-1.Actions: carets, exit, etc
+**1. Navigation \(a-nav\)**  
+Helps user navigate away from the page they are currently on. 
 
 ```
-font-color: #434343;
-padding-left: 16px;
+a-nav:
+max-width: 16px
+[a-nav-left will be left aligned in the 16px column]
+color: text-black
+padding-left: 16px
+padding-right: 8px
 ```
 
-2. Clear label in title case,
+**2. Header Label \(a-text-h3\)**
 
 ```text
-font-family: Circular - bold
-font-size: 24px;
-font-color: #434343;
-padding-left: 16px (right of action)
-border-line: #E8EFF2; 
+a-text-h3:
+font-size: 24px
+font-weight: medium
+font-color: text-black
 ```
 
-3. Action Icons can be placed here if necessary to the tab. Icons should be 20x20
+**3. Divider Line \(a-divider-dark\)**  
+For easy viewing and consumption, subheaders will have divider lines.
+
+```text
+a-divider-light:
+max-width: 343px
+max-height: 1px
+color: slate-light-medium
+```
+
+**4.  Action Icons \(a-header-icon\)**  
+Action icons lead users to other flows and pages or allow users to make decisions on half sheets. They are optional.
+
+```text
+a-header-icon:
+max-height: 20px
+max-width: 20px
+```
+
+## Section Headers
+
+![Section Header](../.gitbook/assets/section-headers.png)
+
+**1. Header Label \(a-text-paragraph-medium\)**
+
+```text
+a-text-paragraph-medium:
+font-size: 16px
+font-weight: medium
+font-color: text-black
+```
+
+**2. Container**
+
+```text
+color: slate-light
+max-width: 100% 
+```
+
+## Time Subheader
+
+![Time Subheaer](../.gitbook/assets/time-subheader%20%281%29.png)
+
+**1. Date & Time \(a-text-paragraph\)**  
+Reflects the time chosen on the native time picker.
+
+```text
+a-text-paragraph:
+font-size: 16px
+font-weight: book
+font-color: text-black
+```
+
+**2. Divider Line \(a-divider-dark\)**  
+For easy viewing and consumption, subheaders will have divider lines.
+
+```text
+a-divider-light:
+max-width: 343px
+max-height: 1px
+color: slate-light-medium
+```
 
