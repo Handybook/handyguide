@@ -1,12 +1,21 @@
 ---
-description: Stylings and rules for the types of pickers on our platform.
+description: >-
+  Pickers allow users to select an option before taking an action. Pickers can
+  be found on booking flows and filters.
 ---
 
 # Pickers
 
+![](../.gitbook/assets/picker-overview.png)
+
+## Types of Pickers
+
+**1. Radio Pickers \(m-picker-radio\)**  
+Radio groups are used when the user has to select a single option from a short list.
+
 ## Radio Groups
 
-Radio groups are used when the user has to select a single option from a short list. For example, selecting bedrooms in the booking flow. Radio buttons describe complex choices or provide all the available options next to each other. Radio groups must be stacked vertically.
+For example, selecting bedrooms in the booking flow. Radio buttons describe complex choices or provide all the available options next to each other. Radio groups must be stacked vertically.
 
 ![](../.gitbook/assets/radio.png)
 
