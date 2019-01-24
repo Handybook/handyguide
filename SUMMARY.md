@@ -14,7 +14,7 @@
   * [Pickers](native/pickers.md)
   * [Text Field](native/text-field.md)
   * [Avatars](native/avatars.md)
-  * [Untitled](native/untitled.md)
+  * [Component](native/untitled.md)
   * [Section Headers](native/section-headers.md)
   * [Action Cards](native/action-cards/README.md)
     * [Booking Cards](native/action-cards/booking-cards.md)
