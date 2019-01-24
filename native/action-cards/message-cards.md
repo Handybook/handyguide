@@ -112,7 +112,7 @@ font-color: slate-dark
 a-text-subtitle:
 font-size: 12px
 font-weight: book
-font-color: slate-dark-medium
+font-color: slate-medium-dark
 padding-right: 32px
 ```
 
@@ -122,7 +122,7 @@ padding-right: 32px
 a-text-paragraph-tert:
 font-size: 16px
 font-weight: book
-font-color: slate-medium
+font-color: slate-medium-dark
 
 Padding:
 padding-left: 16px
