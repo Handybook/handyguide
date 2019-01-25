@@ -10,8 +10,21 @@ description: >-
 
 ## Types of Pickers
 
-**1. Radio Pickers \(m-picker-radio\)**  
-Radio groups are used when the user has to select a single option from a short list.
+\*\*\*\*[**1. Radio Pickers \(a-picker-radio\)**](pickers.md#radio-groups)
+
+![](../.gitbook/assets/radio-overview.png)
+
+\*\*\*\*[**2. Checkboxes \(a-picker-checkboxes\)**](pickers.md#checkboxes)
+
+![](../.gitbook/assets/checkbox-overview.png)
+
+\*\*\*\*[**3. Filter \(a-picker-filters\)**](pickers.md#filter)
+
+![](../.gitbook/assets/filter-overview.png)
+
+\*\*\*\*[**4. Toggle \(a-picker-toggle\)**](pickers.md#toggle)\*\*\*\*
+
+![](../.gitbook/assets/toggle-overview.png)
 
 ## Radio Groups
 
@@ -23,10 +36,10 @@ For example, selecting bedrooms in the booking flow. Radio buttons describe comp
 
 ```text
 border: 1px
-border-color: #0BB8E3 
+border-color: blue-medium
 
 Fill:
-color: #0BB8E3
+color: blue-medium
 size: 16px
 ```
 
@@ -34,14 +47,14 @@ size: 16px
 
 ```text
 border: 1px
-border-color: #C2CED3
+border-color: slate-medium
 ```
 
 3. Dividing Line:
 
 ```text
 border: 1px
-color: #DAE2E6
+color: slate-light
 width: 343px
 ```
 
@@ -55,7 +68,7 @@ Checkboxes are used when the user can select multiple options. For example, addi
 
 ```text
 border-radius: 3px
-color: #0BB8E3
+color: blue-medium
 ```
 
 2. Option:
@@ -63,14 +76,14 @@ color: #0BB8E3
 ```text
 border radius: 3px
 border: 1px
-border-color: #C2CED3
+border-color: slate-medium
 ```
 
 3. Dividing Line:
 
 ```text
 border: 1px
-color: #DAE2E6
+color: slate-light-medium
 width: 343px
 ```
 
@@ -83,9 +96,9 @@ Filter pickers are used when the user can only select one option, the options ar
 1. Current Selection: There cannot be multiple selections
 
 ```text
-fill: #0BB8E3
+fill: blue-medium
 text: Circular-book
-text-color: #ffffff (selected)
+text-color: white
 ```
 
 2. Corner Radius
@@ -98,13 +111,13 @@ border-radius: 5px
 
 ```text
 border: 1px
-border-color: #C2CED3
+border-color: slate-medium
 max-width: 343px
 
 Text:
 padding-top: 16px
 padding-bottom: 16px 
-text-color: #434343 (unselected)
+text-color: text-black
 ```
 
 ## Toggle
@@ -132,12 +145,14 @@ box-shadow: 0px 1px 1px rgba (0, 0, 0, .2)
 Pill
 max-height: 26px
 max-width: 46px
+color: blue-medium
 box-shadow: inset 0px 1px 3px rgba(0, 0, 0, .2)
-color: #0BB8E3
 
 Circle
 border: 1px
-border-color: #0BB8E3
+border-color: blue-medium
 box-shadow: 0px 1px 1px rgba (0, 0, 0, .2)
 ```
+
+
 
