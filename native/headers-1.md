@@ -1,10 +1,14 @@
 ---
 description: >-
   The header provides the core information that users need when first viewing
-  the page. The header component can be combined with actions.
+  the page.
 ---
 
 # Headers
+
+## Usage of Headers
+
+Headers are used to communicate what page \(tab\) a user is on. The header component can be combined with actions like searching, filtering a list, or changing a setting.
 
 ![](../.gitbook/assets/header-overview.png)
 

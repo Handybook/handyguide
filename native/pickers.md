@@ -1,10 +1,12 @@
 ---
-description: >-
-  Pickers allow users to select an option before taking an action. Pickers can
-  be found on booking flows and filters.
+description: 'Pickers can be radios, checkboxes, filters, and toggles.'
 ---
 
 # Pickers
+
+## Usage of Pickers
+
+Pickers allow users to select an option before taking an action. Pickers can be found on booking flows and filters.
 
 ![](../.gitbook/assets/picker-overview.png)
 
@@ -12,19 +14,19 @@ description: >-
 
 \*\*\*\*[**1. Radio Pickers \(a-picker-radio\)**](pickers.md#radio-groups)
 
-![](../.gitbook/assets/radio-overview.png)
+![](../.gitbook/assets/radio%20%281%29.png)
 
 \*\*\*\*[**2. Checkboxes \(a-picker-checkboxes\)**](pickers.md#checkboxes)
 
-![](../.gitbook/assets/checkbox-overview.png)
+![](../.gitbook/assets/checkbox.png)
 
 \*\*\*\*[**3. Filter \(a-picker-filters\)**](pickers.md#filter)
 
-![](../.gitbook/assets/filter-overview.png)
+![](../.gitbook/assets/picker-1.png)
 
 \*\*\*\*[**4. Toggle \(a-picker-toggle\)**](pickers.md#toggle)\*\*\*\*
 
-![](../.gitbook/assets/toggle-overview.png)
+![](../.gitbook/assets/toggle.png)
 
 ## Radio Groups
 
@@ -91,7 +93,7 @@ width: 343px
 
 Filter pickers are used when the user can only select one option, the options are short \(only one word or number\) and there are less than 5 options in total.
 
-![](../.gitbook/assets/filter.png)
+![](../.gitbook/assets/filter%20%282%29.png)
 
 1. Current Selection: There cannot be multiple selections
 
@@ -124,7 +126,7 @@ text-color: text-black
 
 Toggles are used specifically for settings & preferences \(Account, Pro Settings\) when the user has a choice turning a certain state on or off.
 
-![](../.gitbook/assets/toggle.png)
+![](../.gitbook/assets/toggle%20%281%29.png)
 
 1. Pill Structure: Off
 
