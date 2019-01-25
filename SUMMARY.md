@@ -21,6 +21,7 @@
   * [Settings](native/settings.md)
   * [Half Sheets](native/half-sheets.md)
   * [Modal](native/modal.md)
+  * [Banners](native/banners.md)
   * [Reviews](native/reviews.md)
   * [Icon Lists](native/icon-lists.md)
   * [Tabs](native/tabs.md)
