@@ -20,6 +20,7 @@
     * [Message Cards](native/action-cards/message-cards.md)
   * [Settings](native/settings.md)
   * [Half Sheets](native/half-sheets.md)
+  * [Modal](native/modal.md)
   * [Reviews](native/reviews.md)
   * [Icon Lists](native/icon-lists.md)
   * [Tabs](native/tabs.md)
