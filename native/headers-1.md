@@ -65,7 +65,7 @@ Sub-headers are subpages or flows that are navigated to from a main tab page. Ex
 ![](../.gitbook/assets/subheader-image.png)
 
 **1. Navigation \(a-nav\)**  
-Helps user navigate away from the page they are currently on. 
+Helps user navigate away from the page they are currently on. It would either be a back arrow or exit.  
 
 ```
 a-nav [a-nav-left will be left aligned in the 16px column]:
@@ -80,19 +80,24 @@ padding-right: 8px
 
 ```text
 a-text-h4:
-font-size: 16px
 font-weight: medium
+font-size: 16px
 font-color: text-black
+
+padding-top: 16px
+padding-bottom: 16px
 ```
 
 **3. Divider Line \(a-divider-dark\)**  
 For easy viewing and consumption, subheaders will have divider lines.
 
 ```text
-a-divider-light:
+a-divider-dark:
 max-width: 343px
 max-height: 1px
-color: slate-light-medium
+color: slate-medium-light
+
+padding-top: 16px
 ```
 
 **4.  Action Icons \(a-header-icon\)**  
@@ -108,13 +113,16 @@ max-width: 20px
 
 ![Section Header](../.gitbook/assets/section-headers.png)
 
-**1. Header Label \(a-text-paragraph-medium\)**
+**1. Header Label \(a-text-h4\)**
 
 ```text
-a-text-paragraph-medium:
-font-size: 16px
+a-text-h4:
 font-weight: medium
+font-size: 16px
 font-color: text-black
+
+padding-top: 8px
+padding-bottom: 8px
 ```
 
 **2. Container**
@@ -136,6 +144,9 @@ a-text-paragraph:
 font-size: 16px
 font-weight: book
 font-color: text-black
+
+padding-top: 12px
+padding-bottom: 12px
 ```
 
 **2. Divider Line \(a-divider-dark\)**  

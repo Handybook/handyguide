@@ -15,7 +15,7 @@ Handy's typography system uses different type weights and sizes of the Circular 
 \*\*\*\*[**1. Header 1 \(a-text-h1\)**](./#header-1-a-text-h-1)  
 [**2. Header 2 \(a-text-h2\)**](./#header-2-a-text-h-2)  
 [**3. Header 3 \(a-text-h3\)**](./#header-3-a-text-h-3)  
-**4. Header 4 \(a-text-h4\)**  
+****[**4. Header 4 \(a-text-h4\)**](./#header-4-a-text-h-4)  
 [**5. Button CTA \(a-text-button\)**](./#button-cta-a-text-button)  
 [**6. Paragraph \(a-text-paragraph\)**](./#paragraph-a-text-paragraph)  
 [**7. Tertiary \(a-text-tert\)**](./#tertiary-a-text-tert)  
