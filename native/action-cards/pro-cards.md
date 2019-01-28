@@ -36,20 +36,24 @@ Basic Pro Cards are found on the My Pros page. This page is a list of a user's p
 a-avatar-standard:
 max-height: 64px
 max-width: 64px
+padding-left: 16px
 padding-right: 16px
+padding-top: 24px
+padding-bottom: 24px
 ​
 a-heart (optional):
 max-height: 14px
 max-width: 14px
 ```
 
-**2. Pro Name \(a-text-h1\)**
+**2. Pro Name \(a-text-h3\)**
 
 ```text
-a-text-h1:
+a-text-h3:
 font-size: 16px
 font-weight: bold
 font-color: text-black
+padding-bottom: 4px
 ```
 
 **3. Pro Stats \(a-text-tert, a-icon-star\)**
@@ -83,6 +87,10 @@ Users can access pro search by clicking through from the My Pros page. They can 
 ![Pro Search Card](../../.gitbook/assets/pro-search-list.png)
 
 **1.** [**Basic Pro Card**](pro-cards.md#anatomy-of-basic-pro-card-m-card-pro)\*\*\*\*
+
+```text
+padding-bottom: 16px
+```
 
 **2. Active Status \(m-metadata-active, a-indicator, a-text-tert\)**
 
@@ -139,6 +147,7 @@ a-divider-light:
 max-width: 343px
 max-height: 1px
 color: slate-light
+padding-top: 24px
 ```
 
 ## Pro Search with Availability Card \(m-card-pro-availability\)
@@ -158,7 +167,7 @@ font-weight: book
 font-color: green-medium
 ```
 
-**2. Request or Not Available \(a-text-tert\)**
+**2. Request or Not Available \(a-text-tert-slate-dark-medium\)**
 
 ```text
 a-text-tert:
@@ -175,5 +184,6 @@ a-divider-light:
 max-width: 343px
 max-height: 1px
 color: slate-light
+padding-top: 24px
 ```
 
