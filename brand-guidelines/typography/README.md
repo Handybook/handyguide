@@ -15,12 +15,13 @@ Handy's typography system uses different type weights and sizes of the Circular 
 \*\*\*\*[**1. Header 1 \(a-text-h1\)**](./#header-1-a-text-h-1)  
 [**2. Header 2 \(a-text-h2\)**](./#header-2-a-text-h-2)  
 [**3. Header 3 \(a-text-h3\)**](./#header-3-a-text-h-3)  
-[**4. Button CTA \(a-text-button\)**](./#button-cta-a-text-button)  
-[**5. Paragraph \(a-text-paragraph\)**](./#paragraph-a-text-paragraph)  
-[**6. Tertiary \(a-text-tert\)**](./#tertiary-a-text-tert)  
-[**7. Subtitle 1 \(a-text-subtitle-1\)**](./#subtitle-1-a-text-subtitle-1)  
-[**8. Subtitle 2 \(a-text-subtitle-2\)**](./#subtitle-2-a-text-subtitle-2)  
-[**9. Label \(a-text-label\)**](./#label-a-text-label)
+**4. Header 4 \(a-text-h4\)**  
+[**5. Button CTA \(a-text-button\)**](./#button-cta-a-text-button)  
+[**6. Paragraph \(a-text-paragraph\)**](./#paragraph-a-text-paragraph)  
+[**7. Tertiary \(a-text-tert\)**](./#tertiary-a-text-tert)  
+[**8. Subtitle 1 \(a-text-subtitle-1\)**](./#subtitle-1-a-text-subtitle-1)  
+[**9. Subtitle 2 \(a-text-subtitle-2\)**](./#subtitle-2-a-text-subtitle-2)  
+[**10. Label \(a-text-label\)**](./#label-a-text-label)
 
 ![](../../.gitbook/assets/typography.png)
 
@@ -50,7 +51,7 @@ font-color: text-black
 
 ## Header 3 \(a-text-h3\)
 
-Header 3 styling is used on cards, tabs, reviews, product marketing, and subheader titles on pages.
+Header 3 styling is used on cards, tabs, reviews, and product marketing  titles on pages.
 
 ```text
 font-weight: bold
@@ -59,6 +60,18 @@ font-color: text-black
 ```
 
 ![](../../.gitbook/assets/a-text-h3.png)
+
+## Header 4 \(a-text-h4\)
+
+Header 4 styling is used in the subheader \(m-header-secondary\)
+
+```text
+font-weight: medium
+font-size: 16px
+font-color: text-black
+```
+
+![](../../.gitbook/assets/a-text-h4.png)
 
 ## Button CTA \(a-text-button\)
 

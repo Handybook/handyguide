@@ -29,7 +29,7 @@ When a user is sending the message to another message, that message will be popu
 1. Background
 
 ```text
-background: light-handy-blue 
+background: blue-light 
 border-radius: 5px
 
 m-message-sent-long:

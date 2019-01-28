@@ -43,6 +43,7 @@ a-text-h1:
 font-family: bold
 font-size: 24px;
 font-color: text-black
+
 padding-left: 16px;
 padding-right: 16px;
 padding-top: 16px;
@@ -67,19 +68,19 @@ Sub-headers are subpages or flows that are navigated to from a main tab page. Ex
 Helps user navigate away from the page they are currently on. 
 
 ```
-a-nav:
+a-nav [a-nav-left will be left aligned in the 16px column]:
 max-width: 16px
-[a-nav-left will be left aligned in the 16px column]
 color: text-black
+
 padding-left: 16px
 padding-right: 8px
 ```
 
-**2. Header Label \(a-text-h3\)**
+**2. Header Label \(a-text-h4\)**
 
 ```text
-a-text-h3:
-font-size: 24px
+a-text-h4:
+font-size: 16px
 font-weight: medium
 font-color: text-black
 ```
