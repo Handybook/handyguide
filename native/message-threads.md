@@ -8,7 +8,7 @@ description: Message Bubbles are populated with messages sent between pros and c
 
 Message bubbles include the message from the user and the time it was sent. Depending on the context and length of the messages, the style of message bubble changes.
 
-![](../.gitbook/assets/message-overview.png)
+![](../.gitbook/assets/message-overview%20%281%29.png)
 
 ## Types of Message Bubbles
 

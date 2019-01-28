@@ -14,39 +14,45 @@ Booking lists are made up of booking cards. Booking cards are used to represent 
 
 **1.** [**Booking Card \(m-card-booking\)**](booking-cards.md#anatomy-of-booking-card-m-card-booking)\*\*\*\*
 
-![Booking List](../../.gitbook/assets/booking-list.png)
+![](../../.gitbook/assets/booking-list.png)
 
 **2.** [**Active Booking Card \(m-card-booking-active\)**](booking-cards.md#anatomy-of-active-booking-states-m-card-booking-active)\*\*\*\*
 
-![Booking List with Active Booking Card](../../.gitbook/assets/active-booking-list.png)
+![](../../.gitbook/assets/active-booking-list.png)
 
 ## Anatomy of Booking Card \(m-card-booking\)
 
 ![](../../.gitbook/assets/booking-list_detail.png)
 
-**1. Booking Image \(a-avatar-bookings-cleaning\)**  
+**1. Booking Image \(a-avatar-bookings\)**  
 Adds a visual element to the card and represents the service. This image will change based on the service. Adopts avatar styling.
 
 ```text
-a-avatar-bookings-cleaning:
+a-avatar-bookings:
 max-height: 64px
 max-width: 64px
+
+padding-left: 16px
 padding-right: 16px
+padding-top: 24px
+padding-bottom: 16px
 ```
 
-**2. Booking Information \(a text-h1, a-text-tert\)**  
+**2. Booking Information \(a text-h3, a-text-tert\)**  
 Reflects key information about the booking. [**H1 styling**](../../brand-guidelines/typography/#h1-style) for the Date and [**Tertiary styling**](../../brand-guidelines/typography/#tertiary-styling) for the Time and Service Name.
 
 ```text
-a-text-h1:
+a-text-h3:
 font-size: 16px
 font-weight: bold
 font-color: text-black
+padding-bottom: 4px
 
 a-text-tert:
 font-size: 14px
 font-weight: book
 font-color: slate-dark-medium
+padding-bottom: 4px
 ```
 
 **3. Metadata \(m-metadata-partner, a-text-tert, a-icon-metadata\)**  
@@ -71,6 +77,7 @@ a-divider-light:
 max-width: 343px
 max-height: 1px
 color: slate-light
+padding-top: 24px
 ```
 
 ## Anatomy of Active Booking States \(m-card-booking-active\)
@@ -89,6 +96,7 @@ Visualization of the status of the booking.
 a-map:
 max-width: 343px
 max-height: 193px
+padding-top: 24px
 ```
 
 **3. Status Bar \(m-status\)**  
@@ -118,16 +126,15 @@ padding-left: 16px
 padding-right: 8px
 
 a-indicator colors:
--bad: red-medium
--good: blue-medium
+red-medium or blue-medium
 ```
 
 c. Status Text \(a-text-paragraph\)
 
 ```text
 a-text-paragraph:
-font-size: 16px
 font-weight: book
+font-size: 16px
 font-color: text-black
 ```
 

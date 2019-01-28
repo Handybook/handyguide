@@ -43,6 +43,8 @@ border-color: blue-medium
 Fill:
 color: blue-medium
 size: 16px
+
+padding-top: 16px
 ```
 
 2. Content Header \(a-text-paragraph\)
@@ -74,6 +76,8 @@ border-color: slate-medium
 border: 1px
 color: slate-light
 width: 343px
+
+padding-top: 16px
 ```
 
 ## Checkboxes
@@ -87,9 +91,27 @@ Checkboxes are used when the user can select multiple options. For example, addi
 ```text
 border-radius: 3px
 color: blue-medium
+
+padding-top: 16px
 ```
 
-2. Option:
+2. Content Header \(a-text-paragraph\)
+
+```text
+font-weight: book
+font-size: 16px
+font-color: text-black
+```
+
+3. Content \(a-text-paragraph\)
+
+```text
+font-weight: book
+font-size: 16px
+font-color: slate-dark
+```
+
+4. Unselected Option:
 
 ```text
 border radius: 3px
@@ -97,12 +119,14 @@ border: 1px
 border-color: slate-medium
 ```
 
-3. Dividing Line:
+5. Dividing Line:
 
 ```text
 border: 1px
 color: slate-light-medium
 width: 343px
+
+padding-top: 16px
 ```
 
 ## Filter
@@ -114,8 +138,12 @@ Filter pickers are used when the user can only select one option, the options ar
 1. Current Selection: There cannot be multiple selections
 
 ```text
-fill: blue-medium
-text: Circular-book
+Fill Color: 
+background: blue-medium
+
+Text (a-text-paragraph-white)
+font-weight: book
+font-size: 16px
 text-color: white
 ```
 
@@ -132,10 +160,13 @@ border: 1px
 border-color: slate-medium
 max-width: 343px
 
-Text:
+Text (a-text-paragraph):
+font-weight: book
+font-size: 16px
+text-color: text-black
+
 padding-top: 16px
 padding-bottom: 16px 
-text-color: text-black
 ```
 
 ## Toggle
