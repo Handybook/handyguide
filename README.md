@@ -12,6 +12,8 @@ This guide contains information about design standards for Handy's products.
 
 Yes, after a few months we finally found the answer. Sadly, Mike is on vacations right now so I'm afraid we are not able to provide the answer at this point. rgergergergergergerg
 
+Yes, after a few months we finally found the answer. Sadly, Mike is on vacations right now so I'm afraid we are not able to provide the answer at this point. rgegergerg
+
 ## Testing
 
 Testing to see if this is working

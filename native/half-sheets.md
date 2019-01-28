@@ -18,7 +18,7 @@ Half sheets display supplementary actions \(filtering a list\) or content \(from
 
 ![](../.gitbook/assets/action-half-sheet.png)
 
-2. Informational Half Sheet \(m-half\_sheet-info\)
+\*\*\*\*[**2. Informational Half Sheet \(m-half\_sheet-info\)**](half-sheets.md#informational-half-sheet-m-half_sheet-info)\*\*\*\*
 
 ![](../.gitbook/assets/info-half-sheet.png)
 

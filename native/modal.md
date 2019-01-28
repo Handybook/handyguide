@@ -10,7 +10,7 @@ Modals disable all app functionality and remain on the screen until a required a
 
 ![](../.gitbook/assets/modal-overview.png)
 
-## Modals \(m-modal\)
+## Anatomy of Modals \(m-modal\)
 
 Due to its disruptive nature, modals should be used sparingly. Examples include abandoned checkout,  Handy Select booking cancellation, late fees, plan cancellation, and sign out.
 

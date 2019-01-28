@@ -27,7 +27,7 @@ Pro cards give users key information about a professional. Depending of the cont
 **3.** [**Messages \(m-card-message\)**](message-cards.md)  
 Message cards reflect key information about the message received.
 
-![Message Cards](../../.gitbook/assets/message-overview.png)
+![Message Cards](../../.gitbook/assets/message-overview%20%281%29.png)
 
 
 

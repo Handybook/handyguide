@@ -1,3 +1,7 @@
+---
+description: Content paired with an icon.
+---
+
 # Icon Lists
 
 ## Icon Lists
