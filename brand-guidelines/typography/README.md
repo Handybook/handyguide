@@ -16,12 +16,13 @@ Handy's typography system uses different type weights and sizes of the Circular 
 [**2. Header 2 \(a-text-h2\)**](./#header-2-a-text-h-2)  
 [**3. Header 3 \(a-text-h3\)**](./#header-3-a-text-h-3)  
 ****[**4. Header 4 \(a-text-h4\)**](./#header-4-a-text-h-4)  
-[**5. Button CTA \(a-text-button\)**](./#button-cta-a-text-button)  
-[**6. Paragraph \(a-text-paragraph\)**](./#paragraph-a-text-paragraph)  
-[**7. Tertiary \(a-text-tert\)**](./#tertiary-a-text-tert)  
-[**8. Subtitle 1 \(a-text-subtitle-1\)**](./#subtitle-1-a-text-subtitle-1)  
-[**9. Subtitle 2 \(a-text-subtitle-2\)**](./#subtitle-2-a-text-subtitle-2)  
-[**10. Label \(a-text-label\)**](./#label-a-text-label)
+****[**5. Avatar \(a-text-avatar\)**](./#avatar-a-text-avatar)  
+****[**6. Button CTA \(a-text-button\)**](./#button-cta-a-text-button)  
+[**7. Paragraph \(a-text-paragraph\)**](./#paragraph-a-text-paragraph)  
+[**8. Tertiary \(a-text-tert\)**](./#tertiary-a-text-tert)  
+[**9. Subtitle 1 \(a-text-subtitle-1\)**](./#subtitle-1-a-text-subtitle-1)  
+[**10. Subtitle 2 \(a-text-subtitle-2\)**](./#subtitle-2-a-text-subtitle-2)  
+[**11. Label \(a-text-label\)**](./#label-a-text-label)
 
 ![](../../.gitbook/assets/typography.png)
 
@@ -73,21 +74,46 @@ font-color: text-black
 
 ![](../../.gitbook/assets/a-text-h4.png)
 
+## Avatar \(a-text-avatar\)
+
+Styling used in default customer avatars on the pro app.  
+_Variations: a-text-avatar-slate-dark_
+
+```text
+font-weight: book
+font-size: 24px
+
+a-text-avatar (regular avatars and m-card-messages-unread):
+font-color: text-black
+
+a-text-avatar-slate-dark (m-card-message-read)
+font-color: slate-dark
+```
+
+![](../../.gitbook/assets/a-text-avatar.png)
+
 ## Button CTA \(a-text-button\)
 
-Button CTA styling is used on major CTAs \(m-button-primary, m-button-secondary\)
+Button CTA styling is used on major CTAs \(m-button-primary, m-button-secondary\)  
+_Variations: a-text-button-white, a-text-button-blue-medium_
 
 ```text
 font-weight: book
 font-size: 20px
-font-color: white or blue-medium
+
+Primary CTAs (a-text-button-white)
+font-color: white
+
+Secondary CTA(a-text-button-blue-medium)
+font-color: blue-medium
 ```
 
 ![](../../.gitbook/assets/a-text-button.png)
 
 ## Paragraph \(a-text-paragraph\)
 
-Paragraph styling is used for body copy on pages. Can be found in a-picker, m-review. m-list, m-text\_field, m-message, m-half\_sheet, m-modal, m-banner, m-prod-marketing. Paragraph styles can be different colors depending on context. 
+Paragraph styling is used for body copy on pages. Can be found in a-picker, m-review. m-list, m-text\_field, m-message, m-half\_sheet, m-modal, m-banner, m-prod-marketing. Paragraph styles can be different colors depending on context.   
+_Variations: a-text-paragraph-blue-medium, a-text-paragraph-slate-dark, a-text-paragraph-slate-medium-dark, a-text-paragraph-white_
 
 ```text
 font-weight: book
@@ -110,7 +136,8 @@ font-color: white
 
 ## Tertiary \(a-text-tert\)
 
-Tertiary styling used for metadata \(m-metadata\) in cards
+Tertiary styling used for metadata \(m-metadata\) in cards  
+_Variations: a-text-tert-slate-dark, a-text-tert-green-medium_
 
 ```text
 font-weight: book
@@ -151,19 +178,20 @@ font-color: slate-medium-dark
 
 ## Label \(a-text-label\)
 
-Label styling is used in engaged text fields \(m-text\_field-filled\) or the navigation bar
+Label styling is used in engaged text fields \(m-text\_field-filled\) or the navigation bar  
+_Variations: a-text-label-slate-dark, a-text-label-slate-medium-dark, a-text-label-blue-medium_
 
 ```text
 font-weight: book
 font-size: 10px
 
-Text Field (m-text_field-filled)
+Text Field (m-text_field-filled):
 font-color: slate-dark
 
-Navigation - Inactive State (m-nav)
+Navigation - Inactive State (m-nav):
 font-color: slate-medium-dark
 
-Navigation - Active State (m-nav)
+Navigation - Active State (m-nav):
 font-color: blue-medium
 ```
 

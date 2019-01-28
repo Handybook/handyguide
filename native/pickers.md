@@ -45,14 +45,30 @@ color: blue-medium
 size: 16px
 ```
 
-2. Unselected Option:
+2. Content Header \(a-text-paragraph\)
+
+```text
+font-weight: book
+font-size: 16px
+font-color: text-black
+```
+
+3. Content \(a-text-paragraph\)
+
+```text
+font-weight: book
+font-size: 16px
+font-color: slate-dark
+```
+
+4. Unselected Option:
 
 ```text
 border: 1px
 border-color: slate-medium
 ```
 
-3. Dividing Line:
+5. Dividing Line:
 
 ```text
 border: 1px
