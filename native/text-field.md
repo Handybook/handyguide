@@ -1,59 +1,80 @@
-# Text Field
+# Text Fields
 
-## Text Field
+## Usage of Text Fields
 
-Text fields are used to allow users to enter, select, and search for text. Text fields are normally found within a form.
+Text fields allow users to enter text. Text fields are normally found within a form.
 
-### Unfilled
+![](../.gitbook/assets/group.png)
+
+## Types of Text Fields
+
+### Unfilled Text Fields
 
 ![](../.gitbook/assets/text-field.png)
 
-1. Label/Placeholder Text: Indicates what kind of information the field requires.
+**1. Label/Placeholder Text:** Indicates what kind of information the field requires.
 
 ```text
-font-family: Circular-book
-color: #607D90
-active color : #434343
+font-family: circular
+font-weight: book
+color: #667884 (medium-dark-slate)
+active color: #434343 (text-black)
 padding-left: 16px
+padding-top: 16px
+padding-bottom: 16px
 ```
 
-2. Structure:
+**2. Structure:** Container for content
 
 ```text
-border-radius: 5px;
-border: 1px;
-border: color: #C2CED3
+border-radius: 5px
+border: 1px
+border color: #C2CED3 (medium-slate)
 ```
 
-Input Area: This is where people enter text
+**3. Input Area:** This is where people enter text
 
 ```text
-background-color: #FBFBFB 
+background-color: #FBFBFB (off-white)
 ```
 
-### Filled
+### 
 
-![](../.gitbook/assets/filled-in-field.png)
+### Filled Text Fields
 
-1. Label - Indicates what kind of information the field requires.
+![](../.gitbook/assets/filled-in-field%20%281%29.png)
+
+**1. Label:**  Indicates what kind of information the field requires.
 
 ```text
+font-family: circular
 font-weight: book
 font-size: 10px 
-color: medium-dark-slate
+color: #667884 (medium-dark-slate)
 padding-left: 16px
 padding-top: 8px
 ```
 
-2. Input
+**2. Content:** User generated text
 
 ```text
+font-family: circular
 font-weight: book
 font-size: 16px 
-color: text-black
+color: #434343 (text-black)
 padding-left: 16px
 padding-bottom: 8px
 ```
 
+## Animation
 
+#### Long Form Text
+
+When a user taps into a long form text field, any placeholder copy should disappear so the user can start typing.
+
+#### Short Form Text
+
+When a user taps into an unfilled short text field, the Label should animate up to the left hand corner of the container \(see example below\). 
+
+![](../.gitbook/assets/text-field-animation.gif)
 

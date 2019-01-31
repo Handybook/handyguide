@@ -2,13 +2,13 @@
 description: Typography provides legible and consistent UI across the Handy Design system.
 ---
 
-# Typography
+# Native App Typography
 
 ## Handy Font
 
 Handy's typography system uses different type weights and sizes of the Circular font \(available for download below\). The systems enables content on pages to be clearly structured and easy to digest.
 
-{% file src="../../.gitbook/assets/circular.zip" caption="Circular Font" %}
+{% file src="../../../.gitbook/assets/circular.zip" caption="Circular Font" %}
 
 ## Typography System
 
@@ -24,7 +24,7 @@ Handy's typography system uses different type weights and sizes of the Circular 
 [**10. Subtitle 2 \(a-text-subtitle-2\)**](./#subtitle-2-a-text-subtitle-2)  
 [**11. Label \(a-text-label\)**](./#label-a-text-label)
 
-![](../../.gitbook/assets/typography.png)
+![](../../../.gitbook/assets/typography.png)
 
 ## Header 1 \(a-text-h1\)
 
@@ -36,7 +36,7 @@ font-size: 24px
 font-color: text-black
 ```
 
-![](../../.gitbook/assets/a-text-h1.png)
+![](../../../.gitbook/assets/a-text-h1.png)
 
 ## Header 2 \(a-text-h2\)
 
@@ -48,7 +48,7 @@ font-size: 20px
 font-color: text-black
 ```
 
-![](../../.gitbook/assets/a-text-h2.png)
+![](../../../.gitbook/assets/a-text-h2.png)
 
 ## Header 3 \(a-text-h3\)
 
@@ -60,7 +60,7 @@ font-size: 16px
 font-color: text-black
 ```
 
-![](../../.gitbook/assets/a-text-h3.png)
+![](../../../.gitbook/assets/a-text-h3.png)
 
 ## Header 4 \(a-text-h4\)
 
@@ -72,7 +72,7 @@ font-size: 16px
 font-color: text-black
 ```
 
-![](../../.gitbook/assets/a-text-h4.png)
+![](../../../.gitbook/assets/a-text-h4.png)
 
 ## Avatar \(a-text-avatar\)
 
@@ -90,7 +90,7 @@ a-text-avatar-slate-dark (m-card-message-read)
 font-color: slate-dark
 ```
 
-![](../../.gitbook/assets/a-text-avatar.png)
+![](../../../.gitbook/assets/a-text-avatar.png)
 
 ## Button CTA \(a-text-button\)
 
@@ -108,7 +108,7 @@ Secondary CTA(a-text-button-blue-medium)
 font-color: blue-medium
 ```
 
-![](../../.gitbook/assets/a-text-button.png)
+![](../../../.gitbook/assets/a-text-button.png)
 
 ## Paragraph \(a-text-paragraph\)
 
@@ -132,7 +132,7 @@ Banners (m-banner):
 font-color: white
 ```
 
-![](../../.gitbook/assets/a-text-paragraph.png)
+![](../../../.gitbook/assets/a-text-paragraph.png)
 
 ## Tertiary \(a-text-tert\)
 
@@ -150,7 +150,7 @@ Availability m-metadata
 font-color: slate-dark, green-medium
 ```
 
-![](../../.gitbook/assets/a-text-tert.png)
+![](../../../.gitbook/assets/a-text-tert.png)
 
 ## Subtitle 1 \(a-text-subtitle-1\)
 
@@ -162,7 +162,7 @@ font-size: 12px
 font-color: text-black
 ```
 
-![](../../.gitbook/assets/a-text-subtitle-1.png)
+![](../../../.gitbook/assets/a-text-subtitle-1.png)
 
 ## Subtitle 2 \(a-text-subtitle-2\)
 
@@ -174,7 +174,7 @@ font-size: 12px
 font-color: slate-medium-dark
 ```
 
-![](../../.gitbook/assets/a-text-subtitle-2.png)
+![](../../../.gitbook/assets/a-text-subtitle-2.png)
 
 ## Label \(a-text-label\)
 
@@ -195,5 +195,5 @@ Navigation - Active State (m-nav):
 font-color: blue-medium
 ```
 
-![](../../.gitbook/assets/a-text-label.png)
+![](../../../.gitbook/assets/a-text-label.png)
 
