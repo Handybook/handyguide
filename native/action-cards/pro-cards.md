@@ -28,7 +28,7 @@ Pro lists are made up of booking cards. Pro cards are used to give users a basic
 
 Basic Pro Cards are found on the My Pros page. This page is a list of a user's pro team members.
 
-![Basic Pro Card](../../.gitbook/assets/my-pro-card.png)
+![](../../.gitbook/assets/my-pro-card.png)
 
 **1. Avatar \(a-avatar-standard\)**
 
@@ -84,7 +84,7 @@ color: slate-light
 
 Users can access pro search by clicking through from the My Pros page. They can access pro profiles through pro search list component to book or add to their pro team. Pro list components have the minimum requirements of a pro card but also have some metadata \(max of 2\) to help customers differentiate pros from one another.
 
-![Pro Search Card](../../.gitbook/assets/pro-search-list.png)
+![](../../.gitbook/assets/pro-search-list.png)
 
 **1.** [**Basic Pro Card**](pro-cards.md#anatomy-of-basic-pro-card-m-card-pro)\*\*\*\*
 

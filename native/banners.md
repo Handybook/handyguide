@@ -31,6 +31,8 @@ font-weight: book
 font-size: 16px
 font-color: white
 padding-right: 16px
+padding-top: 12px
+padding-bottom: 12px
 ```
 
 3. Container
