@@ -1,8 +1,18 @@
+---
+description: Buttons communicate the action that will occur when a user taps them.
+---
+
 # Buttons
 
-## Buttons 
 
-Use buttons to trigger actions and links. Buttons can contain a clear label and an icon while links are always text.
+
+## Usage of Buttons
+
+ Buttons allow users to trigger an action. They may display text, icons, or both. They are either static or stick to the bottom of a page.  
+
+![](../.gitbook/assets/buttons-example.png)
+
+## Anatomy of Buttons
 
 ![](../.gitbook/assets/basic-button-rules.png)
 
