@@ -4,8 +4,6 @@ description: Buttons communicate the action that will occur when a user taps the
 
 # Buttons
 
-
-
 ## Usage of Buttons
 
  Buttons allow users to trigger an action. They may display text, icons, or both. They are either static or stick to the bottom of a page.  
