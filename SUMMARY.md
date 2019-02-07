@@ -11,7 +11,7 @@
   * [Pro App Brand](brand-guidelines/pro-app-brand.md)
 * [Consumer App](native/README.md)
   * [Headers](native/headers-1.md)
-  * [Buttons](native/buttons.md)
+  * [Call to Actions](native/buttons.md)
   * [Pickers](native/pickers.md)
   * [Text Fields](native/text-field.md)
   * [Avatars](native/avatars.md)

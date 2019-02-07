@@ -1,31 +1,88 @@
 ---
-description: Buttons communicate the action that will occur when a user taps them.
+description: >-
+  Call to Actions, or CTAs, communicate the action that will occur when a user
+  taps them.
 ---
 
-# Buttons
+# Call to Actions
 
-## Usage of Buttons
+## Usage of CTAs
 
- Buttons allow users to trigger an action. They may display text, icons, or both. They are either static or stick to the bottom of a page.  
+CTAs allow users to trigger an action. They may take the form of buttons, text links, or icon links. 
 
 ![](../.gitbook/assets/buttons-example.png)
 
-## Anatomy of Buttons
+## General CTA Guidelines
 
-![](../.gitbook/assets/basic-button-rules.png)
+1. Labels are always title case 
+2. Labels clear and succinct 
+3. Labels are verbs or adverbs that express the action the button will trigger
+4. Icons links should only be used when representing common paradigms
 
-1. Clear label in title case
-2. Icons can be used to convey meaning.
+![](../.gitbook/assets/button-right-wrong.png)
 
-### Writing Labels
+## Button CTAs
 
-Button labels are title case and have to clearly explain what happens when the button is activated.
+### Primary Button CTAs
 
-![](../.gitbook/assets/writing-labels.png)
+Opaque, primary CTA buttons are used for the most important action on a page. There should only be one primary CTA per page.
 
-### Primary CTAs
+![](../.gitbook/assets/group-6.png)
 
-The filled-out Primary CTA buttons are used for the most important action on a page. These button styles are used for primary CTAs:
+### Secondary Button CTAs
+
+Transparent secondary CTA buttons are used for subordinate actions. There can be multiple secondary CTAs per page. 
+
+![](../.gitbook/assets/secondary.png)
+
+## Other Types of CTAs
+
+### Text Links
+
+Text links are used for non-essential actions, like changes to existing content. 
+
+![](../.gitbook/assets/text-links.png)
+
+```text
+font: Circular-Book
+font-size: 16px
+font-color: #0BB8E3
+```
+
+### Icon Links
+
+Icon links are used in the header of certain pages to communicate the ability to execute common tasks, such as filtering a list. 
+
+![](../.gitbook/assets/icon-links.png)
+
+```text
+height: 20px 
+width: 20px
+color: #0BB8E3
+```
+
+### Keyboard CTA
+
+In flows where the keyboard is activated, there will be a custom button that moves the user forward in the low.
+
+![](../.gitbook/assets/keyboard.png)
+
+#### Container
+
+```text
+Background: #FFFFFF.
+max-height: 57px
+border-top: #E8EFF2
+```
+
+#### Text
+
+```text
+font-size: 20px
+font-color: #0BB8E3
+```
+
+## 
 
 ```text
 max-width: 343px
@@ -37,8 +94,6 @@ font-family: Circular
 font-size: 20px;
 font-color: #FFFFFF
 ```
-
-![Primary CTA](../.gitbook/assets/primary-cta.png)
 
 ### Secondary CTA
 
@@ -55,8 +110,6 @@ font-family: Circular
 font-size: 20px;
 font-color: #0BB8E3
 ```
-
-![Secondary CTA](../.gitbook/assets/secondary-cta.png)
 
 ### Sizes for Primary & Secondary CTAs
 
@@ -75,25 +128,13 @@ font-size: 20px;
 font-color: #0BB8E3
 ```
 
-### Link CTAs
-
-The text button is applied as a subtle call to action.
-
-```text
-font: Circular-Book
-font-size: 16px
-font-color: #0BB8E3
-```
-
-![Link CTAs](../.gitbook/assets/text-button.png)
-
 ### Disabled Buttons
 
 If an action must be take on a page before moving onto the next page, buttons need to be disabled. We need to convey to the user that an action must be taken before moving forward.
 
 ![Disabled CTAs](../.gitbook/assets/disabled-button.png)
 
-## Tertiary Button Sizes
+## Small Button Sizes
 
 For product marketing components and small touch points throughout the app.
 
@@ -155,27 +196,4 @@ border-top: #E8EFF2
   2. Button: Primary button styles will be applied here
 
 ![Example of scroll page CTA \(Pro Profile\)](../.gitbook/assets/example-of-scroll-ex.png)
-
-### Keyboard CTA
-
-In flows where the keyboard is activated, there will be a custom button that moves the user forward in the low.
-
-![](../.gitbook/assets/keyboard-cta.png)
-
-1. Container:
-
-```text
-Background: #FFFFFF.
-max-height: 57px
-border-top: #E8EFF2
-```
-
-   2. Button
-
-```text
-font-size: 20px
-font-color: #0BB8E3
-```
-
-![Example of CTA on a keyboard](../.gitbook/assets/keyboard-ex.png)
 
