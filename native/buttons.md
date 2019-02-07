@@ -25,15 +25,98 @@ CTAs allow users to trigger an action. They may take the form of buttons, text l
 
 ### Primary Button CTAs
 
-Opaque, primary CTA buttons are used for the most important action on a page. There should only be one primary CTA per page.
+Opaque, primary CTA buttons are used for the most important action on a page. There should only be one primary CTA per page. When the content is longer than the page and scroll is enabled, primary buttons sit in a container that sticks to the bottom of the page. 
 
 ![](../.gitbook/assets/group-6.png)
+
+#### Button Properties \(Enabled\)
+
+```text
+max-width: 343px
+max-height: 57px
+border-radius: 5px
+color: #0BB8E3
+font-family: Circular
+font-size: 20px;
+font-color: #FFFFFF
+```
+
+#### Button Properties \(Disabled\)
+
+If an action must be take on a page before moving onto the next page, buttons need to be disabled. We need to convey to the user that an action must be taken before moving forward.
+
+```text
+color: #0BB8E3
+opacity: 0.4
+```
+
+#### Sticky Container Properties
+
+```text
+max-height: 89px
+padding: 16px
+border-top: #E8EFF2
+background-color: *match to page background*
+```
+
+### 
 
 ### Secondary Button CTAs
 
 Transparent secondary CTA buttons are used for subordinate actions. There can be multiple secondary CTAs per page. 
 
 ![](../.gitbook/assets/secondary.png)
+
+#### Button Properties
+
+```text
+max-width: 343px
+max-height: 57px
+border-radius: 5px
+border: 1px
+border-color: #0BB8E3
+font-family: Circular
+font-size: 20px;
+font-color: #0BB8E3
+```
+
+#### Button Properties \(Disabled\)
+
+ If an action must be take on a page before moving onto the next page, buttons need to be disabled. We need to convey to the user that an action must be taken before moving forward.
+
+```text
+border-color: #0BB8E3
+font-color: #0BB8E3
+opactiy: 0.4
+```
+
+### 
+
+### Small Buttons CTAs
+
+In instances where primary and secondary CTAs need to be smaller, these styles can be used.
+
+#### Half-Size Buttons
+
+```text
+max-height: 44px
+width: 167.5px
+border-radius: 3px
+border: 1px
+font-family: Circular
+font-size: 16px;
+```
+
+#### Small Buttons
+
+```text
+max-height: 44px
+width: 109px
+border-radius: 3px
+border: 1px
+font-family: Circular
+font-size: 16px
+```
 
 ## Other Types of CTAs
 
@@ -49,6 +132,8 @@ font-size: 16px
 font-color: #0BB8E3
 ```
 
+### 
+
 ### Icon Links
 
 Icon links are used in the header of certain pages to communicate the ability to execute common tasks, such as filtering a list. 
@@ -60,6 +145,8 @@ height: 20px
 width: 20px
 color: #0BB8E3
 ```
+
+### 
 
 ### Keyboard CTA
 
@@ -81,119 +168,4 @@ border-top: #E8EFF2
 font-size: 20px
 font-color: #0BB8E3
 ```
-
-## 
-
-```text
-max-width: 343px
-max-height: 57px
-border-radius: 5px
-color: #0BB8E3
-
-font-family: Circular
-font-size: 20px;
-font-color: #FFFFFF
-```
-
-### Secondary CTA
-
-The transparent secondary button with a thin stroke is used for subordinate actions.
-
-```text
-max-width: 343px
-max-height: 57px
-border-radius: 5px
-border: 1px
-border-color: #0BB8E3
-
-font-family: Circular
-font-size: 20px;
-font-color: #0BB8E3
-```
-
-### Sizes for Primary & Secondary CTAs
-
-In instances where primary and secondary CTAs need to be smaller, these styles can be used.
-
-```text
-Primary:
-max-width: 167.5px
-max-height: 44px
-border-radius: 5px
-border: 1px
-border-color: #0BB8E3
-
-font-family: Circular
-font-size: 20px;
-font-color: #0BB8E3
-```
-
-### Disabled Buttons
-
-If an action must be take on a page before moving onto the next page, buttons need to be disabled. We need to convey to the user that an action must be taken before moving forward.
-
-![Disabled CTAs](../.gitbook/assets/disabled-button.png)
-
-## Small Button Sizes
-
-For product marketing components and small touch points throughout the app.
-
-Small:
-
-```text
-font-size: 16px
-height: 44px
-width: 109px
-```
-
-![Small CTAs](../.gitbook/assets/small-cta.png)
-
-Medium:
-
-```text
-font-size: 16px
-height: 44px
-width: 167.5px
-```
-
-![](../.gitbook/assets/medium-cta.png)
-
-## Button Groups
-
-There are some instances where there are multiple actions on a single page. The number of buttons should be easy for the user to grasp.
-
-### Primary & Secondary Button Groups
-
-A single, important action can be emphasized as the primary button in order to guide the user.
-
-![Button Group Styles](../.gitbook/assets/sec-button-group%20%281%29.png)
-
-### Secondary Button Groups
-
-Unlike primary CTAs, secondary CTAs can be combined together.
-
-![Secondary Button Group](../.gitbook/assets/sec-button-group.png)
-
-## Other CTA Styles
-
-We have button styles in set for certain types of pages.
-
-### Scroll Page
-
-In pages that have a scroll view \(Pro Profiles\), the primary CTA will be in a container and the content on the page will scroll underneath it.
-
-![](../.gitbook/assets/scroll-page.png)
-
-1. Container:
-   * Background: Container background will always adapt to the background of the page the component is on.
-
-```text
-max-height: 89px. 
-padding: 16px
-border-top: #E8EFF2
-```
-
-  2. Button: Primary button styles will be applied here
-
-![Example of scroll page CTA \(Pro Profile\)](../.gitbook/assets/example-of-scroll-ex.png)
 
