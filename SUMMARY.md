@@ -3,6 +3,7 @@
 * [Intro](README.md)
 * [Brand Guidelines](brand-guidelines/README.md)
   * [Color System](brand-guidelines/color-system.md)
+  * [Logo](brand-guidelines/logo.md)
   * [Iconography](brand-guidelines/iconography.md)
   * [Typography](brand-guidelines/typography-1/README.md)
     * [Native App Typography](brand-guidelines/typography-1/typography/README.md)
