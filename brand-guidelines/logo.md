@@ -1,7 +1,7 @@
 ---
 description: >-
   The Handy logo is an ambigram, which means it can be read upside down as well
-  as rightside up. The logo is rotated 12 degrees
+  as rightside up. The logo is rotated 12 degrees.
 ---
 
 # Logo
