@@ -8,8 +8,6 @@
   * [Typography](brand-guidelines/typography-1/README.md)
     * [Native App Typography](brand-guidelines/typography-1/typography/README.md)
       * [Text Combinations](brand-guidelines/typography-1/typography/text-combinations.md)
-  * [Consumer App Brand](brand-guidelines/consumer-app-brand.md)
-  * [Pro App Brand](brand-guidelines/pro-app-brand.md)
 * [Consumer App](native/README.md)
   * [Headers](native/headers-1.md)
   * [Call to Actions](native/buttons.md)
