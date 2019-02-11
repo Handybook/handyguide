@@ -20,6 +20,12 @@ In general, do not alter the logo itself beyond changing the fill color. The log
 
 ![](../.gitbook/assets/logo-nos.png)
 
+## Logo Add Ons
+
+Logo add ons can be used to add marketing blurbs or to help differentiate Handy properties \(Handy Pro app\). The add on must be in Circular Medium.
+
+![](../.gitbook/assets/screen_shot_2019-02-11_at_3.21.39_pm.png)
+
 ## Downloads 
 
 #### Illustrator
