@@ -94,3 +94,11 @@ Color helps distinguishes our brand and helps us to create consistent experience
 | ![Medium-Dark-Slate: \#9CABB5](../.gitbook/assets/medium-dark-slate.png) | Slate-Medium-Dark | \#9CABB5 | 156, 171, 181 |
 | ![Dark-Slate: \#667884](../.gitbook/assets/dark-slate.png) | Slate-Dark | \#851919 | 102, 120, 132 |
 
+## Supporting Colors
+
+| Color | Name | Hex Code | RGB |
+| :--- | :--- | :--- | :--- |
+| ![](../.gitbook/assets/image.png) | Off-White | \#FBFBFB | 251, 251, 251 |
+| ![](../.gitbook/assets/image%20%286%29.png) | Dark-White | \#F4F4F4 | 244, 244, 244 |
+| ![](../.gitbook/assets/image%20%282%29.png) | Text-Black | \#434343 | 67, 67, 67 |
+
