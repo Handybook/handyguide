@@ -3,6 +3,7 @@
 * [Intro](README.md)
 * [Brand Guidelines](brand-guidelines/README.md)
   * [Color System](brand-guidelines/color-system.md)
+  * [Color System 2](brand-guidelines/color-system-2.md)
   * [Logo](brand-guidelines/logo.md)
   * [Iconography](brand-guidelines/iconography.md)
   * [Typography](brand-guidelines/typography-1/README.md)

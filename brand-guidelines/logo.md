@@ -1,12 +1,14 @@
 ---
 description: >-
-  The Handy logo is an ambigram, which means it can be read upside down as well
-  as rightside up. The logo is rotated 12 degrees.
+  The logo is an ambigram, meaning that it also reads Handy upside down. This
+  communicates the versatility, consistency and efficiency of the service.
 ---
 
 # Logo
 
 ## Logo Usage
+
+There are no predetermined sizes for the Handy logo. Scale and proportion should be determined by the available space, aesthetics, function and visibility. There is no preset maximum size for the logo. Minimum sizes are as shown here.
 
 Use the logo in Handy blue against white, white against a solid color, or white against a darkened image or video. When using the logo in white, make sure there is enough contrast in the background so that the logo remains clear and legible. Be sure to leave enough space around the logo for it to breathe.
 

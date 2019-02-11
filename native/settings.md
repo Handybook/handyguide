@@ -8,11 +8,11 @@ description: Settings component allow users to take actions or go through flows.
 
 Settings components can be stacked to make a list on pages where users can take multiple actions. The list should be easy to scan and should have a clear label. 
 
-![](../.gitbook/assets/settings-over-view.png)
+![](../.gitbook/assets/settings.png)
 
 ## Anatomy of Settings
 
-![](../.gitbook/assets/settings-over-view%20%281%29.png)
+![](../.gitbook/assets/settings-over-view.png)
 
 **1. Title \(a-text-paragraph\)**
 
