@@ -4,6 +4,8 @@ description: Handy's color palette
 
 # Color System
 
+
+
 ## Color System
 
 Color helps distinguishes our brand and helps us to create consistent experiences across the Handy platform
