@@ -32,10 +32,11 @@ Opaque, primary CTA buttons are used for the most important action on a page. Th
 #### Button Properties \(Enabled\)
 
 ```text
-max-width: 343px
+max-width: 100% (343px)
 max-height: 57px
-border-radius: 5px
-color: #0BB8E3
+radius: 5px
+color: blue-medium
+
 font-family: Circular
 font-size: 20px;
 font-color: #FFFFFF
@@ -46,7 +47,7 @@ font-color: #FFFFFF
 If an action must be take on a page before moving onto the next page, buttons need to be disabled. We need to convey to the user that an action must be taken before moving forward.
 
 ```text
-color: #0BB8E3
+color: blue-medium
 opacity: 0.4
 ```
 
@@ -55,8 +56,13 @@ opacity: 0.4
 ```text
 max-height: 89px
 padding: 16px
-border-top: #E8EFF2
 background-color: *match to page background*
+
+Dividing Line: (a-divider-dark-375)
+border: 1px
+color: slate-light-medium
+width: 100% (375px)
+padding-top: 16px
 ```
 
 ### 
@@ -74,10 +80,10 @@ max-width: 343px
 max-height: 57px
 border-radius: 5px
 border: 1px
-border-color: #0BB8E3
+border-color: blue-medium
 font-family: Circular
 font-size: 20px;
-font-color: #0BB8E3
+font-color: blue-medium
 ```
 
 #### Button Properties \(Disabled\)
@@ -85,8 +91,8 @@ font-color: #0BB8E3
  If an action must be take on a page before moving onto the next page, buttons need to be disabled. We need to convey to the user that an action must be taken before moving forward.
 
 ```text
-border-color: #0BB8E3
-font-color: #0BB8E3
+border-color: blue-medium
+font-color: blue-medium
 opactiy: 0.4
 ```
 
@@ -129,7 +135,7 @@ Text links are used for non-essential actions, like changes to existing content.
 ```text
 font: Circular-Book
 font-size: 16px
-font-color: #0BB8E3
+font-color: blue-medium
 ```
 
 ### 
@@ -143,7 +149,7 @@ Icon links are used in the header of certain pages to communicate the ability to
 ```text
 height: 20px 
 width: 20px
-color: #0BB8E3
+color: blue-medium
 ```
 
 ### 
@@ -152,20 +158,25 @@ color: #0BB8E3
 
 In flows where the keyboard is activated, there will be a custom button that moves the user forward in the low.
 
-![](../.gitbook/assets/keyboard.png)
+![](../.gitbook/assets/keyboard-cta-overview.png)
 
 #### Container
 
 ```text
-Background: #FFFFFF.
+Background: white
 max-height: 57px
-border-top: #E8EFF2
+
+Dividing Line: (a-divider-dark-375)
+border: 1px
+color: slate-light-medium
+width: 100% (375px)
+padding-top: 16px
 ```
 
 #### Text
 
 ```text
 font-size: 20px
-font-color: #0BB8E3
+font-color: blue-medium
 ```
 
