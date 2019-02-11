@@ -8,7 +8,7 @@ description: Banners display a message
 
 Banners are used to confirm an action taken.  Banner can be sticky or temporary banners and will share the same styling.
 
-![](../.gitbook/assets/banner-overview.png)
+![](../.gitbook/assets/banner-view.png)
 
 ## Banners \(m-banner\)
 
@@ -45,4 +45,10 @@ Confirmations: green-medium
 Warnings: yellow-medium-dark
 Errors: red-medium
 ```
+
+## Temporary Banner Animation
+
+Temporary banners will slide over the header and slide back up. 
+
+![](../.gitbook/assets/banner.gif)
 
