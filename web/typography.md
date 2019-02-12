@@ -21,7 +21,7 @@ For screens larger than 1024px wide.
 
 For screens smaller than 1024px wide.
 
-![](../.gitbook/assets/smaller.png)
+![](../.gitbook/assets/smaller%20%281%29.png)
 
 | Name |  | Font | Line Spacing |
 | :--- | :--- | :--- | :--- |
