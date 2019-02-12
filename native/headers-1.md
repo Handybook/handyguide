@@ -24,7 +24,7 @@ Headers are used to communicate what page \(tab\) a user is on. The header compo
 
 **3.** [**Section Header \(m-header-section\)**](headers-1.md#section-headers)\*\*\*\*
 
-![](../.gitbook/assets/section-header.png)
+![](../.gitbook/assets/section-header%20%281%29.png)
 
 **4.** [**Time Subheader \(m-subheader-time\)**](headers-1.md#time-subheader)\*\*\*\*
 
