@@ -18,25 +18,27 @@ Naming conventions for icon lists in the Sketch Master Symbols file.
 
 ## Anatomy of Icon Lists
 
-![](../.gitbook/assets/icon-lists.png)
+![](../.gitbook/assets/m-list-cr.png)
 
 ### 1. Icon \(a-cr\_icons/...\)
 
 ```text
-max-width: 51px
+max-width: 50.5px
 padding-left: 16px
-padding-right: 16px
+padding-right: 8px
 fill-color: #667884
 ```
 
-![](../.gitbook/assets/icon-padding.png)
-
 ### 2. Text
 
-
+Optional: Bold text for list item title
 
 ```text
+top-padding: 8px
+bottom-padding: 8px
 padding-right: 16px
+font-size: 16pt
+font-color: #434343
 ```
 
 
