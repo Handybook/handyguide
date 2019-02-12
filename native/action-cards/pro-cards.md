@@ -173,7 +173,7 @@ font-color: green-medium
 a-text-tert:
 font-size: 14px
 font-weight: book
-font-color: slate-dark-medium
+font-color: slate-medium-dark
 ```
 
 **3. Divider Line \(a-divider-light\)**  

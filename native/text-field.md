@@ -15,10 +15,10 @@ Text fields allow users to enter text. Text fields are normally found within a f
 **1. Label/Placeholder Text:** Indicates what kind of information the field requires.
 
 ```text
-font-family: circular
-font-weight: book
-color: #667884 (medium-dark-slate)
-active color: #434343 (text-black)
+font-family: Circular
+font-weight: Book
+color: slate-medium-dark
+active color: text-black
 padding-left: 16px
 padding-top: 16px
 padding-bottom: 16px
@@ -29,13 +29,13 @@ padding-bottom: 16px
 ```text
 border-radius: 5px
 border: 1px
-border color: #C2CED3 (medium-slate)
+border color: slate-medium
 ```
 
 **3. Input Area:** This is where people enter text
 
 ```text
-background-color: #FBFBFB (off-white)
+background-color: off-white
 ```
 
 ### 
@@ -50,7 +50,7 @@ background-color: #FBFBFB (off-white)
 font-family: circular
 font-weight: book
 font-size: 10px 
-color: #667884 (medium-dark-slate)
+color: slate-medium-dark
 padding-left: 16px
 padding-top: 8px
 ```
@@ -61,7 +61,7 @@ padding-top: 8px
 font-family: circular
 font-weight: book
 font-size: 16px 
-color: #434343 (text-black)
+color: text-black
 padding-left: 16px
 padding-bottom: 8px
 ```

@@ -51,7 +51,7 @@ padding-bottom: 4px
 a-text-tert:
 font-size: 14px
 font-weight: book
-font-color: slate-dark-medium
+font-color: slate-medium-dark
 padding-bottom: 4px
 ```
 

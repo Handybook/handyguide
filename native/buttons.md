@@ -1,18 +1,16 @@
 ---
-description: >-
-  Call to Actions, or CTAs, communicate the action that will occur when a user
-  taps them.
+description: Buttons communicate the action that will occur when a user taps them.
 ---
 
-# Call to Actions
+# Buttons
 
-## Usage of CTAs
+## Usage of Buttons
 
-CTAs allow users to trigger an action. They may take the form of buttons, text links, or icon links. 
+Buttons allow users to trigger an action. They may take the form of buttons, text links, or icon links. 
 
 ![](../.gitbook/assets/buttons-example.png)
 
-## General CTA Guidelines
+## General Button Guidelines
 
 1. Labels are always title case 
 2. Labels clear and succinct 
@@ -25,7 +23,7 @@ CTAs allow users to trigger an action. They may take the form of buttons, text l
 
 ### Primary Button CTAs
 
-Opaque, primary CTA buttons are used for the most important action on a page. There should only be one primary CTA per page. When the content is longer than the page and scroll is enabled, primary buttons sit in a container that sticks to the bottom of the page. 
+Opaque, primary buttons are used for the most important action on a page. There should only be one primary button per page. When the content is longer than the page and scroll is enabled, primary buttons sit in a container that sticks to the bottom of the page. 
 
 ![](../.gitbook/assets/group-6.png)
 
@@ -60,7 +58,7 @@ background-color: *match to page background*
 
 Dividing Line: (a-divider-dark-375)
 border: 1px
-color: slate-light-medium
+color: slate-medium-light
 width: 100% (375px)
 padding-top: 16px
 ```
@@ -168,7 +166,7 @@ max-height: 57px
 
 Dividing Line: (a-divider-dark-375)
 border: 1px
-color: slate-light-medium
+color: slate-medium-light
 width: 100% (375px)
 padding-top: 16px
 ```

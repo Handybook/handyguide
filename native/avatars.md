@@ -40,8 +40,8 @@ max-height: 64px
 2. Status: When a pro is favorited, the status will be represented by a heart. 
 
 ```text
-max-width: 14px;
-max-height: 14px;
+max-width: 14px
+max-height: 14px
 ```
 
 ## Default Avatars \(a-avatar-pro-default\)

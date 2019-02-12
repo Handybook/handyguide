@@ -10,7 +10,7 @@
       * [Text Combinations](brand-guidelines/typography-1/typography/text-combinations.md)
 * [Consumer App](native/README.md)
   * [Headers](native/headers-1.md)
-  * [Call to Actions](native/buttons.md)
+  * [Buttons](native/buttons.md)
   * [Pickers](native/pickers.md)
   * [Text Fields](native/text-field.md)
   * [Avatars](native/avatars.md)

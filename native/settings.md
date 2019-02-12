@@ -32,7 +32,7 @@ max-width: 65.89% (226px)
 ```text
 font-size: 16px
 font-weight: book
-font-color: #667884
+font-color: slate-dark
 padding-right: 8px
 
 max-width: 27.4% (94px)

@@ -156,6 +156,6 @@ For easy viewing and consumption, subheaders will have divider lines.
 a-divider-light:
 max-width: 343px
 max-height: 1px
-color: slate-light-medium
+color: slate-medium-light
 ```
 
