@@ -29,10 +29,6 @@ Designs must flex for both desktop and mobile web, but initial designs should be
 ![](../.gitbook/assets/1024-tablet.png)
 {% endtab %}
 
-{% tab title="640px Large Phone" %}
-
-{% endtab %}
-
 {% tab title="375px iPhone" %}
 
 

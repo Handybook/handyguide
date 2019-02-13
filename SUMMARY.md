@@ -33,7 +33,6 @@
   * [Buttons](web/buttons.md)
   * [Pickers](web/pickers.md)
   * [Input Fields](web/input-fields.md)
-  * [Drop Downs](web/drop-downs.md)
 * [Design Best Practices](design-best-practices/README.md)
   * [Master Files](design-best-practices/untitled.md)
   * [Color Management](design-best-practices/colorsystem.md)
