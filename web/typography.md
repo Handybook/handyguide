@@ -35,6 +35,6 @@ For screens smaller than 1024px wide.
 | H1 | ![](../.gitbook/assets/hero-text%20%281%29.png) | Circular-Bold 28pt | 1 |
 | H2 | ![](../.gitbook/assets/section-header%20%282%29.png) | Circular-Book 24pt | 1 |
 | H3 | ![](../.gitbook/assets/sub-header.png) | Circular-Book 20pt | 1 |
-| Title | ![](../.gitbook/assets/title.png) | Circular-Bold  20pt | 1 |
+| Title | ![](../.gitbook/assets/title.png) | Circular-Bold  18pt | 1 |
 | P | ![](../.gitbook/assets/paragraph-text-size..png) | Circular-Book 16pt | 1.5 |
 

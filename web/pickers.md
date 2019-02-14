@@ -16,6 +16,8 @@ Drop down menus allow users to quickly navigate to relevant pages. They are used
 
 ![](../.gitbook/assets/dropdown-menu%20%281%29.png)
 
+### Menu Design
+
 ![](../.gitbook/assets/dropdown-menu.gif)
 
 ## Steppers
