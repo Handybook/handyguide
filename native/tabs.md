@@ -31,7 +31,7 @@ padding-top: 16px
 ```text
 font-weight: book
 font-size: 16px
-font-color: medium-dark-slate
+font-color: slate-dark
 
 padding-top: 16px
 padding-bottom: 18px
@@ -40,7 +40,7 @@ padding-bottom: 18px
 3. Indicator
 
 ```text
-color: medium-handy-blue
+color: blue-medium
 max-width: 50%
 max-height: 2px
 

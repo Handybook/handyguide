@@ -65,7 +65,7 @@ font-color: slate-dark
 padding-bottom: 16px
 ```
 
-## Received Messages m-message-received
+## Received Messages \(m-message-received\)
 
 Received messages will adopt most of the stylings of sent messages.
 
