@@ -8,11 +8,46 @@ description: Product marketing components contain marketing or promotional conte
 
 Marketing components are used to highlight different feature of the app or advertise a promotion. 
 
+![](../.gitbook/assets/product-marketing-overview.png)
+
+## Types of Marketing Components
+
+\*\*\*\*[**1. Announcements \(m-marketing-announcement\)** ](marketing.md#announcements-m-marketing-announcement)
+
+![](../.gitbook/assets/announcement.png)
+
+\*\*\*\*[**2. Feature \(m-marketing-feature\)**](marketing.md#feature-marketing-m-marketing-feature)
+
+![](../.gitbook/assets/feature.png)
+
 ## Announcements \(m-marketing-announcement\)
 
-Announcement components are used for promotional content like discounts on services.
+Announcement components are used for promotional content like discounts on services. The design can be illustration or photography and it must contain clear copy and a CTA.
 
-## Product Marketing \(m-marketing-feature\) 
+![](../.gitbook/assets/announcment-deepdive.png)
+
+1. Container
+
+```text
+max-width: 100% (343px)
+max-height: 193px
+```
+
+2. Copy for the announcement must be very clear. For promotions, the discount must be emphasized.
+
+3. CTA  
+The Small Size buttons can be used in the creative. The color can be anything in the Handy palette.
+
+```text
+max-height: 44px
+width: 109px
+border-radius: 3px
+border: 1px
+font-family: Circular
+font-size: 16px
+```
+
+## Feature Marketing \(m-marketing-feature\) 
 
 Product Marketing components are used to promote different features of the app, such as Pro Search or one-time cleaning bookings.
 
