@@ -39,7 +39,7 @@ padding-bottom: 16px
 ```
 
 **2. Booking Information \(a text-h3, a-text-tert\)**  
-Reflects key information about the booking. [**H1 styling**](../../brand-guidelines/typography-1/typography/#h1-style) for the Date and [**Tertiary styling**](../../brand-guidelines/typography-1/typography/#tertiary-styling) for the Time and Service Name.
+Reflects key information about the booking. [**H1 styling**](../../brand-guidelines/typography-1/typography.md#h1-style) for the Date and [**Tertiary styling**](../../brand-guidelines/typography-1/typography.md#tertiary-styling) for the Time and Service Name.
 
 ```text
 a-text-h3:
@@ -56,7 +56,7 @@ padding-bottom: 4px
 ```
 
 **3. Metadata \(m-metadata-partner, a-text-tert, a-icon-metadata\)**  
-[**Tertiary styling**](../../brand-guidelines/typography-1/typography/#tertiary-styling) is used for metadata. Metatdata is only shown  if the booking is made through one of Handy's partners \(Wayfair, Walmart, HomeAdvisor, etc\). Partner bookings will be differentiated by the partner's logo. 
+[**Tertiary styling**](../../brand-guidelines/typography-1/typography.md#tertiary-styling) is used for metadata. Metatdata is only shown  if the booking is made through one of Handy's partners \(Wayfair, Walmart, HomeAdvisor, etc\). Partner bookings will be differentiated by the partner's logo. 
 
 ```text
 a-text-tert:

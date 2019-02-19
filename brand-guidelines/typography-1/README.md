@@ -12,7 +12,7 @@ Handy's typography system uses different type weights and sizes of the Circular 
 
 ## Typography by Platform
 
-{% page-ref page="typography/" %}
+{% page-ref page="typography.md" %}
 
 
 
