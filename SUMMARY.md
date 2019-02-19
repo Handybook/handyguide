@@ -27,6 +27,7 @@
   * [Tabs](native/tabs.md)
   * [Marketing](native/marketing.md)
   * [Navigation](native/navigation.md)
+  * [Skeleton Loading States](native/skeleton-loading-states.md)
   * [Message Bubbles](native/message-threads.md)
 * [Web](web/README.md)
   * [Typography](web/typography.md)
