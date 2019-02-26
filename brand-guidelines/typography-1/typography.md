@@ -15,7 +15,7 @@ Handy's typography system uses different type weights and sizes of the Circular 
 \*\*\*\*[**1. Header 1 \(a-text-h1\)**](typography.md#header-1-a-text-h-1)  
 [**2. Header 2 \(a-text-h2\)**](typography.md#header-2-a-text-h-2)  
 [**3. Header 3 \(a-text-h3\)**](typography.md#header-3-a-text-h-3)  
-****[**4. Header 4 \(a-text-h4\)**](typography.md#header-4-a-text-h-4)  
+****[**4. Subheader \(a-text-subheader\)**](typography.md#header-4-a-text-h-4)  
 ****[**5. Avatar \(a-text-avatar\)**](typography.md#avatar-a-text-avatar)  
 ****[**6. Button CTA \(a-text-button\)**](typography.md#button-cta-a-text-button)  
 [**7. Paragraph \(a-text-paragraph\)**](typography.md#paragraph-a-text-paragraph)  
@@ -62,9 +62,9 @@ font-color: text-black
 
 ![](../../.gitbook/assets/a-text-h3.png)
 
-## Header 4 \(a-text-h4\)
+## Subheader \(a-text-subheader\)
 
-Header 4 styling is used in the subheader \(m-header-secondary\)
+Styling used in subheader \(m-header-secondary\)
 
 ```text
 font-weight: medium
