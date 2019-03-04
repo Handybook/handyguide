@@ -1,7 +1,3 @@
----
-description: Handy's color palette
----
-
 # Color System
 
 ## Color System

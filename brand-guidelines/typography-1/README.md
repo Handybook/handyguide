@@ -1,7 +1,3 @@
----
-description: Handy uses Circular
----
-
 # Typography
 
 ## Handy Font
