@@ -32,6 +32,7 @@ In order to keep things fresh and updated, the output of this exercise must alwa
 As of February 2019:  
 • Customer app resources \(Master Symbols File and documentation\) are done.
 
-End of Q2 2019:  
-• Work with engineering to update components. 
+Upcoming Work:  
+April 2019 - Chat components completed and in HandyKit Library  
+May 2019 - Home Page/Services components and Bookings/BDP pages.
 
