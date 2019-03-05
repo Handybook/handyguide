@@ -4,6 +4,8 @@ description: Users can select from multiple options through a few various select
 
 # Pickers
 
+![](../.gitbook/assets/construction.png)
+
 ## Dropdown Pickers
 
 Dropdown pickers are used when there are multiple, predetermined options for a given input. The drop down menu itself is rendered in the default HTML styling. On desktop, the drop down opens on click. On mobile, the menu opens on tap. 
