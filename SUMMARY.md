@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Handy Design System](README.md)
+* [Handy Style Guide](README.md)
 * [Brand Guidelines](brand-guidelines/README.md)
   * [Logo](brand-guidelines/logo.md)
   * [Color System](brand-guidelines/color-system.md)

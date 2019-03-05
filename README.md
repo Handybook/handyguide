@@ -1,15 +1,15 @@
 ---
 description: >-
-  Handy Design System is an atomic design language founded on the principles of
-  good UX and consistent design. The design system is broken down into reusable
-  and flexible components.
+  The Handy Style Guide is an atomic design language founded on the principles
+  of good UX and consistent design. The design system is broken down into
+  reusable and flexible components.
 ---
 
-# Handy Design System
+# Handy Style Guide
 
 ## Mission
 
-The design system was created to establish and ensure visual consistency. These guidelines allow teams build and iterate product faster. With less design decisions to make, teams can spend more time with design exploration and problem solving, which leads to better products and experiences for our pros and customers. 
+The style guide was created to establish and ensure visual consistency. These guidelines allow teams build and iterate product faster. With less design decisions to make, teams can spend more time with design exploration and problem solving, which leads to better products and experiences for our pros and customers. 
 
 ### Consistency 
 
