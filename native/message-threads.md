@@ -29,7 +29,7 @@ When a user is sending the message to another message, that message will be popu
 1. Background
 
 ```text
-background: blue-light 
+background: blue-medium-light 
 border-radius: 5px
 
 m-message-sent-long:
@@ -55,7 +55,8 @@ padding-right: 12px
 padding-bottom: 8px
 ```
 
-3. Time Stamp \(a-text-label\)
+3. Time Stamp \(a-text-label\)  
+After 24 hours, the message time stamp will reflect the date and time it was sent.
 
 ```text
 font-weight: book
@@ -100,7 +101,8 @@ padding-right: 12px
 padding-bottom: 8px
 ```
 
-3. Time Stamp \(a-text-label\)
+3. Time Stamp \(a-text-label\)  
+After 24 hours, the message time stamp will reflect the date and time it was received.
 
 ```text
 font-weight: book
