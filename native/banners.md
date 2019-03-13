@@ -6,7 +6,7 @@ description: Banners display a message
 
 ## Usage of Banners
 
-Banners are used to confirm an action taken or reflect a status.  Banner can be sticky or temporary banners and will share the same styling.
+Banners are used to confirm an action taken or reflect a status.  Banners can be sticky or temporary banners and will share the same styling.
 
 ![](../.gitbook/assets/banner-view.png)
 
@@ -96,7 +96,7 @@ color: slate-medium-light
 
 ## Temporary Banner Animation
 
-Temporary banners will slide over the header and slide back up. 
+Temporary banners will slide under the header and slide back up. 
 
-![](../.gitbook/assets/banner.gif)
+![](../.gitbook/assets/banner2.gif)
 
