@@ -88,7 +88,7 @@ Color helps distinguishes our brand and helps us to create consistent experience
 | ![Medium-Light-Slate: \#DAE2E6](../.gitbook/assets/medium-light-slate.png) | Slate-Medium-Light | `#DAE2E6` | 218, 226, 230 |
 | ![Medium-Slate: \#C2CED3](../.gitbook/assets/medium-slate.png) | Slate-Medium | `#C2CED3` | 194, 206, 211 |
 | ![Medium-Dark-Slate: \#9CABB5](../.gitbook/assets/medium-dark-slate.png) | Slate-Medium-Dark | `#9CABB5` | 156, 171, 181 |
-| ![Dark-Slate: \#667884](../.gitbook/assets/dark-slate.png) | Slate-Dark | `#851919` | 102, 120, 132 |
+| ![Dark-Slate: \#667884](../.gitbook/assets/dark-slate.png) | Slate-Dark | `#667884` | 102, 120, 132 |
 
 ## Supporting Colors
 
