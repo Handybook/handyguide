@@ -60,11 +60,13 @@ These icons have a bit more pop and personality. Textures can be added to create
 
 These icons follow a formula and use a primary and secondary color. Shades of the primary color are used for stroke and fill while secondary colors are used for minor details like a smaller fill area or texture.
 
-![](../.gitbook/assets/screen-shot-2019-04-16-at-9.54.42-am.png)
+![Examples of two tone icons.](../.gitbook/assets/screen-shot-2019-04-16-at-9.54.42-am.png)
+
+
 
 ### Usage of Two Tone Icons
 
-Two tone icons can be used to represent services, or add color interest. 
+Two tone icons can be used to represent services, or add color interest. See below for examples from the My Services page on native and web. 
 
 ![](../.gitbook/assets/two-tone-icons.png)
 
@@ -93,13 +95,15 @@ Here are the recommended color combinations:
 Primary Color: Handy Blue  
 Secondary Color: Teal
 
-Primary Color: Purple  
-Secondary Color: Red
-
 Primary Color: Green  
 Secondary Color: Yellow
 
-![](../.gitbook/assets/examples-of-color.png)
+Primary Color: Purple  
+Secondary Color: Re
+
+![Examples of two tone graphics in suggested color combinations](../.gitbook/assets/screen-shot-2019-04-17-at-4.19.28-pm.png)
+
+
 
 ## Full Color Graphics
 
@@ -162,7 +166,7 @@ Tool Icons: a-tool/\[name of new icon\]/\[color\] or a-tool/\[name of new icon\]
 
 ## Downloads
 
-### Master Icons File
+### Simple Line Icons 
 
 {% file src="../.gitbook/assets/simple-line-icon-set.ai" %}
 
