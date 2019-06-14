@@ -115,10 +115,11 @@ Body Copy (a-text-paragraph):
 font-weight: bold
 font-size: 16px
 font-color: text-black
+line-height: 1.5
 
 padding-left: 16px
 padding-right: 16px
-padding-top: 24px
+padding-top: 16px
 padding-bottom: 16px
 ```
 

@@ -34,6 +34,7 @@ padding-top: 24px
 font-weight: book
 font-size: 16px
 font-color: text-black
+line-height: 1.5
 padding: 16px
 ```
 

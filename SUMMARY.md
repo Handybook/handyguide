@@ -33,6 +33,7 @@
   * [Typography](web/typography.md)
   * [Grid and Layout](web/grid-and-layout.md)
   * [Buttons](web/buttons.md)
+  * [Modals](web/modals.md)
   * [Pickers](web/pickers.md)
   * [Input Fields](web/input-fields.md)
   * [Cards](web/cards.md)

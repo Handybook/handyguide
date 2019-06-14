@@ -124,6 +124,7 @@ font-color: blue-medium
 
 Body Copy (m-half_sheet, m-modal, m-banner, m-prod-marketing, m-text_field):
 font-color: text-black, slate-dark
+line-height: 1.5
 
 Read Message (m-card-message-read):
 font-color: slate-medium-dark
