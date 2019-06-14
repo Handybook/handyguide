@@ -2,7 +2,7 @@
 description: Typography provides legible and consistent UI across the Handy Design system.
 ---
 
-# Native App Typography
+# Typography - Natve
 
 ## Handy Font
 
@@ -12,18 +12,18 @@ Handy's typography system uses different type weights and sizes of the Circular 
 
 ## Typography System
 
-\*\*\*\*[**1.  Header 1 \(a-text-h1\)**](typography.md#header-1-a-text-h-1)  
-****[**2. Header 2 \(a-text-h2\)**](typography.md#header-2-a-text-h-2)  
-[**3. Header 3 \(a-text-h3\)**](typography.md#header-3-a-text-h-3)  
-[**4. Header 4 \(a-text-h4\)**](typography.md#header-4-a-text-h-4)  
+\*\*\*\*[**1.  Header 1 \(a-text-h1\)**](./#header-1-a-text-h-1)  
+****[**2. Header 2 \(a-text-h2\)**](./#header-2-a-text-h-2)  
+[**3. Header 3 \(a-text-h3\)**](./#header-3-a-text-h-3)  
+[**4. Header 4 \(a-text-h4\)**](./#header-4-a-text-h-4)  
 ****[**5. Subheader \(a-text-subheader\)**  
-](typography.md#subheader-a-text-subheader)\*\*\*\*[**6. Avatar \(a-text-avatar\)**](typography.md#avatar-a-text-avatar)  
-****[**7. Button CTA \(a-text-button\)**](typography.md#button-cta-a-text-button)  
-[**8. Paragraph \(a-text-paragraph\)**](typography.md#paragraph-a-text-paragraph)  
-[**9. Tertiary \(a-text-tert\)**](typography.md#tertiary-a-text-tert)  
-[**10. Subtitle 1 \(a-text-subtitle-1\)**](typography.md#subtitle-1-a-text-subtitle-1)  
-[**11. Subtitle 2 \(a-text-subtitle-2\)**](typography.md#subtitle-2-a-text-subtitle-2)  
-[**12. Label \(a-text-label\)**](typography.md#label-a-text-label)
+](./#subheader-a-text-subheader)\*\*\*\*[**6. Avatar \(a-text-avatar\)**](./#avatar-a-text-avatar)  
+****[**7. Button CTA \(a-text-button\)**](./#button-cta-a-text-button)  
+[**8. Paragraph \(a-text-paragraph\)**](./#paragraph-a-text-paragraph)  
+[**9. Tertiary \(a-text-tert\)**](./#tertiary-a-text-tert)  
+[**10. Subtitle 1 \(a-text-subtitle-1\)**](./#subtitle-1-a-text-subtitle-1)  
+[**11. Subtitle 2 \(a-text-subtitle-2\)**](./#subtitle-2-a-text-subtitle-2)  
+[**12. Label \(a-text-label\)**](./#label-a-text-label)
 
 ![](../../.gitbook/assets/typography-as-a-whole.png)
 
