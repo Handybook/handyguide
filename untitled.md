@@ -49,11 +49,76 @@ font-color: text-black
 
 ## Header 2
 
-Header 2 styling is used for headers in content blocks.
+Header 2 styling is used as a main header in content blocks.
 
 ```text
 font-weight: bold
 font-size: 24px
 font-color: text-black
 ```
+
+![](.gitbook/assets/header-2.png)
+
+## Header 3
+
+Header 3 styling is used for headers in content blocks.
+
+```text
+font-weight: bold
+font-size: 20px
+font-color: text-black
+```
+
+![](.gitbook/assets/header-3.png)
+
+## Paragraph
+
+Paragraph text is used for content.
+
+```text
+font-weight: book
+font-size: 16px
+font-color: text-black
+line-height: 1.5
+```
+
+![](.gitbook/assets/paragraph.png)
+
+## Subcopy
+
+Supporting copy that is often paired with H2s. Subcopy is used in forms.
+
+```text
+font-weight: book
+font-size: 16px
+font-color: slate-medium-dark
+line-height: 1.5
+```
+
+![](.gitbook/assets/subcopy.png)
+
+## Link
+
+Text links.
+
+```text
+font-weight: book
+font-size: 16px
+font-color: blue-medium
+line-height: 1.5
+```
+
+![](.gitbook/assets/links.png)
+
+## Tertiary Text
+
+Tertiary text is used for legal copy, terms & conditions, etc.
+
+```text
+font-weight: book
+font-size: 14px
+font-color: slate-medium-dark
+```
+
+![](.gitbook/assets/tertiary-text.png)
 
