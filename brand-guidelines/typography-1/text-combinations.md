@@ -4,7 +4,7 @@ description: >-
   and legibility in mind.
 ---
 
-# Text Combinations
+# Native Text Combinations
 
 ## Types of Text Combinations
 

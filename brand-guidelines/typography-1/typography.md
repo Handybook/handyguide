@@ -1,5 +1,7 @@
 ---
-description: Typography provides legible and consistent UI across the Handy Design system.
+description: >-
+  Typography provides legible and consistent UI across the Handy Design system.
+  Native typography is applied to mobile web.
 ---
 
 # Native App Typography
@@ -12,23 +14,36 @@ Handy's typography system uses different type weights and sizes of the Circular 
 
 ## Typography System
 
-\*\*\*\*[**1. Header 1 \(a-text-h1\)**](typography.md#header-1-a-text-h-1)  
-[**2. Header 2 \(a-text-h2\)**](typography.md#header-2-a-text-h-2)  
+\*\*\*\*[**1.  Header 1 \(a-text-h1\)**](typography.md#header-1-a-text-h-1)  
+****[**2. Header 2 \(a-text-h2\)**](typography.md#header-2-a-text-h-2)  
 [**3. Header 3 \(a-text-h3\)**](typography.md#header-3-a-text-h-3)  
-****[**4. Subheader \(a-text-subheader\)**](typography.md#header-4-a-text-h-4)  
-****[**5. Avatar \(a-text-avatar\)**](typography.md#avatar-a-text-avatar)  
-****[**6. Button CTA \(a-text-button\)**](typography.md#button-cta-a-text-button)  
-[**7. Paragraph \(a-text-paragraph\)**](typography.md#paragraph-a-text-paragraph)  
-[**8. Tertiary \(a-text-tert\)**](typography.md#tertiary-a-text-tert)  
-[**9. Subtitle 1 \(a-text-subtitle-1\)**](typography.md#subtitle-1-a-text-subtitle-1)  
-[**10. Subtitle 2 \(a-text-subtitle-2\)**](typography.md#subtitle-2-a-text-subtitle-2)  
-[**11. Label \(a-text-label\)**](typography.md#label-a-text-label)
+[**4. Header 4 \(a-text-h4\)**](typography.md#header-4-a-text-h-4)  
+****[**5. Subheader \(a-text-subheader\)**  
+](typography.md#subheader-a-text-subheader)\*\*\*\*[**6. Avatar \(a-text-avatar\)**](typography.md#avatar-a-text-avatar)  
+****[**7. Button CTA \(a-text-button\)**](typography.md#button-cta-a-text-button)  
+[**8. Paragraph \(a-text-paragraph\)**](typography.md#paragraph-a-text-paragraph)  
+[**9. Tertiary \(a-text-tert\)**](typography.md#tertiary-a-text-tert)  
+[**10. Subtitle 1 \(a-text-subtitle-1\)**](typography.md#subtitle-1-a-text-subtitle-1)  
+[**11. Subtitle 2 \(a-text-subtitle-2\)**](typography.md#subtitle-2-a-text-subtitle-2)  
+[**12. Label \(a-text-label\)**](typography.md#label-a-text-label)
 
 ![](../../.gitbook/assets/typography.png)
 
 ## Header 1 \(a-text-h1\)
 
-Header 1 styling is used headers for pages. Can be found in m-header-primary.
+Header 1 styling is used for important content headers on main pages. Can be used on the home page.
+
+```text
+font-weight: bold
+font-size: 26px
+font-color: text-black
+```
+
+![](../../.gitbook/assets/a-text-h1new.png)
+
+## Header 2 \(a-text-h2\)
+
+Header 2 styling is used headers for pages. Can be found in m-header-primary.
 
 ```text
 font-weight: bold
@@ -38,9 +53,9 @@ font-color: text-black
 
 ![](../../.gitbook/assets/a-text-h1.png)
 
-## Header 2 \(a-text-h2\)
+## Header 3 \(a-text-h3\)
 
-Header 2 styling is used as titles on pages. Can be found in general content pages, m-half\_sheet, m-modal
+Header 3 styling is used as titles on pages. Can be found in general content pages, m-half\_sheet, m-modal
 
 ```text
 font-weight: bold
@@ -50,9 +65,9 @@ font-color: text-black
 
 ![](../../.gitbook/assets/a-text-h2.png)
 
-## Header 3 \(a-text-h3\)
+## Header 4 \(a-text-h4\)
 
-Header 3 styling is used on cards, tabs, reviews, and product marketing  titles on pages.
+Header 4 styling is used on cards, tabs, reviews, and product marketing  titles on pages.
 
 ```text
 font-weight: bold
