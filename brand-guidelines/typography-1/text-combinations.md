@@ -31,7 +31,7 @@ Content Header lockups are typically used at the top of a page. Can be found in 
 ![](../../.gitbook/assets/content-header-detail.png)
 
 ```
-a-text-h2:
+a-text-h3:
 font-weight: bold
 font-size: 20px
 font-color: text-black
@@ -41,6 +41,7 @@ a-text-paragraph
 font-weight: book
 font-size: 16px
 font-color: slate-dark
+line-height: 1.5
 ```
 
 ## UI Header
@@ -57,10 +58,11 @@ font-color: text-black
 padding-bottom (halfsheets): 16px
 padding-bottom (modals): 24px
 
-a-text-paragraph
+a-text-paragraph:
 font-weight: book
 font-size: 16px
 font-color: slate-dark
+line-height: 1.5
 ```
 
 ## Content Subheader
@@ -70,16 +72,17 @@ Content subheader lockups are used in content pages that need further separation
 ![](../../.gitbook/assets/content-subheader-detail.png)
 
 ```text
-a-text-h2:
+a-text-h4:
 font-weight: bold
 font-size: 16px
 font-color: text-black
 padding-bottom: 8px
 
-a-text-paragraph
+a-text-paragraph:
 font-weight: book
 font-size: 16px
 font-color: text-black
+line-height: 1.5
 ```
 
 ## Picker Text
@@ -89,13 +92,13 @@ Picker Text lockups are used in radio or checkbox pickers.
 ![](../../.gitbook/assets/picker-detail.png)
 
 ```text
-a-text-paragraph
+a-text-paragraph:
 font-weight: book
 font-size: 16px
 font-color: text-black
 padding-bottom: 8px
 
-a-text-paragraph
+a-text-paragraph-slate-dark:
 font-weight: book
 font-size: 16px
 font-color: slate-dark

@@ -1,7 +1,5 @@
 ---
-description: >-
-  Typography provides legible and consistent UI across the Handy Design system.
-  Native typography is applied to mobile web.
+description: Typography provides legible and consistent UI across the Handy Design system.
 ---
 
 # Native App Typography
@@ -27,7 +25,7 @@ Handy's typography system uses different type weights and sizes of the Circular 
 [**11. Subtitle 2 \(a-text-subtitle-2\)**](typography.md#subtitle-2-a-text-subtitle-2)  
 [**12. Label \(a-text-label\)**](typography.md#label-a-text-label)
 
-![](../../.gitbook/assets/typography.png)
+![](../../.gitbook/assets/typography-as-a-whole.png)
 
 ## Header 1 \(a-text-h1\)
 
