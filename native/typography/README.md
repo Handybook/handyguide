@@ -2,7 +2,7 @@
 description: Typography provides legible and consistent UI across the Handy Design system.
 ---
 
-# Typography - Natve
+# Typography - Native
 
 ## Handy Font
 

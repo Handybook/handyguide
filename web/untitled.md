@@ -19,7 +19,7 @@ Handy's web typography system is optimized for simplicity and enables streamline
 5. Link  
 6. Tertiary Text
 
-![](.gitbook/assets/web-typography.png)
+![](../.gitbook/assets/web-typography.png)
 
 ## Header 1
 
@@ -45,7 +45,7 @@ font-size: 26px
 font-color: text-black
 ```
 
-![](.gitbook/assets/header-1.png)
+![](../.gitbook/assets/header-1.png)
 
 ## Header 2
 
@@ -57,7 +57,7 @@ font-size: 24px
 font-color: text-black
 ```
 
-![](.gitbook/assets/header-2.png)
+![](../.gitbook/assets/header-2.png)
 
 ## Header 3
 
@@ -69,7 +69,7 @@ font-size: 20px
 font-color: text-black
 ```
 
-![](.gitbook/assets/header-3.png)
+![](../.gitbook/assets/header-3.png)
 
 ## Paragraph
 
@@ -82,7 +82,7 @@ font-color: text-black
 line-height: 1.5
 ```
 
-![](.gitbook/assets/paragraph.png)
+![](../.gitbook/assets/paragraph.png)
 
 ## Subcopy
 
@@ -95,7 +95,7 @@ font-color: slate-medium-dark
 line-height: 1.5
 ```
 
-![](.gitbook/assets/subcopy.png)
+![](../.gitbook/assets/subcopy.png)
 
 ## Link
 
@@ -108,7 +108,7 @@ font-color: blue-medium
 line-height: 1.5
 ```
 
-![](.gitbook/assets/links.png)
+![](../.gitbook/assets/links.png)
 
 ## Tertiary Text
 
@@ -120,5 +120,5 @@ font-size: 14px
 font-color: slate-medium-dark
 ```
 
-![](.gitbook/assets/tertiary-text.png)
+![](../.gitbook/assets/tertiary-text.png)
 
