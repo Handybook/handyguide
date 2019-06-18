@@ -10,14 +10,15 @@ description: >-
 
 Handy's web typography system is optimized for simplicity and enables streamlined experiences between desktop and mobile web. Besides headers, all type styles will stay the same between desktop and mobile web.
 
-1. Header 1  
-1a. H1-Desktop  
-1b. H1-Mobile Web  
-2. Header 3  
-3. Paragraph  
-4. Subcopy  
-5. Link  
-6. Tertiary Text
+[**1. Header 1**](untitled.md#header-1)  
+****[**1a. H1-Desktop**](untitled.md#h1-desktop)  
+****[**1b. H1-Mobile Web**](untitled.md#h1-mobile)  
+****[**2. Header 2**](untitled.md#header-2)  
+****[**3. Header 3**](untitled.md#header-3)  
+****[**4. Paragraph**](untitled.md#paragraph)  
+****[**5. Subcopy**](untitled.md#subcopy)  
+****[**6. Link**](untitled.md#link)  
+****[**7. Tertiary Text**](untitled.md#tertiary-text)\*\*\*\*
 
 ![](../.gitbook/assets/web-typography.png)
 
