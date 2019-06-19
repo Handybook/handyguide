@@ -16,6 +16,12 @@ description: Buttons communicate the action that will occur when a user taps the
 
 ![](../.gitbook/assets/button-usage-right-vs-wrong.png)
 
+### 
+
+## Button Width Guidelines
+
+Button widths will vary depending on the context. As a rule of thumb, please refer to our grid measurements for button widths. Buttons can be up to 3 columns wide.
+
 ## Usage of Buttons
 
 Buttons allow users to trigger an action, like submitting information or confirming an action. They may take form in buttons, text links, or icon links.
@@ -28,15 +34,13 @@ Buttons allow users to trigger an action, like submitting information or confirm
 
 \*\*\*\*[**2. Text Links**](buttons.md#text-links)
 
-**3. Icon Links**
+\*\*\*\*[**3. Icon Links**](buttons.md#icon-links)\*\*\*\*
 
 ## Button CTAs
 
-Button CTAs come in two sizes, Standard and Small. 
+Button CTAs come in two sizes, Standard and Small. Standard CTA buttons are the primary CTA styles used across Desktop and Mobile Web. They are used when there is a main ask from the user that should be prioritized above other asks on the same page. Small CTA buttons \(less commonly used\) are available when there are multiple primary CTAs on the same page.
 
-Standard CTA buttons are the primary CTA styles used across Desktop and Mobile Web. They are used when there is a main ask from the user that should be prioritized above other asks on the same page. Small CTA buttons \(less commonly used\) are available when there are multiple primary CTAs on the same page.
-
-![Small and Standard sized Primary and Secondary CTA buttons with hover states](../.gitbook/assets/ctas-overview.jpg)
+![](../.gitbook/assets/ctas-overview-1.jpg)
 
 ### Primary Button CTA
 
@@ -53,7 +57,6 @@ font-size: 20px
 font-color: white
 padding-top: 16px
 padding-bottom: 16px
-font-color: #FFFFF
 ```
 
 #### Primary Standard CTA Button Properties \(on hover\)
@@ -67,7 +70,6 @@ font-size: 20px
 font-color: white
 padding-top: 16px
 padding-bottom: 16px
-font-color: #FFFFF
 ```
 
 #### Primary Small CTA Button Properties \(default\)
@@ -81,7 +83,6 @@ font-size: 16px
 font-color: white
 padding-top: 14px
 padding-bottom: 14px
-font-color: #FFFFF
 ```
 
 #### Primary Small CTA Button Properties \(on hover\)
@@ -95,56 +96,68 @@ font-size: 16px
 font-color: white
 padding-top: 14px
 padding-bottom: 14px
-font-color: #FFFFF
+
 ```
 
-### 
+### Secondary Button CTAs
 
-Standard buttons are the most commonly used button style. They can be found on When Pages or with content. 
+Secondary button CTAs are used for subordinate actions on the page. These buttons are transparent with an outline and come in two sizes, Standard and Small. 
 
-![](../.gitbook/assets/standard.jpg)
-
-#### Standard Buttons Properties
-
-```text
-border-radius: 5px
-border-color: blue-medium
-font-family: Circular
-font-size: 18px;
-font-color: white
-padding-top: 16px
-padding-bottom: 16px
-```
-
-### Large Buttons
-
-Large buttons can be used in content blocks or marketing cards.
-
-![](../.gitbook/assets/large.jpg)
-
-#### Large Buttons Properties
+#### Secondary Standard Button CTA Properties \(default\)
 
 ```text
 border-radius: 5px
 border-color: blue-medium
 font-family: Circular
 font-size: 20px;
-font-color: white
+font-color: blue-medium
 padding-top: 16px
 padding-bottom: 16px
 ```
 
-### Button Width Guidelines
+#### Secondary Standard Button CTA Properties \(on hover\)
 
-Button widths will vary depending on the context. As a rule of thumb, please refer to our grid measurements for button widths. Buttons can be up to 3 columns wide.
+```text
+border-radius: 5px
+border-color: blue-medium
+font-family: Circular
+font-size: 20px;
+font-color: blue-dark
+padding-top: 16px
+padding-bottom: 16px
+```
+
+#### Secondary Small Button CTA Properties \(default\)
+
+```text
+border-radius: 5px
+border-color: blue-medium
+font-family: Circular
+font-size: 16px;
+font-color: blue-medium
+padding-top: 14px
+padding-bottom: 14px
+```
+
+#### Secondary Small Button CTA Properties \(on hover\)
+
+```text
+border-radius: 5px
+border-color: blue-dark
+font-family: Circular
+font-size: 16px;
+font-color: blue-dark
+padding-top: 14px
+padding-bottom: 14px
+```
+
+>
 
 ## Text Links
 
 Text links are used for non-essential actions, like changes to existing content, viewing another page.
 
-![](../.gitbook/assets/text-link.jpg)
-
-![](../.gitbook/assets/text-link-grey.png)
+![](../.gitbook/assets/ex-text-links.png)
 
 #### Text Link Properties
 
@@ -167,4 +180,10 @@ font: Circular-Book
 font-size: 14px or 16px
 font-color: text-black
 ```
+
+## Icon Links
+
+Icon links are used to communicate the ability to execute common tasks, such as filtering a list. They are most commonly paired with text links.
+
+![](../.gitbook/assets/display-icon-links.png)
 
