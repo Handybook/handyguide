@@ -4,54 +4,101 @@ description: Buttons communicate the action that will occur when a user taps the
 
 # Buttons
 
+## General Button Guidelines
+
+1. Labels are always title case. 
+2. Labels are clear and succinct.
+3. Labels are text only; characters, like carrots, are not used alongside text.
+4. Labels are verbs or adverbs that express the action the button will trigger.
+5. Icons links should only be used when representing common paradigms.
+
+![](../.gitbook/assets/button-usage-right-vs-wrong-1.png)
+
+![](../.gitbook/assets/button-usage-right-vs-wrong.png)
+
 ## Usage of Buttons
 
-Buttons allow users to trigger an action like submitting information or confirming an action. They may take form in buttons or text links.
+Buttons allow users to trigger an action, like submitting information or confirming an action. They may take form in buttons, text links, or icon links.
 
-![](../.gitbook/assets/usages.jpg)
+![](../.gitbook/assets/cleaning-page-new-design-w-background.png)
 
 ## Types of Buttons
 
-[**1. Buttons**](buttons.md#buttons)\*\*\*\*
-
-![](../.gitbook/assets/button.jpg)
+\*\*\*\*[**1. Button CTAs**](buttons.md#button-ctas)\*\*\*\*
 
 \*\*\*\*[**2. Text Links**](buttons.md#text-links)
 
-![](../.gitbook/assets/text-link.jpg)
+**3. Icon Links**
 
-## General Button Guidelines
+## Button CTAs
 
-1. Labels are always title case 
-2. Labels clear and succinct 
-3. Labels are verbs or adverbs that express the action the button will trigger
-4. Icons links should only be used when representing common paradigms
+Button CTAs come in two sizes, Standard and Small. 
 
-![](../.gitbook/assets/button-right-wrong.png)
+Standard CTA buttons are the primary CTA styles used across Desktop and Mobile Web. They are used when there is a main ask from the user that should be prioritized above other asks on the same page. Small CTA buttons \(less commonly used\) are available when there are multiple primary CTAs on the same page.
 
-## Buttons
+![Small and Standard sized Primary and Secondary CTA buttons with hover states](../.gitbook/assets/ctas-overview.jpg)
 
-Buttons are used to submit information or complete an action. Buttons come in 3 different sizes: Small, Standard, and Large.
+### Primary Button CTA
 
-### Small Buttons
+Primary button CTAs are used for the most important action on the page. These buttons are opaque and come in two sizes, standard and small. 
 
-Small buttons are used inline in forms like the Promo Code section in the Payment Page
-
-![](../.gitbook/assets/small-button.jpg)
-
-#### Small Button Properties
+#### Primary Standard CTA Button Properties \(default\)
 
 ```text
+max-height: 57px
 border-radius: 5px
-border-color: blue-medium
+color: blue-medium
 font-family: Circular
-font-size: 16px;
+font-size: 20px
 font-color: white
 padding-top: 16px
 padding-bottom: 16px
+font-color: #FFFFF
 ```
 
-### Standard Buttons
+#### Primary Standard CTA Button Properties \(on hover\)
+
+```text
+max-height: 57px
+border-radius: 5px
+color: blue-dark
+font-family: Circular
+font-size: 20px
+font-color: white
+padding-top: 16px
+padding-bottom: 16px
+font-color: #FFFFF
+```
+
+#### Primary Small CTA Button Properties \(default\)
+
+```text
+max-height: 44px
+border-radius: 5px
+color: blue-medium
+font-family: Circular
+font-size: 16px
+font-color: white
+padding-top: 14px
+padding-bottom: 14px
+font-color: #FFFFF
+```
+
+#### Primary Small CTA Button Properties \(on hover\)
+
+```text
+max-height: 44px
+border-radius: 5px
+color: blue-dark
+font-family: Circular
+font-size: 16px
+font-color: white
+padding-top: 14px
+padding-bottom: 14px
+font-color: #FFFFF
+```
+
+### 
 
 Standard buttons are the most commonly used button style. They can be found on When Pages or with content. 
 
