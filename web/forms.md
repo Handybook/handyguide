@@ -48,7 +48,7 @@ We use [H2 headers or H3 headers](../brand-guidelines/typography-1.md) to label 
 
 We use the same input field UI across all forms \(same across desktop, mobile web, and native\). The only variable is the width of the input field. 
 
-![](../.gitbook/assets/input-fields.png)
+![](../.gitbook/assets/input-fields%20%284%29.png)
 
 ![](../.gitbook/assets/text-field-animation.gif)
 
