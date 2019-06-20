@@ -4,7 +4,7 @@ description: >-
   (desktop and mobile)
 ---
 
-# Typography - Web
+# Typography
 
 ## Typography System for Web
 
