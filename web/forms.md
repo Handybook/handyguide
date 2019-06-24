@@ -8,15 +8,15 @@ Forms are used when it makes sense to gather multiple pieces of information from
 
 ## Types of Forms
 
-### Wide Forms \(Desktop Only\)
+### Primary Forms \(Desktop Only\)
 
-Wide forms are used when the primary purpose of the page is to collect information and move the user through an input flow. 
+Primary forms are used when the primary purpose of the page is to collect information and move the user through an input flow. They are always sticky to the left side and take up 8 columns. 
 
 ![](../.gitbook/assets/wide-form.png)
 
-### Narrow Forms \(Desktop Only\)
+### Secondary Forms \(Desktop Only\)
 
-Narrow forms are used when the page is being used for multiple purposes. For example, on our When pages, we are both building trust with service-related content and collecting job details.
+Secondary forms are used when the page is being used for multiple purposes.  For example, on our When pages, we are both building trust with service-related content and collecting job details. They are always sticky to the right side of the page and take up 4 columns.
 
 ![](../.gitbook/assets/narrow-form%20%281%29.png)
 
@@ -30,7 +30,7 @@ On mobile web, all forms follow the same format and all input fields become full
 
 ### Grid
 
-We use two form layouts on desktop: A wide, left-aligned form, and a narrow, right aligned form. Both are displayed on white cards with our standard drop shadow and 5-radius rounded corners. On mobile web, all forms follow the same format, with input fields spanning the full width of the screen and no cards or background. 
+We use two form layouts on desktop: A primary, left-aligned form, and a secondary, right aligned form. Both are displayed on white cards with our standard drop shadow and 5-radius rounded corners. On mobile web, all forms follow the same format, with input fields spanning the full width of the screen and no cards or background. 
 
 ![Column layout options for desktop forms](../.gitbook/assets/form-types.png)
 
