@@ -6,11 +6,9 @@ description: >-
 
 # Cards
 
-## **General Card Guidelines**
+## **Card Usage**
 
-1. All cards have rounded corners and subtle shadows.
-2. All cards include some sort of interaction, like a link, like or share button.
-3. Cards are ...
+Insert blurb about service cards and forms. note that forms as cards only exist on desktop. On mobile web, card ui hides and content of form remains. 
 
 ![](../.gitbook/assets/card-preview.png)
 
@@ -22,6 +20,4 @@ border-style: solid;
 border color: #E8EFF2;
 box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.2);
 ```
-
-![](../.gitbook/assets/construction.png)
 
