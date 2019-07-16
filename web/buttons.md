@@ -26,7 +26,7 @@ Button widths will vary depending on the context. As a rule of thumb, please ref
 
 Buttons allow users to trigger an action, like submitting information or confirming an action. They may take form in buttons, text links, or icon links.
 
-![](../.gitbook/assets/cleaning-page-new-design-w-background.png)
+![](../.gitbook/assets/cleaning-page-example-buttons.png)
 
 ## Types of Buttons
 
@@ -81,8 +81,8 @@ color: blue-medium
 font-family: Circular
 font-size: 16px
 font-color: white
-padding-top: 14px
-padding-bottom: 14px
+padding-top: 12px
+padding-bottom: 12px
 ```
 
 #### Primary Small CTA Button Properties \(on hover\)
@@ -94,9 +94,8 @@ color: blue-dark
 font-family: Circular
 font-size: 16px
 font-color: white
-padding-top: 14px
-padding-bottom: 14px
-
+padding-top: 12px
+padding-bottom: 12px
 ```
 
 ### Secondary Button CTAs
@@ -157,7 +156,7 @@ padding-bottom: 14px
 
 Text links are used for non-essential actions, like changes to existing content, viewing another page.
 
-![](../.gitbook/assets/ex-text-links.png)
+![](../.gitbook/assets/text-links%20%281%29.png)
 
 #### Text Link Properties
 
@@ -185,5 +184,5 @@ font-color: text-black
 
 Icon links are used to communicate the ability to execute common tasks, such as filtering a list. They are most commonly paired with text links.
 
-![](../.gitbook/assets/display-icon-links.png)
+![](../.gitbook/assets/display-icon-links%20%281%29.png)
 
