@@ -20,7 +20,7 @@ description: >-
 radius: 5px;
 border-style: solid;
 border color: #E8EFF2;
-box-shadow: 0px 2px 4px #B4B4B4;
+box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.2);
 ```
 
 ![](../.gitbook/assets/construction.png)
