@@ -16,7 +16,7 @@ Designs must flex for both desktop and mobile web, but initial designs should be
 
 ### Small Desktop Grid 1280px
 
-![This is the smallest screen size where content and layout sizes can be maintained.](../.gitbook/assets/small-desktop.png)
+![This is the smallest screen size where original content and layout sizes can be maintained.](../.gitbook/assets/small-desktop.png)
 
 ### Tablet and Mobile Grid \(1024px and 375px\)
 
