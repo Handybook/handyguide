@@ -25,7 +25,11 @@ Refer to [Forms](https://app.gitbook.com/@handyguide/s/docs/web/forms) for more 
 
 Service Cards can be displayed in multiple layouts: 3 \(4-column\), 4 \(3-column\), and 6 \(2 -column\). Each have 32 pixels of space between. Card widths align with the [grid](https://app.gitbook.com/@handyguide/s/docs/web/grid-and-layout) while card heights are flexible.
 
-![](../.gitbook/assets/card-layouts-3-4-6%20%285%29.png)
+![](../.gitbook/assets/card-layouts-3-4-6-1x.png)
+
+Form Cards come in two layouts: Wide and Narrow. 
+
+![](../.gitbook/assets/card-layout-forms.png)
 
 ### Card Properties 
 
