@@ -1,7 +1,8 @@
 ---
 description: >-
   Cards groups related information in a flexible-size container and serve as
-  entry points to more detailed information.
+  entry points to more detailed information. Cards come in two types: Service
+  Cards and Form Cards.
 ---
 
 # Cards
@@ -16,7 +17,7 @@ Refer to [Forms](https://app.gitbook.com/@handyguide/s/docs/web/forms) for more 
 
 ### Card Anatomy
 
-Service Cards can be displayed in multiple layouts: 3 \(4-column\), 4 \(3-column\), and 6 \(2 -column\). Each have 32 pixels of space between. Card widths align with the [grid layout](https://app.gitbook.com/@handyguide/s/docs/web/grid-and-layout) while card heights are flexible.
+Service Cards can be displayed in multiple layouts: 3 \(4-column\), 4 \(3-column\), and 6 \(2 -column\). Each have 32 pixels of space between. Card widths align with the [grid](https://app.gitbook.com/@handyguide/s/docs/web/grid-and-layout) while card heights are flexible.
 
 ![](../.gitbook/assets/card-layouts-3-4-6%20%283%29.png)
 
