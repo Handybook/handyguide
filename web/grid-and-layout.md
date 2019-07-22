@@ -10,31 +10,17 @@ description: >-
 
 Designs must flex for both desktop and mobile web, but initial designs should be created with the most-used screen size in mind. 
 
-{% tabs %}
-{% tab title="1440px Wide Desktop" %}
+### Standard Desktop Grid 1440px
 
+![This is our standard grid for desktop web designs. ](../.gitbook/assets/full-screen.png)
 
-![](../.gitbook/assets/1440px-web.png)
-{% endtab %}
+### Small Desktop Grid 1280px
 
-{% tab title="1280px Desktop" %}
+![This is the smallest screen size where content and layout sizes can be maintained.](../.gitbook/assets/small-desktop.png)
 
+### Tablet and Mobile Grid \(1024px and 375px\)
 
-![](../.gitbook/assets/1280px-web.png)
-{% endtab %}
-
-{% tab title="1024px Tablet" %}
-
-
-![](../.gitbook/assets/1024-tablet.png)
-{% endtab %}
-
-{% tab title="375px iPhone" %}
-
-
-![](../.gitbook/assets/375-regular-phone.png)
-{% endtab %}
-{% endtabs %}
+![We should break to mobile after 640px. We design for mobile at 375px. ](../.gitbook/assets/tablet-and-mobile%20%281%29.png)
 
 ## Sketch Layout Settings
 
