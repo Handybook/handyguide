@@ -10,6 +10,8 @@ description: >-
 
 Cards are used primarily to display service offerings, like Home Cleaning, and direct the user to a more detailed page about the service. Cards are also used to display form content, though this is only true for desktop. On mobile web, card ui hides and the content of the form remains.
 
+Refer to [Forms](https://app.gitbook.com/@handyguide/s/docs/web/forms) for more information. 
+
 ![](../.gitbook/assets/card-preview.png)
 
 ### Card Anatomy
