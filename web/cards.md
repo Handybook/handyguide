@@ -13,13 +13,13 @@ Cards are used primarily to display service offerings, like Home Cleaning, and w
 
 Refer to [Forms](https://app.gitbook.com/@handyguide/s/docs/web/forms) for more information. 
 
-![](../.gitbook/assets/card-preview.png)
+![Service Cards \(4, 3-column\)](../.gitbook/assets/card-preview.png)
 
 ### Card Anatomy
 
 Service Cards can be displayed in multiple layouts: 3 \(4-column\), 4 \(3-column\), and 6 \(2 -column\). Each have 32 pixels of space between. Card widths align with the [grid](https://app.gitbook.com/@handyguide/s/docs/web/grid-and-layout) while card heights are flexible.
 
-![](../.gitbook/assets/card-layouts-3-4-6%20%283%29.png)
+![](../.gitbook/assets/card-layouts-3-4-6%20%285%29.png)
 
 ### Card Properties 
 
