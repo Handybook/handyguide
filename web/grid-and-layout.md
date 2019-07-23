@@ -20,7 +20,7 @@ Designs must flex for both desktop and mobile web, but initial designs should be
 
 ### Tablet and Mobile Grid \(1024px and 375px\)
 
-![We always design mobile first, and we should break to the mobile grid after 640px. ](../.gitbook/assets/tablet-phone.png)
+![We break from the desktop grid to the mobile grid when the browser reaches 640px or less. ](../.gitbook/assets/tablet-phone.png)
 
 ## Sketch Layout Settings
 
