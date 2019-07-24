@@ -21,7 +21,9 @@ Pickers allow users to select an option before taking an action. Pickers can be 
 
 ## Radio Pickers
 
-Radio buttons describe complex choices or provide all the available options next to each other. Radio groups must be stacked vertically.
+Radio buttons are used when there is a list of two or more options that are _mutually exclusive_  and the user must select one choice. Radio groups must be stacked vertically.
+
+![](../.gitbook/assets/radio%20%281%29.png)
 
 1. Current Selection
 
@@ -51,8 +53,9 @@ border: 1px
 border-color: slate-medium
 ```
 
-4. Dividing Line:  
-Width of dividing lines are variable based on the context. Standalone dividers can take up to 12 columns. Dividers in cards need to have 32px padding on the left and right, in order to have separation within the card.
+4. Dividing Line
+
+The width of dividing lines are variable based on the context. Standalone dividers can take up to 12 columns. Dividers in cards need to have 32px padding on the left and right, in order to have separation within the card.
 
 ```text
 border: 1px
@@ -65,6 +68,8 @@ padding-bottom: 12px
 ## Checkboxes
 
 Checkboxes are used when the user can select multiple options. For example, adding extras in the booking flow. Each checkbox is independent of all other checkboxes in the list.
+
+![](../.gitbook/assets/checkbox.png)
 
 1. Current Selection: There can be multiple selections.
 
