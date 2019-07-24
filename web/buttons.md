@@ -40,7 +40,7 @@ Buttons allow users to trigger an action, like submitting information or confirm
 
 Button CTAs come in two sizes, Standard and Small. Standard CTA buttons are the primary CTA styles used across Desktop and Mobile Web. They are used when there is a main ask from the user that should be prioritized above other asks on the same page. Small CTA buttons \(less commonly used\) are available when there are multiple primary CTAs on the same page.
 
-![](../.gitbook/assets/ctas-overview-1.jpg)
+![](../.gitbook/assets/cta-overview.png)
 
 ### Primary Button CTA
 
