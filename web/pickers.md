@@ -21,13 +21,18 @@ Pickers allow users to select an option before taking an action. Pickers can be 
 
 ## Radio Pickers
 
-Radio buttons are used when there is a list of two or more options that are _mutually exclusive_  and the user must select one choice. Radio groups must be stacked vertically.
+Radio buttons are used when there is a list of two or more options that and the user must select one choice. Radio groups must be stacked vertically.
 
-![](../.gitbook/assets/radio%20%281%29.png)
+![](../.gitbook/assets/radio-button-overview.jpg)
+
+![](../.gitbook/assets/radio.jpg)
 
 1. Current Selection
 
 ```text
+max-width: 24px
+max-height: 24px
+
 border: 1px
 border-color: blue-medium
 
@@ -49,31 +54,40 @@ font-color: text-black
 3. Unselected Options
 
 ```text
+max-width: 24px
+max-height: 24px
+
 border: 1px
 border-color: slate-medium
 ```
 
 4. Dividing Line
 
-The width of dividing lines are variable based on the context. Standalone dividers can take up to 12 columns. Dividers in cards need to have 32px padding on the left and right, in order to have separation within the card.
+The width of dividing lines are variable based on the context. Standalone dividers can take up to 12 columns. 
+
+Dividers within cards need to have 32px padding on the left and right, in order to have separation within the card.
 
 ```text
 border: 1px
 color: slate-light
 
-padding-top: 12px
-padding-bottom: 12px
+padding-top: 16px
+padding-bottom: 16px
 ```
 
 ## Checkboxes
 
 Checkboxes are used when the user can select multiple options. For example, adding extras in the booking flow. Each checkbox is independent of all other checkboxes in the list.
 
-![](../.gitbook/assets/checkbox.png)
+![](../.gitbook/assets/checkbox-overview.jpg)
+
+![](../.gitbook/assets/checkbox.jpg)
 
 1. Current Selection: There can be multiple selections.
 
 ```text
+max-width: 24px
+max-height: 24px
 border-radius: 3px
 color: blue-medium
 
@@ -91,13 +105,17 @@ font-color: text-black
 3. Unselected Options
 
 ```text
+max-width: 24px
+max-height: 24px
 border-radius: 3px
 border: 1px
 border-color: slate-medium
 ```
 
 4. Dividing Line:  
-Width of dividing lines are variable based on the context. Standalone dividers can take up to 12 columns. Dividers in cards need to have 32px padding on the left and right and 16px on mobile, in order to have separation within the card.
+Width of dividing lines are variable based on the context. Standalone dividers can take up to 12 columns. 
+
+Dividers in cards need to have 32px padding on the left and right and 16px on mobile, in order to have separation within the card.
 
 ```text
 border: 1px
@@ -110,6 +128,8 @@ padding-bottom: 12px
 ## Steppers
 
 Steppers are used to indicate a specific amount of one thing. 
+
+![](../.gitbook/assets/stepper-overview.jpg)
 
 ![](../.gitbook/assets/steppers.jpg)
 
@@ -144,10 +164,11 @@ color: slate-medium
 
 Date pickers are used when users are asked to enter their desired service date on when pages. On mobile web, date pickers will be the native date picker.   
 
+![](../.gitbook/assets/calendar-overview.jpg)
+
 ![](../.gitbook/assets/date-picker.jpg)
 
-1. Container  
-Width of container will match the width of the corresponding dropdown picker. 
+1. Container
 
 ```text
 color: white
@@ -156,19 +177,19 @@ border-color: slate-light
 border-width: 1px
 drop-shadow: 0px 0px 2px 4px rbg(0,0,0,.2)
 padding: 16px
+max-width: 320px
 ```
 
-2. Calendar Structure  
-Width of the calendar will depend on the width of the container. There will be a 16px padding around the whole calendar. 
+2. Calendar Structure
 
 ```text
 border-color: slate-medium-light
 border-width: 1px
 padding: 16px
+max-width: 280px
 ```
 
-3. Typography  
-The width of the dates and the border around is dependent on the size of container and calendar. The container should be 1:1 around the dates should be 1:1.
+3. Typography
 
 ```text
 Month:
@@ -180,26 +201,41 @@ Days:
 font-weight: book
 font-size: 16px
 text-color: slate-medium-dark
+max-width: 40px
+padding-top: 8px
+padding-top: 8px
 
 Past Dates:
 font-weight: book
 font-size: 16px
 text-color: slate-medium-dark
+max-width: 40px
+padding-top: 8px
+padding-top: 8px
 
 Current Date:
 font-weight: bold
 font-size: 16px
 text-color: text-black
+max-width: 40px
+padding-top: 8px
+padding-top: 8px
 
 Selected Date:
 font-weight: bold
 font-size: 16px
 text-color: white
+max-width: 40px
+padding-top: 8px
+padding-top: 8px
 
 Future Dates:
 font-weight: book
 font-size: 16px
 text-color: text-black
+max-width: 40px
+padding-top: 8px
+padding-top: 8px
 ```
 
 4. Selected State:
@@ -227,6 +263,8 @@ text-color: text-black
 ## Selectors
 
 Selectors can be used in lieu of radio buttons to add more imagery onto a page. Can be found on payment or build pages.
+
+![](../.gitbook/assets/selectors-with-image.jpg)
 
 ![](../.gitbook/assets/selector.jpg)
 
@@ -285,7 +323,11 @@ font-color: blue-medium
 
 ## Dropdown Pickers
 
-Dropdown pickers are used when there are multiple, predetermined options for a given input. The drop down menu itself is rendered in the default HTML styling. On desktop, the drop down opens on click. On mobile, the menu opens on tap. 
+Dropdown pickers are used when there are multiple, predetermined options for a given input. The drop down menu itself is rendered in the default HTML styling. On desktop, the drop down opens on click. On mobile, the menu opens on tap.
+
+![](../.gitbook/assets/dropdown-overview.jpg)
+
+ 
 
 ![](../.gitbook/assets/dropdown-pickers.jpg)
 
@@ -335,6 +377,8 @@ Drop down menus allow users to quickly navigate to relevant pages. They are used
 ## Page Tabs
 
 Page tabs are used to move between multiple pages of content. 
+
+![](../.gitbook/assets/page-tab-overview.jpg)
 
 ![](../.gitbook/assets/page-tabs.jpg)
 

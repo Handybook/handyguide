@@ -38,15 +38,15 @@ Buttons allow users to trigger an action, like submitting information or confirm
 
 ## Button CTAs
 
-Button CTAs come in two sizes, Standard and Small. Standard CTA buttons are the primary CTA styles used across Desktop and Mobile Web. They are used when there is a main ask from the user that should be prioritized above other asks on the same page. Small CTA buttons \(less commonly used\) are available when there are multiple primary CTAs on the same page.
+Button CTAs come in two sizes, Large and Small. Large CTA buttons are the primary CTA styles used across Desktop and Mobile Web. They are used when there is a main ask from the user that should be prioritized above other asks on the same page. Small CTA buttons \(less commonly used\) are available when there are multiple primary CTAs on the same page.
 
 ![](../.gitbook/assets/cta-overview.png)
 
 ### Primary Button CTA
 
-Primary button CTAs are used for the most important action on the page. These buttons are opaque and come in two sizes, standard and small. 
+Primary button CTAs are used for the most important action on the page. These buttons are opaque and come in two sizes, large and small. 
 
-#### Primary Standard CTA Button Properties \(default\)
+#### Primary Large CTA Button Properties \(default\)
 
 ```text
 max-height: 57px
@@ -59,7 +59,7 @@ padding-top: 16px
 padding-bottom: 16px
 ```
 
-#### Primary Standard CTA Button Properties \(on hover\)
+#### Primary Large CTA Button Properties \(on hover\)
 
 ```text
 max-height: 57px
@@ -100,9 +100,9 @@ padding-bottom: 12px
 
 ### Secondary Button CTAs
 
-Secondary button CTAs are used for subordinate actions on the page. These buttons are transparent with an outline and come in two sizes, Standard and Small. 
+Secondary button CTAs are used for subordinate actions on the page. These buttons are transparent with an outline and come in two sizes, Large and Small. 
 
-#### Secondary Standard Button CTA Properties \(default\)
+#### Secondary Large Button CTA Properties \(default\)
 
 ```text
 border-radius: 5px
@@ -114,7 +114,7 @@ padding-top: 16px
 padding-bottom: 16px
 ```
 
-#### Secondary Standard Button CTA Properties \(on hover\)
+#### Secondary Large Button CTA Properties \(on hover\)
 
 ```text
 border-radius: 5px
