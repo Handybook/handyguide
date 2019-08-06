@@ -21,7 +21,7 @@ Pickers allow users to select an option before taking an action. Pickers can be 
 
 ## Radio Pickers
 
-Radio buttons are used when there is a list of two or more options that and the user must select one choice. Radio groups must be stacked vertically.
+Radio buttons are used when there is a list of two or more mutually exclusive options and the user must select one choice. Radio groups must be stacked vertically.
 
 ![](../.gitbook/assets/radio-button-overview.jpg)
 
@@ -44,6 +44,8 @@ padding-right: 16px
 ```
 
 2. Content
+
+The content must be positioned 16px to the right of the radio button. 
 
 ```text
 font-weight: book
@@ -96,6 +98,8 @@ padding-right: 16px
 
 2. Content
 
+The content must be positioned 16px to the right of the radio button. 
+
 ```text
 font-weight: book
 font-size: 16px
@@ -112,7 +116,8 @@ border: 1px
 border-color: slate-medium
 ```
 
-4. Dividing Line:  
+4. Dividing Line
+
 Width of dividing lines are variable based on the context. Standalone dividers can take up to 12 columns. 
 
 Dividers in cards need to have 32px padding on the left and right and 16px on mobile, in order to have separation within the card.
@@ -162,7 +167,7 @@ color: slate-medium
 
 ## Date Picker
 
-Date pickers are used when users are asked to enter their desired service date on when pages. On mobile web, date pickers will be the native date picker.   
+Date pickers are used when users are asked to enter their desired service date on When pages. On mobile web, date pickers will be the native date picker.   
 
 ![](../.gitbook/assets/calendar-overview.jpg)
 
@@ -263,6 +268,8 @@ text-color: text-black
 ## Selectors
 
 Selectors can be used in lieu of radio buttons to add more imagery onto a page. Can be found on payment or build pages.
+
+![](../.gitbook/assets/selectors-with-images%20%281%29.png)
 
 ![](../.gitbook/assets/selectors-with-image.jpg)
 

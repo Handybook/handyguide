@@ -120,7 +120,5 @@ text-color: red-medium, #E74343
 
 Buttons always span the full width of the form content. We always use large buttons for forms. If a CTA in is required in the middle of a form, we use a special UI where the input field accommodates the CTA.
 
-#### dfvsdv
-
-
+![](../.gitbook/assets/buttons-forms.png)
 
