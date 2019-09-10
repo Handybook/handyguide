@@ -5,54 +5,7 @@ description: >-
   will be clean, simple and friendly.
 ---
 
-# Iconography
-
-## General Style
-
-![](../.gitbook/assets/general-style.png)
-
-1. Stroke is always 2px
-
-2. Radius is always 5px
-
-## Line Icons
-
-These icons will be the most basic style of icons. These style of icons will be used for links or inline text. If a line icon is needed outside links or inline text, please scale proportionally. 
-
-![Example of Line Icons](../.gitbook/assets/screen-shot-2019-04-16-at-9.54.55-am.png)
-
-### Link Icons 
-
-Link icons can be found in the headers or buttons. Since these icons acts as links, they will be colored in Blue-Medium like other links.
-
-![](../.gitbook/assets/link-icons.png)
-
-```text
-color: medium-handy-blue
-max-width: 20px
-max-height: 20px
-```
-
-### Inline Text Icons
-
-Inline text icons are mostly illustrative and give more visual elements to a text heavy area. These icons can be found as metadata in pro cards, bookings cards, and cleaning routine lists.
-
-![](../.gitbook/assets/inline-icons.png)
-
-#### Small inline text icons 
-
-```text
-color: slate-medium-dark
-max-width: 12px
-border: 1px
-```
-
-#### Large Inline Text Icons
-
-```text
-color: slate-medium-dark
-max-width: 24px
-```
+# Expressive Icons
 
 ## Two-Tone Icons
 
@@ -60,7 +13,7 @@ These icons have a bit more pop and personality. Textures can be added to create
 
 These icons follow a formula and use a primary and secondary color. Shades of the primary color are used for stroke and fill while secondary colors are used for minor details like a smaller fill area or texture.
 
-![Examples of two tone icons.](../.gitbook/assets/screen-shot-2019-04-16-at-9.54.42-am.png)
+![Examples of two tone icons.](../../.gitbook/assets/screen-shot-2019-04-16-at-9.54.42-am.png)
 
 
 
@@ -68,7 +21,7 @@ These icons follow a formula and use a primary and secondary color. Shades of th
 
 Two tone icons can be used to represent services, or add color interest. See below for examples from the My Services page on native and web. 
 
-![](../.gitbook/assets/two-tone-icons.png)
+![](../../.gitbook/assets/two-tone-icons.png)
 
 ### Creating Two Tone Icons
 
@@ -86,7 +39,7 @@ max-width: 64px (avatar)
 
 Secondary color use is at the discretion of the creator.
 
-![](../.gitbook/assets/colorrules.png)
+![](../../.gitbook/assets/colorrules.png)
 
 **Color Combinations:**
 
@@ -101,7 +54,7 @@ Secondary Color: Yellow
 Primary Color: Purple  
 Secondary Color: Re
 
-![Examples of two tone graphics in suggested color combinations](../.gitbook/assets/screen-shot-2019-04-17-at-4.19.28-pm.png)
+![Examples of two tone graphics in suggested color combinations](../../.gitbook/assets/screen-shot-2019-04-17-at-4.19.28-pm.png)
 
 
 
@@ -109,11 +62,11 @@ Secondary Color: Re
 
 Product marketing, emails, and ad campaigns can take a more creative approach. As long as the color palette is used and the stroke width and radius are kept consistent, our graphic style can be taken in any direction. Here are some ideas or ways you can use our icons and color palette. These types of graphics should be used for customer-facing interfaces where there is enough space to show details, such as Web and Email. 
 
-![Examples of Pros](../.gitbook/assets/artboard-18-100.jpg)
+![Examples of Pros](../../.gitbook/assets/artboard-18-100.jpg)
 
-![Example of Lawn Mowing full color graphic.](../.gitbook/assets/artboard-19-100.jpg)
+![Example of Lawn Mowing full color graphic.](../../.gitbook/assets/artboard-19-100.jpg)
 
-![Example of Interior Painting full color graphic. ](../.gitbook/assets/artboard-24-100.jpg)
+![Example of Interior Painting full color graphic. ](../../.gitbook/assets/artboard-24-100.jpg)
 
 ### General Rules for Full Color Graphics
 
@@ -149,7 +102,7 @@ After creating a new icon, it's important to follow these steps so that we can k
 
 3. After creating the new icon \(as a stroke\), copy and paste it over to the corresponding "expanded" artboard and Expand the shape. \(skip step for 2-tone icons\) 
 
-![](../.gitbook/assets/screen-shot-2019-04-17-at-3.37.21-pm.png)
+![](../../.gitbook/assets/screen-shot-2019-04-17-at-3.37.21-pm.png)
 
 4. Copy and paste the icon \(and all of its colored variants\) onto a 64px by 64px artboard into the Master Symbols sketch file. Icons do not all have be square, but must not exceed 64px in any way. 
 
@@ -166,13 +119,11 @@ Tool Icons: a-tool/\[name of new icon\]/\[color\] or a-tool/\[name of new icon\]
 
 ## Downloads
 
-### Simple Line Icons 
-
-{% file src="../.gitbook/assets/simple-line-icon-set.ai" %}
+{% file src="../../.gitbook/assets/simple-line-icon-set.ai" %}
 
 ### Master Icon Library
 
-{% file src="../.gitbook/assets/handy-icon-library.ai" caption="Master Icon Library" %}
+{% file src="../../.gitbook/assets/handy-icon-library.ai" caption="Master Icon Library" %}
 
 
 
