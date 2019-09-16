@@ -31,11 +31,11 @@
   * [Typography - Native](native/typography/README.md)
     * [Native Text Combinations](native/typography/text-combinations.md)
 * [Web](web/README.md)
+  * [Grid and Layout](web/grid-and-layout.md)
   * [Forms](web/forms.md)
   * [Typography \(Web\)](web/untitled.md)
-  * [Grid and Layout](web/grid-and-layout.md)
   * [Buttons](web/buttons.md)
-  * [Modals](web/modals.md)
   * [Pickers](web/pickers.md)
+  * [Modals](web/modals.md)
   * [Cards](web/cards.md)
 
