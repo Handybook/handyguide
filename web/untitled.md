@@ -20,9 +20,9 @@ Handy's web typography system is optimized for simplicity and enables streamline
 ****[**6. Link**](untitled.md#link)  
 ****[**7. Tertiary Text**](untitled.md#tertiary-text)\*\*\*\*
 
-## Header 1
+![](../.gitbook/assets/typography%20%281%29.png)
 
-![](../.gitbook/assets/typography%20%282%29.png)
+## Header 1
 
 H1's are the only type element that changes based on the size of the screen.
 
@@ -45,6 +45,8 @@ font-weight: bold
 font-size: 26px
 font-color: text-black
 ```
+
+![](../.gitbook/assets/typography%20%282%29.png)
 
 ![](../.gitbook/assets/header-1.png)
 
