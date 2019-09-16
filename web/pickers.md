@@ -6,7 +6,7 @@ description: Users can select from multiple options through a few various select
 
 ## Usage of Pickers
 
-Pickers allow users to select an option before taking an action. Pickers can be found on when and payment pages.
+Pickers allow users to select an option before taking an action. Pickers can be found on When and Payment pages.
 
 ## Type of Pickers
 
@@ -21,7 +21,7 @@ Pickers allow users to select an option before taking an action. Pickers can be 
 
 ## Radio Pickers
 
-Radio buttons are used when there is a list of two or more mutually exclusive options and the user must select one choice. Radio groups must be stacked vertically.
+Radio buttons are used when there is a list of two or more options that are _mutually exclusive_ and the user must select one choice. Radio groups must be stacked vertically.
 
 ![](../.gitbook/assets/radio-button-overview.jpg)
 
@@ -122,6 +122,8 @@ Width of dividing lines are variable based on the context. Standalone dividers c
 
 Dividers in cards need to have 32px padding on the left and right and 16px on mobile, in order to have separation within the card.
 
+The width of dividing lines are variable based on the context. Standalone dividers can take up to 12 columns. Dividers in cards need to have 32px padding on the left and right and 16px on mobile, in order to have separation within the card.
+
 ```text
 border: 1px
 color: slate-light 
@@ -132,9 +134,9 @@ padding-bottom: 12px
 
 ## Steppers
 
-Steppers are used to indicate a specific amount of one thing. 
-
 ![](../.gitbook/assets/stepper-overview.jpg)
+
+Steppers are used to indicate a specific amount of one thing. 
 
 ![](../.gitbook/assets/steppers.jpg)
 
@@ -151,8 +153,9 @@ float: centered
 color: slate-dark
 ```
 
-2. Disengaged Stepper  
-Disengaged steppers are present when a user has reached 0
+2. Disengaged Stepper
+
+Disengaged steppers are present when a user has reached 0.
 
 ```text
 Container:
@@ -165,15 +168,17 @@ float: centered
 color: slate-medium
 ```
 
+![](../.gitbook/assets/calendar-overview.jpg)
+
 ## Date Picker
 
 Date pickers are used when users are asked to enter their desired service date on When pages. On mobile web, date pickers will be the native date picker.   
 
-![](../.gitbook/assets/calendar-overview.jpg)
-
 ![](../.gitbook/assets/date-picker.jpg)
 
 1. Container
+
+The width of the container will match the width of the corresponding dropdown picker. 
 
 ```text
 color: white
@@ -187,6 +192,8 @@ max-width: 320px
 
 2. Calendar Structure
 
+The width of the calendar will depend on the width of the container. There will be 16px padding around the whole calendar. 
+
 ```text
 border-color: slate-medium-light
 border-width: 1px
@@ -195,6 +202,8 @@ max-width: 280px
 ```
 
 3. Typography
+
+The width of the dates and the border around the dates are dependent on the size of the container and calendar. The container should be 1:1 around the dates should be 1:1.
 
 ```text
 Month:
@@ -245,6 +254,10 @@ padding-top: 8px
 
 4. Selected State:
 
+![](../.gitbook/assets/selectors-with-images%20%281%29.png)
+
+![](../.gitbook/assets/selectors-with-image.jpg)
+
 ```text
 color: medium-blue
 
@@ -268,10 +281,6 @@ text-color: text-black
 ## Selectors
 
 Selectors can be used in lieu of radio buttons to add more imagery onto a page. They can be found on payment or build pages.
-
-![](../.gitbook/assets/selectors-with-images%20%281%29.png)
-
-![](../.gitbook/assets/selectors-with-image.jpg)
 
 ![](../.gitbook/assets/selector.jpg)
 
@@ -313,6 +322,10 @@ border-width: 3px
 
 5. Selected Icon
 
+![](../.gitbook/assets/dropdown-overview.jpg)
+
+ 
+
 ```text
 max-height: 32px
 
@@ -331,10 +344,6 @@ font-color: blue-medium
 ## Dropdown Pickers
 
 Dropdown pickers are used when there are multiple, predetermined options for a given input. The drop down menu itself is rendered in the default HTML styling. On desktop, the drop down opens on click. On mobile, the menu opens on tap.
-
-![](../.gitbook/assets/dropdown-overview.jpg)
-
- 
 
 ![](../.gitbook/assets/dropdown-pickers.jpg)
 
@@ -375,6 +384,8 @@ background-color: off-white
 
 Drop down menus allow users to quickly navigate to relevant pages. They are used to house options that will take users to a new page or modal. Options in the drop down menu can be text only, or include a line icon on the left. On desktop, they open on hover. On mobile, they open on tab. 
 
+![](../.gitbook/assets/page-tab-overview.jpg)
+
 ![](../.gitbook/assets/dropdown-menu%20%281%29.png)
 
 #### Menu Animation
@@ -384,8 +395,6 @@ Drop down menus allow users to quickly navigate to relevant pages. They are used
 ## Page Tabs
 
 Page tabs are used to move between multiple pages of content. 
-
-![](../.gitbook/assets/page-tab-overview.jpg)
 
 ![](../.gitbook/assets/page-tabs.jpg)
 

@@ -29,7 +29,7 @@ Service Cards can be displayed in multiple layouts: 3 \(4-column\), 4 \(3-column
 
 Form Cards come in two layouts: Wide and Narrow. 
 
-![](../.gitbook/assets/card-layout-forms.png)
+![](../.gitbook/assets/card-layout-forms%20%281%29.png)
 
 ### Card Properties 
 
