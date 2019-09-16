@@ -10,7 +10,7 @@ Forms are used when it makes sense to gather multiple pieces of information from
 
 ### Primary Forms \(Desktop Only\)
 
-Primary forms are used when the primary purpose of the page is to collect information and move the user through an input flow. They are always sticky to the left side and take up 8 columns. 
+Primary forms are used when the primary purpose of the page is to collect information and move the user through an input flow. 
 
 ![](../.gitbook/assets/wide-form.png)
 
@@ -42,17 +42,17 @@ We use two form layouts on desktop: A primary, left-aligned form, and a secondar
 
 We use [H2 headers or H3 headers](../brand-guidelines/typography-1.md) to label forms or sections of forms. Headers should be short and clearly define the group of input fields the cover. If needed, use subcopy in dark slate under the header. You can also use subcopy between input fields without adding another header, if the input fields live under the same header.
 
-![](../.gitbook/assets/headers.png)
-
 ### Input Fields
 
-We use the same input field UI across all forms \(same across desktop, mobile web, and native\). The only variable is the width of the input field. 
+![](../.gitbook/assets/headers.png)
 
-![](../.gitbook/assets/input-fields%20%284%29.png)
+We use the same input field UI across all forms \(same across desktop, mobile web, and native\). The only variable is the width of the input field. 
 
 ![](../.gitbook/assets/text-field-animation.gif)
 
 #### Inactive: Label or Placeholder Text
+
+![](../.gitbook/assets/input-fields%20%284%29.png)
 
 ```text
 font-family: Circular
