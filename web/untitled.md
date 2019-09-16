@@ -20,7 +20,7 @@ Handy's web typography system is optimized for simplicity and enables streamline
 ****[**6. Link**](untitled.md#link)  
 ****[**7. Tertiary Text**](untitled.md#tertiary-text)\*\*\*\*
 
-![](../.gitbook/assets/web-typography.png)
+![](../.gitbook/assets/typography%20%281%29.png)
 
 ## Header 1
 
