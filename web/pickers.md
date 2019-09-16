@@ -267,7 +267,7 @@ text-color: text-black
 
 ## Selectors
 
-Selectors can be used in lieu of radio buttons to add more imagery onto a page. Can be found on payment or build pages.
+Selectors can be used in lieu of radio buttons to add more imagery onto a page. They can be found on payment or build pages.
 
 ![](../.gitbook/assets/selectors-with-images%20%281%29.png)
 
