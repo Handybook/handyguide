@@ -67,9 +67,9 @@ border-color: slate-medium
 
 4. Dividing Line
 
-The width of dividing lines are variable based on the context. Standalone dividers can take up to 12 columns. 
+Width of dividing lines are variable based on the context. Standalone dividers can take up to 12 columns. 
 
-Dividers within cards need to have 32px padding on the left and right, in order to have separation within the card.
+Dividers in cards need to have 32px padding on the left and right and 16px on mobile, in order to have separation within the card.
 
 ```text
 border: 1px
@@ -124,8 +124,6 @@ Width of dividing lines are variable based on the context. Standalone dividers c
 
 Dividers in cards need to have 32px padding on the left and right and 16px on mobile, in order to have separation within the card.
 
-The width of dividing lines are variable based on the context. Standalone dividers can take up to 12 columns. Dividers in cards need to have 32px padding on the left and right and 16px on mobile, in order to have separation within the card.
-
 ```text
 border: 1px
 color: slate-light 
@@ -136,7 +134,7 @@ padding-bottom: 12px
 
 ## Steppers
 
-Steppers are used to indicate a specific amount of one thing
+Steppers are used to indicate a specific amount of one thing, usually in the booking flow. The 
 
 ![](../.gitbook/assets/stepper-overview.jpg)
 
@@ -342,30 +340,9 @@ font-color: blue-medium
 
 ![](../.gitbook/assets/dropdown-overview.jpg)
 
-## Dropdown Menus
 
-Drop down menus allow users to quickly navigate to relevant pages. They are used to house options that will take users to a new page or modal. Options in the drop down menu can be text only, or include a line icon on the left. We stylize and standardize our drop down menus with CSS.  
-
-![](../.gitbook/assets/dropdown-menu%20%281%29.png)
 
 ![](../.gitbook/assets/dropdown-pickers.jpg)
-
-```
-border: 1px
-```
-
-```text
-color: slate-medium #C2CED3
-font: circular-std
-font-size: 14px
-top-padding 16px
-botton padding: 16px
-
-caret icon: <i class="fas fa-angle-down"></i>
-caret-icon-color: slate-dark #667884
-```
-
-
 
 1. Content: Will show the default option upon load
 
@@ -400,15 +377,15 @@ border color: slate-medium
 background-color: off-white
 ```
 
-### Dropdown Menu Animation
+## Dropdown Menus
 
-![](../.gitbook/assets/page-tab-overview.jpg)
-
-![](../.gitbook/assets/dropdown-menu.gif)
+Drop down menus allow users to quickly navigate to relevant pages. They are used to house options that will take users to a new page or modal. Options in the drop down menu can be text only, or include a line icon on the left. We stylize and standardize our drop down menus with CSS.  
 
 On desktop, drop down menus open on hover and close when the user moves the mouse out of range of the the drop down container. On mobile, they open on tab and close when the user taps outside of the container.
 
-```text
+![](../.gitbook/assets/dropdown-menu%20%281%29.png)
+
+```
 font: circular-std
 font-size: 16px
 top-padding: 16px
@@ -417,28 +394,46 @@ left-padding: 24px
 right-padding: 24px
 background-color-hover: blue-light #EEF6F9
 
-icon color: slate-dark #667884
+icon color: slate-dark
 ```
+
+### Dropdown Menu Animation
+
+![](../.gitbook/assets/dropdown-menu.gif)
 
 ## Dropdown for Services \(Desktop Web Only\)
-
-```text
-font: circular-std
-font-size: 16px
-top-padding: 16px
-bottom-padding: 16px
-left-padding: 24px
-right-padding: 24px
-background-color-hover: blue-light #EEF6F9
-
-icon color: slate-dark #667884
-```
-
-Steppers are used to indicate a specific amount of one thing, usually in the booking flow. The 
 
 For service discovery purposes, we've broken from our standard dropdown UI on desktop to create space for four columns of services. This menu exists on desktop web only, and breaks to mobile at a screen size of 1024px. 
 
 ![](../.gitbook/assets/meganav.png)
+
+#### Headers
+
+```text
+font: circular-bold
+font-color: blue-medium #036DA1
+font-size: 14px
+[no hover state]
+```
+
+#### Services
+
+```text
+font: circular-std
+font-color: slate-dark #667884
+font-size: 14px
+hover-color: text-black #434343
+```
+
+## Page Tabs
+
+Page tabs are used to move between multiple pages of content. 
+
+![](../.gitbook/assets/page-tab-overview.jpg)
+
+
+
+![](../.gitbook/assets/page-tabs.jpg)
 
 1. Typography
 
@@ -476,34 +471,6 @@ padding-right: 64px
 padding-left: 64px
 ```
 
-#### Headers
-
-```text
-font: circular-bold
-font-color: blue-medium #036DA1
-font-size: 14px
-no hover state
-```
-
-#### Services
-
-```text
-font: circular-std
-font-color: slate-dark #667884
-font-size: 14px
-hover-color: text-black #434343
-```
-
-## Page Tabs
-
-Page tabs are used to move between multiple pages of content. 
-
-![](../.gitbook/assets/page-tab-overview.jpg)
-
-
-
-![](../.gitbook/assets/page-tabs.jpg)
-
 ```text
 border: 1px
 color: slate-medium #C2CED3
@@ -520,8 +487,6 @@ minus icon: <i class="fas fa-minus"></i>
 plus icon: <i class="fas fa-plus"></i>
 info icon: <i class="far fa-info-circle"></i>
 ```
-
-
 
 
 

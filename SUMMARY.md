@@ -7,7 +7,7 @@
   * [Line Icons](brand-guidelines/line-icons.md)
   * [Expressive Icons](brand-guidelines/iconography.md)
   * [Typography](brand-guidelines/typography-1.md)
-* [Consumer App](native/README.md)
+* [Native](native/README.md)
   * [Action Cards](native/action-cards/README.md)
     * [Booking Cards](native/action-cards/booking-cards.md)
     * [Pro Cards](native/action-cards/pro-cards.md)
