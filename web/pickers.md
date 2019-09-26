@@ -136,9 +136,9 @@ padding-bottom: 12px
 
 ## Steppers
 
-![](../.gitbook/assets/stepper-overview.jpg)
+Steppers are used to indicate a specific amount of one thing
 
-Steppers are used to indicate a specific amount of one thing. 
+![](../.gitbook/assets/stepper-overview.jpg)
 
 ![](../.gitbook/assets/steppers.jpg)
 
@@ -170,11 +170,12 @@ float: centered
 color: slate-medium
 ```
 
-![](../.gitbook/assets/calendar-overview.jpg)
-
 ## Date Picker
 
 Date pickers are used when users are asked to enter their desired service date on When pages. On mobile web, date pickers will be the native date picker.   
+
+
+![](../.gitbook/assets/calendar-overview.jpg)
 
 ![](../.gitbook/assets/date-picker.jpg)
 
@@ -256,10 +257,6 @@ padding-top: 8px
 
 4. Selected State:
 
-![](../.gitbook/assets/selectors-with-images%20%281%29.png)
-
-![](../.gitbook/assets/selectors-with-image.jpg)
-
 ```text
 color: medium-blue
 
@@ -283,6 +280,8 @@ text-color: text-black
 ## Selectors
 
 Selectors can be used in lieu of radio buttons to add more imagery onto a page. They can be found on payment or build pages.
+
+![](../.gitbook/assets/selectors-with-images%20%281%29.png)
 
 ![](../.gitbook/assets/selector.jpg)
 
@@ -324,10 +323,6 @@ border-width: 3px
 
 5. Selected Icon
 
-![](../.gitbook/assets/dropdown-overview.jpg)
-
- 
-
 ```text
 max-height: 32px
 
@@ -345,10 +340,21 @@ font-color: blue-medium
 
 ## Dropdown Pickers
 
+![](../.gitbook/assets/dropdown-overview.jpg)
+
 ## Dropdown Menus
 
-```text
+Drop down menus allow users to quickly navigate to relevant pages. They are used to house options that will take users to a new page or modal. Options in the drop down menu can be text only, or include a line icon on the left. We stylize and standardize our drop down menus with CSS.  
+
+![](../.gitbook/assets/dropdown-menu%20%281%29.png)
+
+![](../.gitbook/assets/dropdown-pickers.jpg)
+
+```
 border: 1px
+```
+
+```text
 color: slate-medium #C2CED3
 font: circular-std
 font-size: 14px
@@ -359,9 +365,7 @@ caret icon: <i class="fas fa-angle-down"></i>
 caret-icon-color: slate-dark #667884
 ```
 
-Drop down menus allow users to quickly navigate to relevant pages. They are used to house options that will take users to a new page or modal. Options in the drop down menu can be text only, or include a line icon on the left. We stylize and standardize our drop down menus with CSS.  
 
-![](../.gitbook/assets/dropdown-pickers.jpg)
 
 1. Content: Will show the default option upon load
 
@@ -396,8 +400,6 @@ border color: slate-medium
 background-color: off-white
 ```
 
-![](../.gitbook/assets/dropdown-menu%20%281%29.png)
-
 ### Dropdown Menu Animation
 
 ![](../.gitbook/assets/page-tab-overview.jpg)
@@ -405,6 +407,18 @@ background-color: off-white
 ![](../.gitbook/assets/dropdown-menu.gif)
 
 On desktop, drop down menus open on hover and close when the user moves the mouse out of range of the the drop down container. On mobile, they open on tab and close when the user taps outside of the container.
+
+```text
+font: circular-std
+font-size: 16px
+top-padding: 16px
+bottom-padding: 16px
+left-padding: 24px
+right-padding: 24px
+background-color-hover: blue-light #EEF6F9
+
+icon color: slate-dark #667884
+```
 
 ## Dropdown for Services \(Desktop Web Only\)
 
@@ -425,8 +439,6 @@ Steppers are used to indicate a specific amount of one thing, usually in the boo
 For service discovery purposes, we've broken from our standard dropdown UI on desktop to create space for four columns of services. This menu exists on desktop web only, and breaks to mobile at a screen size of 1024px. 
 
 ![](../.gitbook/assets/meganav.png)
-
-![](../.gitbook/assets/page-tabs.jpg)
 
 1. Typography
 
@@ -482,11 +494,15 @@ font-size: 14px
 hover-color: text-black #434343
 ```
 
-## Steppers
-
 ## Page Tabs
 
-![](../.gitbook/assets/ezgif.com-video-to-gif.gif)
+Page tabs are used to move between multiple pages of content. 
+
+![](../.gitbook/assets/page-tab-overview.jpg)
+
+
+
+![](../.gitbook/assets/page-tabs.jpg)
 
 ```text
 border: 1px
@@ -507,5 +523,5 @@ info icon: <i class="far fa-info-circle"></i>
 
 
 
-Page tabs are used to move between multiple pages of content. 
+
 
