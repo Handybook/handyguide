@@ -46,13 +46,13 @@ We use [H2 headers or H3 headers](../brand-guidelines/typography-1.md) to label 
 
 ![](../.gitbook/assets/headers.png)
 
-We use the same input field UI across all forms \(same across desktop, mobile web, and native\). The only variable is the width of the input field. 
+We use the same [input field UI](../native/text-field.md) across all forms \(same across desktop, mobile web, and native\). The only variable is the width of the input field. 
 
 ![](../.gitbook/assets/text-field-animation.gif)
 
-#### Inactive: Label or Placeholder Text
-
 ![](../.gitbook/assets/input-fields%20%284%29.png)
+
+#### Inactive: Label or Placeholder Text
 
 ```text
 font-family: Circular
@@ -118,7 +118,7 @@ text-color: red-medium, #E74343
 
 ### Buttons
 
-Buttons always span the full width of the form content. We always use large buttons for forms. If a CTA in is required in the middle of a form, we use a special UI where the input field accommodates the CTA.
+[Buttons](buttons.md) always span the full width of the form content. We always use large buttons for forms. If a CTA in is required in the middle of a form, we use a special UI where the input field accommodates the CTA.
 
 ![](../.gitbook/assets/buttons-forms.png)
 
