@@ -39,6 +39,7 @@ For example, selecting bedrooms in the booking flow. Radio buttons describe comp
 ```text
 border: 1px
 border-color: blue-medium
+size: 24px
 
 Fill:
 color: blue-medium
@@ -68,6 +69,7 @@ font-color: slate-dark
 ```text
 border: 1px
 border-color: slate-medium
+size: 24px
 ```
 
 5. Dividing Line:
@@ -91,6 +93,7 @@ Checkboxes are used when the user can select multiple options. For example, addi
 ```text
 border-radius: 3px
 color: blue-medium
+size: 24px
 
 padding-top: 16px
 ```
@@ -117,6 +120,7 @@ font-color: slate-dark
 border radius: 3px
 border: 1px
 border-color: slate-medium
+size: 24px
 ```
 
 5. Dividing Line:

@@ -30,6 +30,7 @@ padding-bottom: 16px
 border-radius: 5px
 border: 1px
 border color: slate-medium
+max-height: 52px
 ```
 
 **3. Input Area:** This is where people enter text
