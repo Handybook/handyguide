@@ -16,21 +16,21 @@ Action cards allow users to access underlying pages or flows. Action cards can b
 
 There are a few variations of action cards, but all inherit the same basic structure. 
 
-\*\*\*\*[**1. Booking Card \(card-CA-booking\)**](booking-cards.md)  
+\*\*\*\*[**1. Account \(card-account\)**](account-cards.md)  
+Account cards show the name of the owner of the account.
+
+\*\*\*\*[**2. Booking Card \(card-CA-booking\)**](booking-cards.md)  
 Booking cards give users key information about a booking. If a booking is active the card will incorporate a map.  
   
-[**2. Jobs \(card-PA-job\)**](message-cards.md)  
+[**3. Jobs \(card-PA-job\)**](job-cards.md)  
 Job cards show key information about jobs.  
   
-[**3. User Card \(card-CA-pro, card-PA-cust\)**](user-cards.md)  
-User cards have key informations about customers and professionals. Depending on the context of the card, different kinds of information will be surfaced.
-
-[**4. Messages \(card-message\)**](message-cards.md)  
-Message cards shows a preview of the last message sent or received.   
-  
-[**5. List \(card-list\)**](message-cards.md)  
+[**4. List \(card-list\)**](list-cards.md)  
 List cards are list items that have underlying flows or pages. Can be shown with or without an icon.  
   
-[**6. Account \(card-account\)**](message-cards.md)  
-Account cards show the name of the owner of the account.
+[**5. Messages \(card-message\)**](message-cards.md)  
+Message cards shows a preview of the last message sent or received.   
+  
+[**6. User Card \(card-CA-pro, card-PA-cust\)**](user-cards.md)  
+User cards have key informations about customers and professionals. Depending on the context of the card, different kinds of information will be surfaced.
 

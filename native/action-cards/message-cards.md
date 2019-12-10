@@ -6,9 +6,11 @@ description: >-
 
 # Message Cards
 
-## Messages
+## Usages of Message Cards
 
 Message cards are found in the messages tab. It will reflect key information like the image of the person who sent the message, the time the message was sent, and a preview of the message. 
+
+![](../../.gitbook/assets/message-overview%20%282%29.png)
 
 ### Types of Message Cards
 
