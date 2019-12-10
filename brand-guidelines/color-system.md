@@ -1,3 +1,7 @@
+---
+description: An organized approach to apply colors to our UI and marketing assets.
+---
+
 # Color System
 
 ## Color System

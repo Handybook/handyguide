@@ -4,7 +4,7 @@ description: >-
   the pro's profile.
 ---
 
-# Pro Cards
+# User Cards
 
 ## Usage of Pro Cards
 
@@ -12,15 +12,15 @@ Pro lists are made up of booking cards. Pro cards are used to give users a basic
 
 ### Types of Pro Cards
 
-**1.** [**Basic Pro Card \(m-card-pro\)**](pro-cards.md#anatomy-of-basic-pro-card-m-card-pro)\*\*\*\*
+**1.** [**Basic Pro Card \(m-card-pro\)**](user-cards.md#anatomy-of-basic-pro-card-m-card-pro)\*\*\*\*
 
 ![](../../.gitbook/assets/pc-basic.png)
 
-**2.** [**Pro Search Card \(m-card-pro-search\)**](pro-cards.md#anatomy-of-pro-search-card-m-card-pro-search)\*\*\*\*
+**2.** [**Pro Search Card \(m-card-pro-search\)**](user-cards.md#anatomy-of-pro-search-card-m-card-pro-search)\*\*\*\*
 
 ![](../../.gitbook/assets/pc-search.png)
 
-**3.** [**Pro Search with Availability Card \(m-card-pro-availability\)**](pro-cards.md#pro-search-with-time)\*\*\*\*
+**3.** [**Pro Search with Availability Card \(m-card-pro-availability\)**](user-cards.md#pro-search-with-time)\*\*\*\*
 
 ![](../../.gitbook/assets/pc-avail.png)
 
@@ -86,7 +86,7 @@ Users can access pro search by clicking through from the My Pros page. They can 
 
 ![](../../.gitbook/assets/pro-search-list.png)
 
-**1.** [**Basic Pro Card**](pro-cards.md#anatomy-of-basic-pro-card-m-card-pro)\*\*\*\*
+**1.** [**Basic Pro Card**](user-cards.md#anatomy-of-basic-pro-card-m-card-pro)\*\*\*\*
 
 ```text
 padding-bottom: 16px
@@ -152,7 +152,7 @@ padding-top: 24px
 
 ## Pro Search with Availability Card \(m-card-pro-availability\)
 
-User can do a pro search from a flows like the reschedule or change pro from the booking details page. These cards are very similar to the [pro search cards](pro-cards.md#anatomy-of-pro-search-card-m-card-pro-search) above but includes information about the pro’s availability and metadata section has a max of 3.
+User can do a pro search from a flows like the reschedule or change pro from the booking details page. These cards are very similar to the [pro search cards](user-cards.md#anatomy-of-pro-search-card-m-card-pro-search) above but includes information about the pro’s availability and metadata section has a max of 3.
 
 ![Pro Search Card with Availability Information](../../.gitbook/assets/prosearchtime.png)
 

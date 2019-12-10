@@ -21,18 +21,9 @@ Common languages across internal teams lead to faster and streamlined building p
 
 ### Documentation
 
-Empower internal teams by creating a common language via good documentation. 
+Empower internal teams by creating a common design language via good documentation. 
 
 ### Expand
 
 In order to keep things fresh and updated, the output of this exercise must always be expanding and growing.
-
-## Design System Status
-
-As of February 2019:  
-• Customer app resources \(Master Symbols File and documentation\) are done.
-
-Upcoming Work:  
-April 2019 - Chat components completed and in HandyKit Library  
-May 2019 - Home Page/Services components and Bookings/BDP pages.
 
