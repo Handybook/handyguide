@@ -1,5 +1,5 @@
 ---
-description: Icon lists add visual interest and quick visual cues to longer lists of text.
+description: Icon lists add visual interest and quick visual cues to longer blocks of text.
 ---
 
 # Icon Lists
@@ -10,36 +10,32 @@ Icon lists are unordered lists with a line icon component placed to the left. Th
 
 ![](../.gitbook/assets/icon-list-overview.png)
 
-## Sketch Library Components
-
-Naming conventions for icon lists in the Sketch Master Symbols file.
-
-![](../.gitbook/assets/sketch-list-icons.png)
-
 ## Anatomy of Icon Lists
 
-1. Icon \(a-cr\_icons/...\)
+![](../.gitbook/assets/icon-lists%20%281%29.png)
 
-![](../.gitbook/assets/m-list-cr.png)
+**1. Label Icon - Font Awesome**
 
 ```text
-max-width: 50.5px
+font: font-awesome
+font-size: 16px
+font-weight: light
+font-color: slate-dark
 padding-left: 16px
 padding-right: 8px
-fill-color: #667884
+padding-top: 16px
+padding-bottom: 16px
 ```
 
-2. Text
+**2. Text \(a-text-paragraph\)**
 
 ```text
-top-padding: 8px
-bottom-padding: 8px
+font-weight: book
+font-size: 16px
+font-color: white or slate-dark
+padding-left: 8px
 padding-right: 16px
-font-size: 16pt
-font-color: #434343
+padding-top: 12px
+padding-bottom: 12px
 ```
-
-
-
-Optional: Bold text for list item title
 

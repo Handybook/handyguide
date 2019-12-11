@@ -14,27 +14,33 @@ Headers are used to communicate what page \(tab\) a user is on. The header compo
 
 ## Types of Headers
 
-**1.** [**Main Headers \(m-header-primary\)**](headers-1.md#main-headers)\*\*\*\*
+\*\*\*\*[**1. Primary Headers \(header-primary\)**](headers-1.md#main-headers)\*\*\*\*
 
 ![](../.gitbook/assets/primary-header.png)
 
-**2.** [**Secondary Header \(m-header-secondary\)**](headers-1.md#secondary-headers)\*\*\*\*
+**2.** [**Secondary Header \(header-secondary\)**](headers-1.md#secondary-headers)\*\*\*\*
 
 ![](../.gitbook/assets/secondary-header.png)
 
-**3.** [**Section Header \(m-header-section\)**](headers-1.md#section-headers)\*\*\*\*
+**3.** [**Section Header \(header-section\)**](headers-1.md#section-headers)\*\*\*\*
 
-![](../.gitbook/assets/section-header%20%281%29.png)
+![](../.gitbook/assets/section-header%20%282%29.png)
 
-**4.** [**Time Subheader \(m-subheader-time\)**](headers-1.md#time-subheader)\*\*\*\*
+**4.** [**Time Subheader \(subheader-time\)**](headers-1.md#time-subheader)\*\*\*\*
 
-![](../.gitbook/assets/time-subheader.png)
+![](../.gitbook/assets/time-subheader%20%281%29.png)
 
-## Main Headers
+**5. Dropdown Subheader \(header-dropdown\)**
 
-Main Headers are components used on main pages like Bookings, My Pros, Messages, and Account. Main headers will scroll with the content of the page.
+![](../.gitbook/assets/dropdown-header.png)
 
-![Main Header](../.gitbook/assets/main-header-image.png)
+## Primary Headers
+
+Primary Headers are components used on main app pages. Main headers will scroll with the content of the page.
+
+![](https://blobscdn.gitbook.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-LPWP46krdBhvVZjXTI3%2F-Lvq_NpE1vtoqF2ZbFqQ%2F-Lvqdab7hZbRlaQOJcnm%2FPrimary%20Header.png?alt=media&token=3b668d7f-d677-4684-a392-440a924111bd)
+
+![](../.gitbook/assets/main-header-image.png)
 
 **1. Header Label \(a-text-h1\)**
 
@@ -42,25 +48,34 @@ Main Headers are components used on main pages like Bookings, My Pros, Messages,
 a-text-h1:
 font-family: bold
 font-size: 24px;
-font-color: text-black
+font-color: text-black or white
 
 padding-left: 16px;
 padding-right: 16px;
 padding-top: 16px;
 ```
 
-**2.  Action Icons \(a-header-icon\)**  
-Action icons lead users to other flows and pages or allow users to make decisions on half sheets. They are optional.
+**2.  Action Icons**  
+Action icons lead users to other flows and pages or allow users to make decisions on half sheets. They are optional. 
 
 ```text
-a-header-icon:
-max-height: 20px
-max-width: 20px
+font: font-awesome
+font-size: 20px
+font-weight: light
+font-color: blue-medium or white
+
+Icon 1:
+padding-right: 34px
+
+Icon 2:
+padding-right: 16px
 ```
 
 ## Secondary Headers
 
-Sub-headers are subpages or flows that are navigated to from a main tab page. Examples include Booking Detail Pages, Pro Search, Pro Profile, or a Message Thread. Unlike main headers, sub-headers will stick to the top so users have a way to navigate away from the page.
+Sub-headers are used on subpages or flows that are navigated to from a main tab page. Unlike main headers, sub-headers will stick to the top so users have a way to navigate away from the page.
+
+![](https://blobscdn.gitbook.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-LPWP46krdBhvVZjXTI3%2F-Lvq_NpE1vtoqF2ZbFqQ%2F-LvqdgGsXffvXeUdPXLa%2FSecondary%20Header.png?alt=media&token=00944979-061f-45be-90eb-b959acf384a4)
 
 ![](../.gitbook/assets/subheader-image.png)
 
@@ -82,13 +97,26 @@ padding-right: 8px
 a-text-h4:
 font-weight: medium
 font-size: 16px
-font-color: text-black
+font-color: text-black or white
 
 padding-top: 16px
 padding-bottom: 16px
 ```
 
-**3. Divider Line \(a-divider-dark\)**  
+**3.  Action Icons \(a-header-icon\)**  
+Action icons lead users to other flows and pages or allow users to make decisions on half sheets. They are optional.
+
+```text
+font: font-awesome
+font-size: 20px
+font-weight: light
+font-color: blue-medium or white
+
+Icon 2:
+padding-right: 16px
+```
+
+**4. Divider Line \(a-divider-dark\)**  
 For easy viewing and consumption, subheaders will have divider lines.
 
 ```text
@@ -100,16 +128,9 @@ color: slate-medium-light
 padding-top: 16px
 ```
 
-**4.  Action Icons \(a-header-icon\)**  
-Action icons lead users to other flows and pages or allow users to make decisions on half sheets. They are optional.
-
-```text
-a-header-icon:
-max-height: 20px
-max-width: 20px
-```
-
 ## Section Headers
+
+![](https://blobscdn.gitbook.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-LPWP46krdBhvVZjXTI3%2F-Lvq_NpE1vtoqF2ZbFqQ%2F-LvqdvdmGD2NamEeoLM5%2FSection%20Header.png?alt=media&token=38aca531-ac1c-481b-83b6-8048f1fafbb5)
 
 ![Section Header](../.gitbook/assets/section-headers.png)
 
@@ -134,7 +155,9 @@ max-width: 100%
 
 ## Time Subheader
 
-![Time Subheaer](../.gitbook/assets/time-subheader%20%281%29.png)
+![](https://blobscdn.gitbook.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-LPWP46krdBhvVZjXTI3%2F-Lvq_NpE1vtoqF2ZbFqQ%2F-Lvqdn4XnXbWlKjTQ_XU%2FTime%20Subheader.png?alt=media&token=e6413e36-89b9-412c-8236-81069c7a6c2c)
+
+![](../.gitbook/assets/time-subheader.png)
 
 **1. Date & Time \(a-text-paragraph\)**  
 Reflects the time chosen on the native time picker.
