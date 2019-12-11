@@ -14,8 +14,14 @@ The Claims and Schedule page are made up of jobs cards. Jobs cards are used to r
 
 ## Job Card Types
 
-**1. Pre-Claim Job Card \(card-PA-job-pre-claim\)  
-2. Claimed Job Card \(card-PA-job-claimed\)**
+**1. Pre-Claim Job Card \(card-PA-job-pre-claim\)**
+
+![](../../.gitbook/assets/job-card-pre-claim.png)
+
+  
+**2. Claimed Job Card \(card-PA-job-claimed\)**
+
+![](../../.gitbook/assets/job-card-claimed-overview.png)
 
 ## Anatomy of Pre-Claim Job Card \(**card-PA-job-pre-claim**\)
 
@@ -23,7 +29,7 @@ The Claims and Schedule page are made up of jobs cards. Jobs cards are used to r
 
 ![](../../.gitbook/assets/job-cards-details%20%281%29.png)
 
-**1. Booking Information \(text-h3, text-tert\)**  
+**1. Job Information \(text-h3, text-tert\)**  
 Reflects key information about the job. [**H1 styling**](../typography/#h1-style) for the Service Name and [**Tertiary styling**](../typography/#tertiary-styling) for secondary job information like Time and Location.
 
 ```text
@@ -103,12 +109,37 @@ padding-right: 4px
 ```
 
 **5. Divider \(a-divider-light-75\)**  
-For easy viewing and consumption, booking cards will have divider lines.
+For easy viewing and consumption, cards will have divider lines.
 
 ```text
 max-width: 375
 max-height: 1px
 color: slate-light
 padding-top: 24px
+```
+
+## Anatomy of Claimed Job Card \(card-PA-job-claimed\)
+
+After a job is claimed and on a pro's schedule, the job card changes so that the H1 is replaced with the client's name. All other styles stay the same.
+
+![](https://blobscdn.gitbook.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-LPWP46krdBhvVZjXTI3%2F-LvM4_j1XWmuYC1DomAs%2F-LvNLXSGBW0ENpcE-OxF%2FJobs-Overview.png?alt=media&token=8bffaae4-f936-426a-a805-24c7af1305de)
+
+![](../../.gitbook/assets/job-cards-claimed-details.png)
+
+**1. Job Information \(text-h3, text-tert\)**  
+Reflects key information about the job. [**H1 styling**](../typography/#h1-style) for the Client Name and [**Tertiary styling**](../typography/#tertiary-styling) for secondary job information like Service Name, Time, and Location.
+
+```text
+H1 - Client Name (text-h3):
+font-size: 16px
+font-weight: bold
+font-color: text-black
+padding-bottom: 4px
+
+Secondary Job Info (text-tert):
+font-size: 14px
+font-weight: book
+font-color: text-black
+padding-bottom: 4px
 ```
 

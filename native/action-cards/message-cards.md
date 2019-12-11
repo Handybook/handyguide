@@ -22,7 +22,7 @@ Message cards are found in the messages tab. It will reflect key information lik
 
 ![Read Message Card](../../.gitbook/assets/message-read%20%281%29.png)
 
-## Unread Message
+## Anatomy of Unread Message
 
 ![Unread Message Card](../../.gitbook/assets/unread-message.png)
 
@@ -72,8 +72,8 @@ padding-left: 16px
 padding-right: 16px
 ```
 
-**5. Divider Line \(a-divider-light\)**  
-For easy viewing and consumption, booking cards will have divider lines.
+**5. Divider Line \(a-divider-light-343\)**  
+For easy viewing and consumption, cards will have divider lines.
 
 ```text
 a-divider-light:
@@ -82,7 +82,7 @@ max-height: 1px
 color: slate-light
 ```
 
-## Read Message
+## Anatomy of Read Message
 
 Read messages will adopt a lot of the spacing and structure of the unread message. The only differences will be text treatment.
 
@@ -97,6 +97,7 @@ max-height: 64px
 max-width: 64px
 opacity: 75%
 padding-right: 16px
+padding-left: 16px
 ```
 
 **2. Sender Name \(a-text-paragraph\)**
@@ -128,11 +129,11 @@ font-color: slate-medium-dark
 
 Padding:
 padding-left: 16px
-padding-right: 16px
+padding-right: 14px
 ```
 
-**5. Divider Line \(a-divider-light\)**  
-For easy viewing and consumption, booking cards will have divider lines.
+**5. Divider Line \(a-divider-light-343\)**  
+For easy viewing and consumption, cards will have divider lines.
 
 ```text
 a-divider-light:

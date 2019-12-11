@@ -14,8 +14,14 @@ Booking lists are made up of booking cards. Booking cards are used to represent 
 
 ## Booking Card Types
 
-**1.** [**Booking Card \(card-booking-basic\)**](booking-cards.md#anatomy-of-booking-card-m-card-booking)  
-**2.** [**Active Booking Card \(card-booking-active\)**](booking-cards.md#anatomy-of-active-booking-states-m-card-booking-active)\*\*\*\*
+\*\*\*\*[**1. Booking Card \(card-booking-basic\)**](booking-cards.md#anatomy-of-booking-card-card-booking)\*\*\*\*
+
+![](../../.gitbook/assets/booking-list.png)
+
+  
+****[**2. Active Booking Card \(card-booking-active\)**](booking-cards.md#anatomy-of-active-booking-states-card-booking-active)\*\*\*\*
+
+![](../../.gitbook/assets/booking-list.png)
 
 ## Anatomy of Booking Card \(card-booking\)
 
@@ -70,8 +76,8 @@ font-color: slate-dark
 padding-right: 4px
 ```
 
-**4. Divider \(a-divider-light-343\)**  
-For easy viewing and consumption, booking cards will have divider lines.
+**4. Divider Line \(a-divider-light\)**  
+For easy viewing and consumption, cards have divider lines.
 
 ```text
 a-divider-light:

@@ -1,5 +1,5 @@
 ---
-description: Action cards contain list items that have underlying pages or flows.
+description: Action cards are list items that have underlying pages or flows.
 ---
 
 # Action Cards
@@ -16,7 +16,7 @@ Action cards allow users to access underlying pages or flows. Action cards can b
 
 There are a few variations of action cards, but all inherit the same basic structure. 
 
-\*\*\*\*[**1. Account \(card-account\)**](account-cards.md)  
+\*\*\*\*[**1. Account \(card-account\)**]()  
 Account cards show the name of the owner of the account.
 
 \*\*\*\*[**2. Booking Card \(card-CA-booking\)**](booking-cards.md)  
@@ -25,7 +25,7 @@ Booking cards give users key information about a booking. If a booking is active
 [**3. Jobs \(card-PA-job\)**](job-cards.md)  
 Job cards show key information about jobs.  
   
-[**4. List \(card-list\)**](list-cards.md)  
+[**4. List \(card-list\)**]()  
 List cards are list items that have underlying flows or pages. Can be shown with or without an icon.  
   
 [**5. Messages \(card-message\)**](message-cards.md)  

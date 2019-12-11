@@ -12,15 +12,15 @@ User cards are used to represent customers on the pro app and pros on the custom
 
 ### Types of User Cards
 
-**1.** [**Basic Pro Card \(card-**](user-cards.md#anatomy-of-basic-pro-card-m-card-pro)[**CA-**](user-cards.md#pro-search-with-time)[**pro\)**](user-cards.md#anatomy-of-basic-pro-card-m-card-pro)\*\*\*\*
+\*\*\*\*[**1. Basic Pro Card \(card-CA-pro\)**](user-cards.md#anatomy-of-basic-pro-card-card-ca-pro-pro-lis)\*\*\*\*
 
 ![](../../.gitbook/assets/pc-basic.png)
 
-**2.** [**Pro Search Card \(card-**](user-cards.md#anatomy-of-pro-search-card-m-card-pro-search)[**CA-**](user-cards.md#pro-search-with-time)[**pro-search\)**](user-cards.md#anatomy-of-pro-search-card-m-card-pro-search)\*\*\*\*
+\*\*\*\*[**2. Pro Search Card \(card-CA-pro-search\)**](user-cards.md#anatomy-of-pro-search-card-card-pro-search)\*\*\*\*
 
 ![](../../.gitbook/assets/pc-search.png)
 
-**3.** [**Pro Search with Availability Card \(card-CA-pro-search\)**](user-cards.md#pro-search-with-time)\*\*\*\*
+\*\*\*\*[**3. Pro Search with Availability Card \(card-CA-pro-search\)**](user-cards.md#anatomy-of-a-pro-search-with-availability-card-card-pro-search)\*\*\*\*
 
 ![](../../.gitbook/assets/pc-avail.png)
 
@@ -28,7 +28,11 @@ User cards are used to represent customers on the pro app and pros on the custom
 
 ![](../../.gitbook/assets/cust-card.png)
 
-## Anatomy of Basic Pro Card \(card-ca-pro-pro-lis\)
+\*\*\*\*[**5. Account Card \(card-account\)**](user-cards.md#anatomy-of-account-card)\*\*\*\*
+
+![](../../.gitbook/assets/avatar-over-view.png)
+
+## Anatomy of Basic Pro Card \(card-ca-pro\)
 
 Basic Pro Cards are found on the My Pros page. This page is a list of a user's pro team members.
 
@@ -73,14 +77,15 @@ font: font-awesome-regular
 font-size: 14px
 ```
 
-**4. Divider Line \(a-divider-light-343\)**  
-For easy viewing and consumption, pro cards will have divider lines.
+**4. Divider Line \(a-divider-light\)**  
+For easy viewing and consumption, cards have divider lines.
 
 ```text
 a-divider-light:
 max-width: 343px
 max-height: 1px
 color: slate-light
+padding-top: 24px
 ```
 
 ## Anatomy of Pro Search Card \(card-pro-search\)
@@ -130,7 +135,7 @@ padding-right: 4px
 ```
 
 **4. Divider Line \(a-divider-light\)**  
-For easy viewing and consumption, pro cards will have divider lines.
+For easy viewing and consumption, cards have divider lines.
 
 ```text
 a-divider-light:
@@ -140,7 +145,7 @@ color: slate-light
 padding-top: 24px
 ```
 
-## Pro Search with Availability Card \(card-pro-search\)
+## Anatomy of a Pro Search with Availability Card \(card-pro-search\)
 
 User can do a pro search from a flows like the reschedule or change pro from the booking details page. These cards are very similar to the [pro search cards](user-cards.md#anatomy-of-pro-search-card-m-card-pro-search) above but includes information about the pro’s availability and metadata section has a max of 3.
 
@@ -167,7 +172,7 @@ font-color: slate-dark
 ```
 
 **3. Divider Line \(a-divider-light\)**  
-For easy viewing and consumption, pro cards will have divider lines.
+For easy viewing and consumption, cards have divider lines.
 
 ```text
 a-divider-light:
@@ -183,7 +188,7 @@ Very similar to the basic pro card. Client cards can be found on the Client page
 
 ![](../../.gitbook/assets/client-card-detial.png)
 
-**1. Avatar \(a-avatar-standard\)**
+**1. Avatar**
 
 ```text
 a-avatar-standard:
@@ -208,5 +213,55 @@ a-text-tert:
 font-size: 14px
 font-weight: book
 font-color: text-black
+```
+
+**3. Divider Line \(a-divider-light\)**  
+For easy viewing and consumption, cards have divider lines.
+
+```text
+a-divider-light:
+max-width: 343px
+max-height: 1px
+color: slate-light
+padding-top: 24px
+```
+
+## Anatomy of Account Card
+
+The most basic user card. Account cards represent the owner of the account and can be found on account pages. 
+
+![](../../.gitbook/assets/avatar-detail.png)
+
+**1. Avatar**
+
+```text
+max-height: 64px
+max-width: 64px
+padding-left: 16px
+padding-right: 16px
+padding-top: 24px
+padding-bottom: 24px
+```
+
+**2. Account Name**
+
+```text
+a-text-h3:
+font-size: 16px
+font-weight: bold
+font-color: text-black
+padding-left: 16px
+padding-right: 8px
+```
+
+**3. Divider Line \(a-divider-light\)**  
+For easy viewing and consumption, cards have divider lines.
+
+```text
+a-divider-light:
+max-width: 343px
+max-height: 1px
+color: slate-light
+padding-top: 24px
 ```
 
