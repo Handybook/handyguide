@@ -16,21 +16,23 @@ Action cards allow users to access underlying pages or flows. Action cards can b
 
 There are a few variations of action cards, but all inherit the same basic structure. 
 
-\*\*\*\*[**1. Account \(card-account\)**]()  
-Account cards show the name of the owner of the account.
+\*\*\*\*[**1. Booking Card \(card-CA-booking\)**](booking-cards.md)  
+Booking cards give users key information about a booking. If a booking is active the card will incorporate a map.
 
-\*\*\*\*[**2. Booking Card \(card-CA-booking\)**](booking-cards.md)  
-Booking cards give users key information about a booking. If a booking is active the card will incorporate a map.  
-  
-[**3. Jobs \(card-PA-job\)**](job-cards.md)  
-Job cards show key information about jobs.  
-  
-[**4. List \(card-list\)**]()  
-List cards are list items that have underlying flows or pages. Can be shown with or without an icon.  
-  
-[**5. Messages \(card-message\)**](message-cards.md)  
-Message cards shows a preview of the last message sent or received.   
-  
-[**6. User Card \(card-CA-pro, card-PA-cust\)**](user-cards.md)  
+![](https://blobscdn.gitbook.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-LPWP46krdBhvVZjXTI3%2F-LvM4_j1XWmuYC1DomAs%2F-LvMtQpXoWq4JHhZK3CR%2FBookings-Overview.png?alt=media&token=5c2356cc-af62-4b2a-832d-6db67b711619)
+
+[**2. Jobs \(card-PA-job\)**](job-cards.md)  
+Job cards show key information about jobs.
+
+![](https://blobscdn.gitbook.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-LPWP46krdBhvVZjXTI3%2F-LvM4_j1XWmuYC1DomAs%2F-LvNLXSGBW0ENpcE-OxF%2FJobs-Overview.png?alt=media&token=8bffaae4-f936-426a-a805-24c7af1305de)
+
+[**3. Messages \(card-message\)**](message-cards.md)  
+Message cards shows a preview of the last message sent or received. 
+
+![](https://blobscdn.gitbook.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-LPWP46krdBhvVZjXTI3%2F-Lvm4POuoEAvDSIf4sE8%2F-Lvm9rjKbf65cE3iQ_4l%2FMessage-Overview.png?alt=media&token=3fd9e596-07a7-46c0-864b-31c43e39cfaf)
+
+[**4. User Card \(card-CA-pro, card-PA-cust\)**](user-cards.md)  
 User cards have key informations about customers and professionals. Depending on the context of the card, different kinds of information will be surfaced.
+
+![](https://blobscdn.gitbook.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-LPWP46krdBhvVZjXTI3%2F-LvlQxHsdSG5-XNeP2Rr%2F-LvlgVgSi5lb0mlVo62k%2FUser%20Card%20-overview.png?alt=media&token=96123056-50a2-40a5-8fc0-e6cea52e4e76)
 
