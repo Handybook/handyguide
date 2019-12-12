@@ -34,7 +34,7 @@ Headers are used to communicate what page \(tab\) a user is on. The header compo
 
 ![](../.gitbook/assets/dropdown-header.png)
 
-## Primary Headers
+## Anatomy of Primary Headers
 
 Primary Headers are components used on main app pages. Main headers will scroll with the content of the page.
 
@@ -71,7 +71,7 @@ Icon 2:
 padding-right: 16px
 ```
 
-## Secondary Headers
+## Anatomy of Secondary Headers
 
 Sub-headers are used on subpages or flows that are navigated to from a main tab page. Unlike main headers, sub-headers will stick to the top so users have a way to navigate away from the page.
 
@@ -128,7 +128,7 @@ color: slate-medium-light
 padding-top: 16px
 ```
 
-## Section Headers
+## Anatomy of Section Headers
 
 ![](https://blobscdn.gitbook.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-LPWP46krdBhvVZjXTI3%2F-Lvq_NpE1vtoqF2ZbFqQ%2F-LvqdvdmGD2NamEeoLM5%2FSection%20Header.png?alt=media&token=38aca531-ac1c-481b-83b6-8048f1fafbb5)
 
@@ -153,7 +153,7 @@ color: slate-light
 max-width: 100% 
 ```
 
-## Time Subheader
+## Anatomy of Time Subheader
 
 ![](https://blobscdn.gitbook.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-LPWP46krdBhvVZjXTI3%2F-Lvq_NpE1vtoqF2ZbFqQ%2F-Lvqdn4XnXbWlKjTQ_XU%2FTime%20Subheader.png?alt=media&token=e6413e36-89b9-412c-8236-81069c7a6c2c)
 
@@ -181,4 +181,6 @@ max-width: 343px
 max-height: 1px
 color: slate-medium-light
 ```
+
+## Anatomy of Dropdown Header
 
