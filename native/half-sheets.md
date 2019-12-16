@@ -59,7 +59,7 @@ padding-right: 16px
 Can use filter, radio, or checkbox pickers
 
 ```text
-Title (a-text-h3)
+Title (a-text-h4)
 font-weight: bold
 font-size: 16px
 font-color: text-black #434343
@@ -84,32 +84,12 @@ font-color: white #FFFFFF
 padding: 16px
 ```
 
-5. Divider Line
-
-```text
-line-color: slate-medium-light #DAE2E6
-line-thickness: 1px
-padding-left: 16px
-padding-right: 16px
-```
-
 6. Link Text
 
 ```text
 font-size: 16px
 font-weight: book
 font-color: text-black #434343
-padding-left: 16px
-padding-top: 16px
-padding-bottom: 16px
-```
-
-7. Cancel Link Text
-
-```text
-font-size: 16px
-font-weight: book
-font-color: red-medium #E74343
 padding-left: 16px
 padding-top: 16px
 padding-bottom: 16px
