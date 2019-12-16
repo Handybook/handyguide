@@ -30,7 +30,7 @@ Headers are used to communicate what page \(tab\) a user is on. The header compo
 
 ![](../.gitbook/assets/time-subheader%20%281%29.png)
 
-**5. Dropdown Subheader \(header-dropdown\)**
+[**5. Dropdown Subheader \(header-dropdown\)**](headers-1.md#anatomy-of-dropdown-header)\*\*\*\*
 
 ![](../.gitbook/assets/dropdown-header.png)
 
@@ -183,4 +183,74 @@ color: slate-medium-light
 ```
 
 ## Anatomy of Dropdown Header
+
+Dropdown headers can stick or scroll with the page.
+
+![](../.gitbook/assets/dropdown-header.png)
+
+![](../.gitbook/assets/dropdown-header-detail.png)
+
+**1. Label \(a-text-h4\)**  
+Reflects the time chosen on the native time picker.
+
+```text
+a-text-h4:
+font-size: 16px
+font-weight: bold
+font-color: text-black
+
+padding-top: 24px
+padding-bottom: 24px
+padding-left: 16px
+padding-right: 8px
+```
+
+**2. Supporting Text**  
+Any supporting copy like count can live here.
+
+```text
+a-text-paragraph:
+font-size: 16px
+font-weight: book
+font-color: slate-dark
+
+padding-top: 24px
+padding-bottom: 24px
+padding-left: 8px
+padding-right: 8px
+```
+
+**3. Caret**  
+To indicate state \(closed vs open\) the caret will change
+
+```text
+font: font-awesome (angle-down & angle-up)
+font-size: 16px
+font-weight: light
+font-color: slate-dark
+
+padding-top: 24px
+padding-bottom: 24px
+padding-left: 8px
+padding-right: 16px
+```
+
+**4. Container**
+
+```text
+color: off-white
+
+width: 100% (375px)
+max-height: 68px
+```
+
+**5. Divider Line \(a-divider-dark\)**  
+For easy viewing and consumption, dropdown headers will have divider lines.
+
+```text
+a-divider-light:
+max-width: 343px
+max-height: 1px
+color: slate-medium-light
+```
 
