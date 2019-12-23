@@ -27,7 +27,7 @@ font-color: blue-medium
 
 ```text
 a-text-label-slate:
-font-color: slate-medium
+font-color: slate-medium-dark
 ```
 
 3. Structure: 
