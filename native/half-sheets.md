@@ -14,15 +14,15 @@ Half sheets display supplementary actions \(filtering a list\) or content \(from
 
 ## Types of Half Sheets
 
-\*\*\*\*[**1. Action Half Sheet \(m-half\_sheet-action\)**](half-sheets.md#action-half-sheet-m-half_sheet-action)\*\*\*\*
+\*\*\*\*[**1. Action Half Sheet \(half-sheet-action\)**](half-sheets.md#action-half-sheet-m-half_sheet-action)\*\*\*\*
 
-![](../.gitbook/assets/group-5.png)
+![](../.gitbook/assets/action-half-sheet-overview.png)
 
-\*\*\*\*[**2. Informational Half Sheet \(m-half\_sheet-info\)**](half-sheets.md#informational-half-sheet-m-half_sheet-info)\*\*\*\*
+\*\*\*\*[**2. Informational Half Sheet \(half-sheet-info\)**](half-sheets.md#informational-half-sheet-m-half_sheet-info)\*\*\*\*
 
 ![](../.gitbook/assets/info-half-sheet.png)
 
-## Action Half Sheet \(m-half\_sheet-action\)
+## Action Half Sheet \(half-sheet-action\)
 
 Users can take actions like filtering list views or changing the status of a pro on action half sheet. Actions will be taken once a user selects an option and hits the CTA.
 
@@ -30,18 +30,20 @@ Users can take actions like filtering list views or changing the status of a pro
 Background-color: #00000; Opacity: 0.3
 ```
 
-![](../.gitbook/assets/action-halfsheet%20%281%29.png)
+![](../.gitbook/assets/action-half-sheet-overview.png)
 
-1. Half Sheet Title \(a-text-h2\)
+![](../.gitbook/assets/action-list.png)
+
+1. Title \(a-text-h3\)
 
 ```text
 font-weight: bold
 font-size: 20px
-font-color: text-black #434343
-
+font-color: text-black
 padding-left: 16px
 padding-right: 16px
 padding-top: 48px
+padding-bottom: 24px
 ```
 
 2. Exit
@@ -49,7 +51,7 @@ padding-top: 48px
 ```text
 max-width: 16px
 max-height-:16px
-color: text-black #434343
+color: text-black
 border-width: 2px
 padding-top: 16px
 padding-right: 16px
@@ -59,40 +61,48 @@ padding-right: 16px
 Can use filter, radio, or checkbox pickers
 
 ```text
-Title (a-text-h4)
+Title (a-text-h4):
 font-weight: bold
 font-size: 16px
 font-color: text-black #434343
 
-Pickers
+padding-left: 16px
+padding-right: 16px
+padding-top: 24px
+padding-bottom: 16px
+
+
+Pickers:
 padding-bottom: 24px
 ```
 
-4. Primary CTA \(a-button-primary\)
+4. Link CTA \(a-text-paragraph\)
+
+```text
+font-weight: book
+font-size: 16px
+font-color: blue-medium
+
+padding-top: 24px
+padding-bottom: 24px
+```
+
+5. Primary CTA \(a-button-primary\)
 
 ```text
 max-height: 57px
 border-radius: 5px
 padding-left: 16px
-paddin-right: 16px
-color: blue-medium #0BB8E3
-​
-Text (a-text-button)
-font-family: Circular
-font-size: 20px
-font-color: white #FFFFFF
-padding: 16px
-```
-
-6. Link Text
-
-```text
-font-size: 16px
-font-weight: book
-font-color: text-black #434343
-padding-left: 16px
-padding-top: 16px
+padding-right: 16px
+padding-top: 24px
 padding-bottom: 16px
+color: blue-medium
+​
+CTA Text (a-text-button)
+font-weight: book
+font-size: 20px
+font-color: white
+padding: 16px
 ```
 
 ## Informational Half Sheet \(m-half\_sheet-info\)
@@ -103,18 +113,20 @@ Users can view more information about features on an informational half sheet by
 Background-color: #00000; Opacity: 0.3
 ```
 
-![](../.gitbook/assets/info-half-sheet-1.png)
+![](https://blobscdn.gitbook.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-LPWP46krdBhvVZjXTI3%2F-Lwno4wPgC1TRr7M33Qy%2F-LwntQZt1lVD6BedUX-T%2FInfo%20Half%20Sheet.png?alt=media&token=913abc0f-c57e-45f3-876a-6308b0b15987)
 
-1. Half Sheet Title \(a-text-h2\)
+![](../.gitbook/assets/info-half-sheet-1%20%281%29.png)
+
+1. Title \(a-text-h3\)
 
 ```text
 font-weight: bold
 font-size: 20px
 font-color: text-black
-
 padding-left: 16px
 padding-right: 16px
 padding-top: 48px
+padding-bottom: 24px
 ```
 
 2. Exit
@@ -146,15 +158,18 @@ padding-bottom: 16px
 4. Primary CTA \(a-button-primary\)
 
 ```text
-max-width: 343px
 max-height: 57px
 border-radius: 5px
+padding-left: 16px
+padding-right: 16px
+padding-top: 24px
+padding-bottom: 16px
 color: blue-medium
 ​
-Text (a-text-button)
-font-family: Circular
+CTA Text (a-text-button)
+font-weight: book
 font-size: 20px
-font-color: #FFFFFF
+font-color: white
 padding: 16px
 ```
 
