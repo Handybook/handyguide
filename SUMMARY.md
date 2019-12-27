@@ -29,7 +29,7 @@
   * [Reviews](native/reviews.md)
   * [Skeleton Loading States](native/skeleton-loading-states.md)
   * [Tabs](native/tabs.md)
-  * [Text Fields](native/text-field.md)
+  * [Input Fields](native/text-field.md)
   * [Typography - Native](native/typography/README.md)
     * [Native Text Combinations](native/typography/text-combinations.md)
 * [Web](web/README.md)

@@ -12,27 +12,27 @@ Whenever the app is loading a page, components on the page will have a load stat
 
 ## Types of Loading States
 
-1. Picker Loading States \(m-skeleton-picker\)
+**1. Picker Loading States \(skeleton-picker\)**
 
 ![](../.gitbook/assets/picker-skeleton-state.png)
 
-2. Booking Loading State \(m-skeleton-booking\)
+**2. Booking Loading State \(skeleton-booking\)**
 
 ![](../.gitbook/assets/bookin-skeleton-state.png)
 
-3. Pro Loading State \(m-skeleton-pro\)
+**3. Pro Loading State \(skeleton-user\)**
 
 ![](../.gitbook/assets/pro-skeleton-state.png)
 
-4. Message Loading State \(m-skeleton-message\)
+**4. Message Loading State \(skeleton-message\)**
 
 ![](../.gitbook/assets/message-skeleton-state.png)
 
-5. Text Loading State \(m-skeleton-text\)
+**5. Text Loading State \(skeleton-text\)**
 
 ![](../.gitbook/assets/text-skeleton-state.png)
 
-6. Image \(m-skeleton-image\)  
+**6. Image \(skeleton-image\)**  
 Can be used for maps and product marketing content
 
 ![](../.gitbook/assets/product-marketing-skeleton-state.png)

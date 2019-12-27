@@ -16,7 +16,9 @@ Tabs allow users to view content without having to navigate away from that page.
 
 ![](../.gitbook/assets/tab.png)
 
-1. Selected 
+![](../.gitbook/assets/tab-detail.png)
+
+**1. Selected \(a-text-h4\)**
 
 ```text
 font-weight: bold
@@ -26,7 +28,7 @@ font-color: text-black
 padding-top: 16px
 ```
 
-2. Unselected
+**2. Unselected**
 
 ```text
 font-weight: book
@@ -37,7 +39,7 @@ padding-top: 16px
 padding-bottom: 18px
 ```
 
-3. Indicator
+**3. Indicator**
 
 ```text
 color: blue-medium
@@ -45,5 +47,20 @@ max-width: 50%
 max-height: 2px
 
 padding-top: 16px
+```
+
+**4. Divider Lines**
+
+```text
+a-divider-dark:
+max-width: 375px (100%)
+max-height: 1px
+color: slate-medium-light
+
+Top:
+padding-bottom: 16px
+
+Bottom:
+padding-top: 17px
 ```
 
