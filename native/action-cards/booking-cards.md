@@ -62,7 +62,7 @@ font-color: text-black
 padding-bottom: 4px
 ```
 
-**3. Metadata \(text-tert\)**  
+**3. Icon Metadata \(text-tert\)**  
 [**Font Awesome \(a-icon-line\)**](../../brand-guidelines/line-icons.md#fontawesome-guidelines) and [**tertiary styling**](../typography/#tertiary-styling) is used for metadata icon and text. Metadata is only shown in booking cards if the booking is made through a partner\(Wayfair, Walmart, HomeAdvisor, etc\). Partner metadata will be differentiated by the partner's logo. 
 
 ```text

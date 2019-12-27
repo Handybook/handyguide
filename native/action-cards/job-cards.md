@@ -31,11 +31,11 @@ The pre-claim job card lives in the Claims tab where pros look for jobs that the
 
 ![](../../.gitbook/assets/job-cards-details%20%281%29.png)
 
-**1. Job Information \(text-h3, text-tert\)**  
-Reflects key information about the job. [**H1 styling**](../typography/#h1-style) for the Service Name and [**Tertiary styling**](../typography/#tertiary-styling) for secondary job information like Time and Location.
+**1. Job Information \(text-h4, text-tert\)**  
+Reflects key information about the job. [**H4 styling**](../typography/#h1-style) for the Service Name and [**Tertiary styling**](../typography/#tertiary-styling) for secondary job information like Time and Location.
 
 ```text
-H1 - Service Name (text-h3):
+Service Name (text-h4):
 font-size: 16px
 font-weight: bold
 font-color: text-black
@@ -78,7 +78,7 @@ padding-right: 16px
 NON-BONUSED JOB:
 font-size: 20px
 font-weight: book
-font-color: 
+font-color: text-black
 ```
 
 **3. Callout \(a-card-callout\)**  
@@ -94,20 +94,25 @@ Without Metadata:
 padding-bottom: 24px
 ```
 
-**4. Metadata \(a-text-tert\)**  
+**4. Icon Metadata \(a-text-tert\)**  
 Metadata gives pros more context about the job. Each job card can have up to 3 piece of metadata. [**Font Awesome \(a-icon-line\)**](../../brand-guidelines/line-icons.md#fontawesome-guidelines) and [**tertiary styling**](../typography/#tertiary-styling) is used for metadata icon and text. 
 
 ```text
-text-tert:
-font-size: 14px
-font-weight: book
-font-color: slate-dark
-
 font awesome:
 font-size: 14px
 font-weight: book
 font-color: slate-dark
 padding-right: 4px
+
+font-awesome codes:
+[clipboard-list] - used to give more details on booking
+[camera] - used when photos are included in booking
+[thumbs-up] - used if many pros have wanted to work with client again
+
+text-tert:
+font-size: 14px
+font-weight: book
+font-color: slate-dark
 ```
 
 **5. Divider \(a-divider-light-75\)**  
@@ -122,17 +127,17 @@ padding-top: 24px
 
 ## Anatomy of Claimed Job Card \(card-PA-job-claimed\)
 
-After a job is claimed and on a pro's schedule, the job card changes so that the H1 is replaced with the client's name. Like Pre-claim job cards, Claimed job cards are also stacked vertically and organized by the date and time of the booking. 
+After a job is claimed and on a pro's schedule, the job card changes so that the H1 is replaced with the client's name. The same pricing, callout, icon metadata \(and same styling\) used in the Pre-Claim state of the card will be used in the Claimed state. Like Pre-claim job cards, Claimed job cards are also stacked vertically and organized by the date and time of the booking.
 
 ![](https://blobscdn.gitbook.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-LPWP46krdBhvVZjXTI3%2F-LvM4_j1XWmuYC1DomAs%2F-LvNLXSGBW0ENpcE-OxF%2FJobs-Overview.png?alt=media&token=8bffaae4-f936-426a-a805-24c7af1305de)
 
 ![](../../.gitbook/assets/job-cards-claimed-details.png)
 
-**1. Job Information \(text-h3, text-tert\)**  
-Reflects key information about the job. [**H1 styling**](../typography/#h1-style) for the Client Name and [**Tertiary styling**](../typography/#tertiary-styling) for secondary job information like Service Name, Time, and Location.
+**1. Job Information \(text-h4, text-tert\)**  
+Reflects key information about the job. [**H4 styling**](../typography/#h1-style) for the Client Name and [**Tertiary styling**](../typography/#tertiary-styling) for secondary job information like Service Name, Time, and Location.
 
 ```text
-H1 - Client Name (text-h3):
+Client Name (text-h4):
 font-size: 16px
 font-weight: bold
 font-color: text-black

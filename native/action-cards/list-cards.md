@@ -35,7 +35,7 @@ The most basic variation of the list card.
 ```text
 font-weight: book
 font-size: 16px
-font-color: text-black
+font-color: text-black or red-medium
 
 padding-left: 16px
 pading-top: 24px
@@ -94,7 +94,7 @@ font-weight: book
 font-size: 16px
 font-color: text-black
 
-padding-left: 16px
+padding-right: 16px
 pading-top: 24px
 padding-bottom: 24px
 padding-right: 8px
