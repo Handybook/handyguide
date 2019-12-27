@@ -14,20 +14,28 @@ Message cards are found in the messages tab. It will reflect key information lik
 
 ### Types of Message Cards
 
-**1.** [**Unread Message Card \(m-card-message-unread\)**](message-cards.md#unread-message)\*\*\*\*
+\*\*\*\*[**1. Unread Message Card \(m-card-message-unread\)**](message-cards.md#anatomy-of-unread-message)\*\*\*\*
 
-![Unread Message Card](../../.gitbook/assets/message-unread.png)
+![](../../.gitbook/assets/message-unread.png)
 
-**2.** [**Read Message Card \(m-card-message-read\)**](message-cards.md#read-message)\*\*\*\*
+\*\*\*\*[**2. Read Message Card \(m-card-message-read\)**](message-cards.md#anatomy-of-read-message)\*\*\*\*
 
-![Read Message Card](../../.gitbook/assets/message-read%20%281%29.png)
+![](../../.gitbook/assets/message-read%20%281%29.png)
 
 ## Anatomy of Unread Message
+
+Unread message cards are used to represent a new message or messages that have not been opened. Like other cards, unread message cards are stacked vertically in sequential order \(the most recent at the top\).
+
+![](https://blobscdn.gitbook.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-LPWP46krdBhvVZjXTI3%2F-LwowslbkEwQ1ANHObRc%2F-Lx3u7yV39vQhG7ymlHu%2FMessage-Unread.png?alt=media&token=15df67a7-a925-4575-bf6b-1c489e7dfc9a)
 
 ![Unread Message Card](../../.gitbook/assets/unread-message.png)
 
 **1. Unread Indicator \(a-avatar-unread\)**  
-If the message is unread, the avatar will have an outline around it to indicate that the message is unread.
+If the message is unread, the avatar will have an outline around it to indicate that the message is unread.   
+  
+In the consumer app, an [**Image Avatar**](../avatars.md#image-avatars-avatar-image) or the [**Customer Default Avatar**](../avatars.md#default-avatars-customer-avatar-customer-default) \(for customers with no profile picture\) can be used.   
+  
+In the pro app, an [**Image Avatar**](../avatars.md#image-avatars-avatar-image) or the [**Pro Default Avatar**](../avatars.md#default-avatars-pros-avatar-pro-default) \(for pros with no profile picture\) can be used.
 
 ```text
 a-avatar-unread:
@@ -38,7 +46,7 @@ border-width: 3px
 padding-right: 16px
 ```
 
-**2. Sender Name \(a-text-paragraph-bold\)**
+**2. Sender Name \(a-text-h4\)**
 
 ```text
 a-text-paragraph-bold:
@@ -85,6 +93,8 @@ color: slate-light
 ## Anatomy of Read Message
 
 Read messages will adopt a lot of the spacing and structure of the unread message. The only differences will be text treatment.
+
+![](https://blobscdn.gitbook.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-LPWP46krdBhvVZjXTI3%2F-LwowslbkEwQ1ANHObRc%2F-Lx3uDNIHH1PH--FB0Gl%2FMessage-Read.png?alt=media&token=d1dbc47e-ccfd-4bba-8fa8-31a3110ee377)
 
 ![Read Message Card](../../.gitbook/assets/read-message.png)
 

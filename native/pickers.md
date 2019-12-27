@@ -6,7 +6,7 @@ description: 'Pickers can be radios, checkboxes, filters, and toggles.'
 
 ## Usage of Pickers
 
-Pickers allow users to select an option before taking an action. Pickers can be found on booking flows and filters.
+Pickers allow users to select an option \(or options\) before taking an action. Pickers can be found on booking flows and filters.
 
 ![](../.gitbook/assets/picker-overview.png)
 

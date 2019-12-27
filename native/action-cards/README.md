@@ -22,9 +22,9 @@ Booking cards give users key information about a booking. If a booking is active
 ![](https://blobscdn.gitbook.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-LPWP46krdBhvVZjXTI3%2F-LvM4_j1XWmuYC1DomAs%2F-LvMtQpXoWq4JHhZK3CR%2FBookings-Overview.png?alt=media&token=5c2356cc-af62-4b2a-832d-6db67b711619)
 
 [**2. Jobs \(card-PA-job\)**](job-cards.md)  
-Job cards show key information about jobs.
+Job cards show key information about jobs. When a job is claimed, the card includes the name of the client.
 
-![](https://blobscdn.gitbook.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-LPWP46krdBhvVZjXTI3%2F-LvM4_j1XWmuYC1DomAs%2F-LvNLXSGBW0ENpcE-OxF%2FJobs-Overview.png?alt=media&token=8bffaae4-f936-426a-a805-24c7af1305de)
+![](../../.gitbook/assets/jobs-overview.png)
 
 [**3. Messages \(card-message\)**](message-cards.md)  
 Message cards shows a preview of the last message sent or received. 

@@ -12,15 +12,15 @@ Avatars house an image that represent the user \(profile picture or user's initi
 
 ## Types of Avatars
 
-\*\*\*\*[**1. Image Avatar \(avatar-human\)**](avatars.md#pro-avatars-a-avatar)
+\*\*\*\*[**1. Image Avatar \(avatar-human\)**](avatars.md#image-avatars-avatar-image)
 
 ![](../.gitbook/assets/image-avatars.png)
 
-\*\*\*\*[**2. Default Avatar - Pros \(avatar-pro-default\)**](avatars.md#default-avatars)\*\*\*\*
+\*\*\*\*[**2. Pro Default Avatar \(avatar-pro-default\)**](avatars.md#default-avatars-pros-avatar-pro-default)\*\*\*\*
 
 ![](../.gitbook/assets/default-avatar.png)
 
-**3. Default Avatar - Customer \(avatar-customer-default\)**
+\*\*\*\*[**3. Customer Default Avatar \(avatar-customer-default\)**](avatars.md#default-avatars-customer-avatar-customer-default)\*\*\*\*
 
 ![](../.gitbook/assets/customer-detault.png)
 
@@ -28,9 +28,9 @@ Avatars house an image that represent the user \(profile picture or user's initi
 
 ![](../.gitbook/assets/booking-avatar.png)
 
-## Pro Avatars \(a-avatar\)
+## Image Avatars \(avatar-image\)
 
-Image avatars are used to represent pros and customers.
+Image avatars are used to represent pros and customers, if they have a profile image.
 
 ![](https://blobscdn.gitbook.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-LPWP46krdBhvVZjXTI3%2F-LvpvsJIxtnd-bVB2Qvc%2F-Lvpz-p7aH2z6GBwUJ-v%2FImage%20Avatars.png?alt=media&token=ab85c381-18df-48fc-b956-60785689620e)
 
@@ -93,9 +93,9 @@ max-height: 64px
 background-color: slate-light
 ```
 
-## Booking Avatar \(a-avatar-bookings\)
+## Booking Avatar \(avatar-bookings\)
 
-Booking avatars are used in m-card-bookings to represent the service. The icon in the avatar will correspond with the service and will take on the [**two-tone styling**](../brand-guidelines/iconography.md#usage-of-two-tone-icons).  
+Booking avatars are used in [**card-bookings**](action-cards/booking-cards.md) to represent the service. The icon in the avatar will correspond with the service and will take on the [**two-tone styling**](../brand-guidelines/iconography.md#usage-of-two-tone-icons).  
 
 ![](../.gitbook/assets/bookign-avatar-detail.png)
 

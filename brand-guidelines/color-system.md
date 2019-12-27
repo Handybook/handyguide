@@ -98,9 +98,9 @@ Color helps distinguishes our brand and helps us to create consistent experience
 
 | Color | Name | Hex Code | RGB |
 | :--- | :--- | :--- | :--- |
-| ![](../.gitbook/assets/image.png) | Off-White | `#FBFBFB` | 251, 251, 251 |
-| ![](../.gitbook/assets/image%20%287%29.png) | Dark-White | `#F4F4F4` | 244, 244, 244 |
-| ![](../.gitbook/assets/image%20%282%29.png) | Text-Black | `#434343` | 67, 67, 67 |
+| ![](../.gitbook/assets/image%20%281%29.png) | Off-White | `#FBFBFB` | 251, 251, 251 |
+| ![](../.gitbook/assets/image%20%288%29.png) | Dark-White | `#F4F4F4` | 244, 244, 244 |
+| ![](../.gitbook/assets/image%20%283%29.png) | Text-Black | `#434343` | 67, 67, 67 |
 
 ## Color Table
 

@@ -10,20 +10,22 @@ description: >-
 
 The Claims and Schedule page are made up of jobs cards. Jobs cards are used to represent a single job. When a user is viewing a job card, they will see key information like type of service and date/time of that job.
 
-![](../../.gitbook/assets/jobs-overview%20%281%29.png)
+![](../../.gitbook/assets/jobs-overview%20%282%29.png)
 
 ## Job Card Types
 
-**1. Pre-Claim Job Card \(card-PA-job-pre-claim\)**
+\*\*\*\*[**1. Pre-Claim Job Card \(card-PA-job-pre-claim\)**](job-cards.md#anatomy-of-pre-claim-job-card-card-pa-job-pre-claim)\*\*\*\*
 
 ![](../../.gitbook/assets/job-card-pre-claim.png)
 
   
-**2. Claimed Job Card \(card-PA-job-claimed\)**
+****[**2. Claimed Job Card \(card-PA-job-claimed\)**](job-cards.md#anatomy-of-claimed-job-card-card-pa-job-claimed)\*\*\*\*
 
 ![](../../.gitbook/assets/job-card-claimed-overview.png)
 
 ## Anatomy of Pre-Claim Job Card \(**card-PA-job-pre-claim**\)
+
+The pre-claim job card lives in the Claims tab where pros look for jobs that they can manually claim. Pre-claim job cards are stacked vertically and organized by the date and time of the booking. 
 
 ![](../../.gitbook/assets/job-card-pre-claim.png)
 
@@ -93,7 +95,7 @@ padding-bottom: 24px
 ```
 
 **4. Metadata \(a-text-tert\)**  
-Metadata gives pros more context about the job. Each job card can have up to 3 piece of metadata. Font Awesome and [**tertiary styling**](../typography/#tertiary-styling) is used for metadata icon and text. 
+Metadata gives pros more context about the job. Each job card can have up to 3 piece of metadata. [**Font Awesome \(a-icon-line\)**](../../brand-guidelines/line-icons.md#fontawesome-guidelines) and [**tertiary styling**](../typography/#tertiary-styling) is used for metadata icon and text. 
 
 ```text
 text-tert:
@@ -120,7 +122,7 @@ padding-top: 24px
 
 ## Anatomy of Claimed Job Card \(card-PA-job-claimed\)
 
-After a job is claimed and on a pro's schedule, the job card changes so that the H1 is replaced with the client's name. All other styles stay the same.
+After a job is claimed and on a pro's schedule, the job card changes so that the H1 is replaced with the client's name. Like Pre-claim job cards, Claimed job cards are also stacked vertically and organized by the date and time of the booking. 
 
 ![](https://blobscdn.gitbook.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-LPWP46krdBhvVZjXTI3%2F-LvM4_j1XWmuYC1DomAs%2F-LvNLXSGBW0ENpcE-OxF%2FJobs-Overview.png?alt=media&token=8bffaae4-f936-426a-a805-24c7af1305de)
 
