@@ -58,7 +58,7 @@ padding-bottom: 8px
 ```
 
 **3. Time Stamp \(a-text-label\)**  
-After 24 hours, the message time stamp will reflect the date and time it was sent.
+After 24 hours, the message time stamp will reflect the date \(mm/dd\) and time \(XX:XX\) it was sent.
 
 ```text
 font-weight: book
@@ -75,7 +75,7 @@ Received messages will adopt most of the stylings of sent messages.
 
 ![](../.gitbook/assets/received-bubbles.png)
 
-1. Background
+**1. Container**
 
 ```text
 background: dark-white 
@@ -91,7 +91,7 @@ m-message-sent-short:
 max-width: 33.333% (excluding margins)
 ```
 
-2. Message Text \(a-text-paragraph\)
+**2. Message Text \(a-text-paragraph\)**
 
 ```text
 font-weight: book
@@ -104,8 +104,8 @@ padding-right: 12px
 padding-bottom: 8px
 ```
 
-3. Time Stamp \(a-text-label\)  
-After 24 hours, the message time stamp will reflect the date and time it was received.
+**3. Time Stamp \(a-text-label\)**  
+After 24 hours, the message time stamp will reflect the date \(mm/dd\) and time \(XX:XX\) it was sent.
 
 ```text
 font-weight: book

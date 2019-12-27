@@ -74,7 +74,7 @@ To add visual interest to pages consisting only of list cards \(like the Job Sup
 ![](../../.gitbook/assets/icon-detail.png)
 
 **1. Label Icon**  
- [**Font Awesome \(a-icon-line\)**](../../brand-guidelines/line-icons.md#fontawesome-guidelines) is used for the label icon.
+[**Font Awesome \(a-icon-line\)**](../../brand-guidelines/line-icons.md#fontawesome-guidelines) is used for the label icon.
 
 ```text
 font: font-awesome

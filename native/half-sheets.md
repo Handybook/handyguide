@@ -34,7 +34,7 @@ Background-color: #00000; Opacity: 0.3
 
 ![](../.gitbook/assets/action-list.png)
 
-1. Title \(a-text-h3\)
+**1. Title \(a-text-h3\)**
 
 ```text
 font-weight: bold
@@ -46,7 +46,7 @@ padding-top: 48px
 padding-bottom: 24px
 ```
 
-2. Exit
+**2. Exit**
 
 ```text
 max-width: 16px
@@ -57,7 +57,7 @@ padding-top: 16px
 padding-right: 16px
 ```
 
-3. Content  
+**3. Content**  
 Can use filter, radio, or checkbox pickers
 
 ```text
@@ -76,7 +76,8 @@ Pickers:
 padding-bottom: 24px
 ```
 
-4. Link CTA \(a-text-paragraph\)
+**4. Link CTA \(a-text-paragraph\)**  
+The Link CTA can take the user down another flow or expand the half sheet with more content.
 
 ```text
 font-weight: book
@@ -85,9 +86,13 @@ font-color: blue-medium
 
 padding-top: 24px
 padding-bottom: 24px
+
+expansion:
+padding-top: 24px
+padding-bottom: 24px
 ```
 
-5. Primary CTA \(a-button-primary\)
+**5. Primary CTA \(a-button-primary\)**
 
 ```text
 max-height: 57px
@@ -105,7 +110,7 @@ font-color: white
 padding: 16px
 ```
 
-## Informational Half Sheet \(m-half\_sheet-info\)
+## Informational Half Sheet \(half-sheet-info\)
 
 Users can view more information about features on an informational half sheet by tapping on a tool tip.
 
@@ -117,7 +122,7 @@ Background-color: #00000; Opacity: 0.3
 
 ![](../.gitbook/assets/info-half-sheet-1%20%281%29.png)
 
-1. Title \(a-text-h3\)
+**1. Title \(a-text-h3\)**
 
 ```text
 font-weight: bold
@@ -129,7 +134,7 @@ padding-top: 48px
 padding-bottom: 24px
 ```
 
-2. Exit
+**2. Exit**
 
 ```text
 max-width: 16px
@@ -140,11 +145,11 @@ padding-top: 16px
 padding-right: 16px
 ```
 
-3. Content
+**3. Content**
 
 ```text
 Body Copy (a-text-paragraph):
-font-weight: bold
+font-weight: book
 font-size: 16px
 font-color: text-black
 line-height: 1.5

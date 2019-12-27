@@ -278,7 +278,7 @@ padding-bottom: 24px
 **2. Account Name**
 
 ```text
-a-text-h3:
+a-text-h4:
 font-size: 16px
 font-weight: bold
 font-color: text-black

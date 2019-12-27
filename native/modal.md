@@ -12,13 +12,13 @@ Modals disable all app functionality and remain on the screen until a required a
 
 ## Anatomy of Modals \(m-modal\)
 
-Due to its disruptive nature, modals should be used sparingly. Examples include abandoned checkout,  Handy Select booking cancellation, late fees, plan cancellation, and sign out.
+Due to its disruptive nature, modals should be used **sparingly**. Examples include abandoned checkout,  Handy Select booking cancellation, late fees, plan cancellation, and sign out.
 
 ![](../.gitbook/assets/modal%20%281%29.png)
 
 ![](../.gitbook/assets/modal-detail.png)
 
-1. Modal title \(a-text-h3\)
+**1. Modal title \(a-text-h3\)**
 
 ```text
 font-weight: bold
@@ -31,7 +31,7 @@ padding-top: 24px
 padding-bottom: 24px
 ```
 
-2. Content \(a-text-paragraph\)
+**2. Content \(a-text-paragraph\)**
 
 ```text
 font-weight: book
@@ -41,7 +41,7 @@ line-height: 1.5
 padding: 16px
 ```
 
-3. CTA Group \(button-modal-small-primary and secondary\)
+**3. CTA Group \(button-modal-small-primary and secondary\)**
 
 ```text
 Primary CTA:

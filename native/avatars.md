@@ -77,7 +77,7 @@ Default Avatars are used when a customer does not have a profile picture.
 
 ![](../.gitbook/assets/default-cust-detail.png)
 
-1. Customer Initials
+1. Customer Initials \(a-text-avatar\)
 
 ```text
 font-size: 24px

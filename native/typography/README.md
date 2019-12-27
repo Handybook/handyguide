@@ -77,7 +77,7 @@ font-color: text-black
 
 ## Subheader \(a-text-subheader\)
 
-Styling used in subheader \(m-header-secondary\)
+Styling used in subheader \(header-subheader\) or section headers.
 
 ```text
 font-weight: medium
@@ -96,10 +96,10 @@ _Variations: a-text-avatar-slate-dark_
 font-weight: book
 font-size: 24px
 
-a-text-avatar (regular avatars and m-card-messages-unread):
+Usage - regular avatars and m-card-messages-unread:
 font-color: text-black
 
-a-text-avatar-slate-dark (m-card-message-read)
+Usage - m-card-message-read
 font-color: slate-dark
 ```
 
@@ -156,12 +156,7 @@ _Variations: a-text-tert-slate-dark, a-text-tert-green-medium_
 ```text
 font-weight: book
 font-size: 14px
-
-m-metadata:
-font-color: slate-dark
-
-Availability m-metadata
-font-color: slate-dark, green-medium
+font-color: slate-dark, text-black, green-medium,
 ```
 
 ![](../../.gitbook/assets/a-text-tert.png)

@@ -12,7 +12,7 @@ Marketing components are used to highlight different feature of the app or adver
 
 ## Anatomy of Marketing Cards
 
-Product Marketing components are used to promote different features of the app, such as Pro Search or one-time cleaning bookings.
+Product Marketing components are used to promote different features of the app or a promotional offer, such as Pro Search or one-time cleaning bookings.
 
 ![](../.gitbook/assets/prod-marketing-detail.png)
 
@@ -25,7 +25,7 @@ background-color: any color of Handy palette.
 max-width: 100% (343px)
 ```
 
-**2. Header \(a-text-h3\)**
+**2. Header \(a-text-h4\)**
 
 ```text
 font-weight: bold
@@ -50,7 +50,7 @@ padding-right: 8px
 padding-left: 12px
 ```
 
-_4. Button \(a-button-small-primary-50\)_
+**4. CTA \(a-button-small-primary-50\)**
 
 ```text
 max-width:  50% (168px)
@@ -66,5 +66,5 @@ padding-bottom: 12px
 ```
 
 **5. Image**  
-No specified width but cannot exceed past the container or bleed into the text.
+Image must be included to give the card visual interest. No specified width but cannot exceed past the container or bleed into the text.
 

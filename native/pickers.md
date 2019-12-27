@@ -34,7 +34,7 @@ For example, selecting bedrooms in the booking flow. Radio buttons describe comp
 
 ![](../.gitbook/assets/radio.png)
 
-1. Current Selection:
+**1. Current Selection**
 
 ```text
 border: 1px
@@ -45,10 +45,12 @@ Fill:
 color: blue-medium
 size: 16px
 
+padding-left: 16px
+paddig-right: 16px
 padding-top: 16px
 ```
 
-2. Content Header \(a-text-paragraph\)
+**2. Content Header \(a-text-paragraph\)**
 
 ```text
 font-weight: book
@@ -56,7 +58,8 @@ font-size: 16px
 font-color: text-black
 ```
 
-3. Content \(a-text-paragraph\)
+**3. Supporting Content \(a-text-paragraph\)**  
+Supporting Content is optional and used to give extra information about that particular option.
 
 ```text
 font-weight: book
@@ -64,7 +67,7 @@ font-size: 16px
 font-color: slate-dark
 ```
 
-4. Unselected Option:
+**4. Unselected Option:**
 
 ```text
 border: 1px
@@ -72,7 +75,7 @@ border-color: slate-medium
 size: 24px
 ```
 
-5. Dividing Line:
+**5. Dividing Line**
 
 ```text
 border: 1px
@@ -88,17 +91,24 @@ Checkboxes are used when the user can select multiple options. For example, addi
 
 ![](../.gitbook/assets/checkboxes.png)
 
-1. Current Selection: There can be multiple selections.
+**1. Current Selection**
 
 ```text
 border-radius: 3px
 color: blue-medium
 size: 24px
 
-padding-top: 16px
+font-awesome: check
+font-weight: regular
+font-size: 16px
+padding: 4px
+
+padding-left: 16px
+paddig-right: 16px
+paddig-top: 16px
 ```
 
-2. Content Header \(a-text-paragraph\)
+**2. Content Header \(a-text-paragraph\)**
 
 ```text
 font-weight: book
@@ -106,7 +116,8 @@ font-size: 16px
 font-color: text-black
 ```
 
-3. Content \(a-text-paragraph\)
+**3. Supporting Content \(a-text-paragraph\)**  
+Supporting Content is optional and used to give extra information about that particular option.
 
 ```text
 font-weight: book
@@ -114,7 +125,7 @@ font-size: 16px
 font-color: slate-dark
 ```
 
-4. Unselected Option:
+**4. Unselected Option:**
 
 ```text
 border radius: 3px
@@ -123,7 +134,7 @@ border-color: slate-medium
 size: 24px
 ```
 
-5. Dividing Line:
+**5. Dividing Line:**
 
 ```text
 border: 1px
@@ -139,7 +150,7 @@ Filter pickers are used when the user can only select one option, the options ar
 
 ![](../.gitbook/assets/filter%20%282%29.png)
 
-1. Current Selection: There cannot be multiple selections
+**1. Current Selection**
 
 ```text
 Fill Color: 
@@ -148,7 +159,13 @@ background: blue-medium
 Text (a-text-paragraph-white)
 font-weight: book
 font-size: 16px
-text-color: white
+text-color: white [selected]
+text-color: text-black [unselected]
+
+padding-left: 10px
+padding-right: 10px
+padding-top: 16px
+padding-bottom: 16px
 ```
 
 2. Corner Radius
@@ -164,10 +181,6 @@ border: 1px
 border-color: slate-medium
 max-width: 343px
 
-Text (a-text-paragraph):
-font-weight: book
-font-size: 16px
-text-color: text-black
 
 padding-top: 16px
 padding-bottom: 16px 

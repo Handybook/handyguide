@@ -12,21 +12,29 @@ Banners are used to confirm an action taken or reflect a status.  Banners can be
 
 ## Anatomy of Banners \(banner\)
 
-Banners use color and iconography to indicate the nature of the action or call out
+Banners use color and iconography to indicate the nature of the action or messaging.
 
 ![](../.gitbook/assets/banner-view.png)
 
 ![](../.gitbook/assets/banner.png)
 
-**1. Label Icon - Font Awesome**
+**1. Label Icon**  
+[**Font Awesome \(a-icon-line\)**](../brand-guidelines/line-icons.md#fontawesome-guidelines) is used for the label icon**.**
 
 ```text
 font: font-awesome
 font-size: 16px
 font-weight: light
 font-color: white or slate-dark
+
 padding-left: 16px
 padding-right: 8px
+
+font-awesome codes:
+[check-circle] - used for confirmations or positive actions
+[exclamation-cirlce] - used for errors or negative actions
+[calendar-times] - used when there is an issue with availability/bookings
+[sync] - used when the app is reloading
 ```
 
 **2. Text \(a-text-paragraph\)**

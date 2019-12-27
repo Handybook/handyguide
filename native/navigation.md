@@ -16,21 +16,23 @@ The navigation bar is anchored to the bottom of the screen and allows users to n
 
 ![](../.gitbook/assets/navigation.png)
 
-1. Selected: When a user is on a page, icon will be replaced with it's active state.
+**1. Selected**  
+When a user is on a page, icon will be replaced with its active state.
 
 ```text
-a-text-label-blue:
+a-text-label:
 font-color: blue-medium
 ```
 
-2. Unselected: Default state of icon
+**2. Unselected**  
+Default state of icon
 
 ```text
-a-text-label-slate:
+a-text-label:
 font-color: slate-medium-dark
 ```
 
-3. Structure: 
+**3. Structure:** 
 
 ```text
 max-width: 100%
@@ -38,8 +40,13 @@ max-height: 50px
 border-top: 1px, slate-light-medium
 ```
 
-### Active Icon States
+## Nav Bar Iconography
 
+Nav Bar Iconography is made custom and there are 2 sets for the pro and consumer apps.
+
+### Consumer App
+
+**Active Icon States**  
 Folders include PNGs, SVG, and PDF files of each icon.
 
 {% file src="../.gitbook/assets/home-active.zip" caption="Home-Active" %}
@@ -50,10 +57,7 @@ Folders include PNGs, SVG, and PDF files of each icon.
 
 {% file src="../.gitbook/assets/messages-active.zip" caption="Messages-Active" %}
 
-{% file src="../.gitbook/assets/account-active.zip" caption="Account-Active" %}
-
-### Inactive Icon States
-
+**Inactive Icon States**  
 Folders include PNGs, SVG, and PDF files of each icon.
 
 {% file src="../.gitbook/assets/home-inactive.zip" caption="Home-Inactive" %}
@@ -65,4 +69,16 @@ Folders include PNGs, SVG, and PDF files of each icon.
 {% file src="../.gitbook/assets/messages-inactive.zip" caption="Message-Inactive" %}
 
 {% file src="../.gitbook/assets/account-inactive.zip" caption="Account-Inactive" %}
+
+### Pro App
+
+**Active Icon States**  
+Folders include PNGs, SVG, and PDF files of each icon.
+
+{% file src="../.gitbook/assets/claims-active.zip" caption="Claims-Active" %}
+
+**Inactive Icon States**  
+Folders include PNGs, SVG, and PDF files of each icon.
+
+{% file src="../.gitbook/assets/claims-inactive.zip" caption="Claims-Inactive" %}
 
