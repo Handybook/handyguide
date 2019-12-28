@@ -8,7 +8,7 @@ description: An organized approach to apply colors to our UI and marketing asset
 
 Color helps distinguishes our brand and helps us to create consistent experiences across the Handy platform
 
-![](../.gitbook/assets/overview.png)
+![](../.gitbook/assets/color.png)
 
 ## Blue
 
@@ -36,7 +36,7 @@ Color helps distinguishes our brand and helps us to create consistent experience
 
 ## Teal
 
-![](../.gitbook/assets/teal.png)
+![](../.gitbook/assets/teal%20%281%29.png)
 
 | Color | Name | Hex Code | RGB |
 | :--- | :--- | :--- | :--- |
@@ -44,7 +44,7 @@ Color helps distinguishes our brand and helps us to create consistent experience
 | ![Medium-Light-Teal: \#A6E9DD](../.gitbook/assets/medium-light-teal.png) | Teal-Medium-Light | `#A6E9DD` | 166, 233, 221 |
 | ![Medium-Teal: \#3DCAB1](../.gitbook/assets/medium-teal.png) | Teal-Medium | `#3DCAB1` | 61, 202, 177 |
 | ![Medium-Dark-Teal: \#3DAF88](../.gitbook/assets/medium-dark-teal.png) | Teal-Medium-Dark | `#3DAF88` | 61, 175, 136 |
-| ![Dark-Teal: \#0A5145](../.gitbook/assets/dark-teal.png) | Teal-Dark | `#0A5145` | 10, 81, 69 |
+| ![](../.gitbook/assets/image%20%288%29.png) | Teal-Dark | `#046856` | 4, 104, 86 |
 
 ## Yellow
 
@@ -55,8 +55,8 @@ Color helps distinguishes our brand and helps us to create consistent experience
 | ![Light-Yellow: \#FCEBC6](../.gitbook/assets/light-yellow.png) | Yellow-Light | `#FCEBC6` | 252, 235, 198 |
 | ![Medium-Light-Yellow: \#FFDB8D](../.gitbook/assets/medium-light-yellow.png) | Yellow-Medium-Light | `#FFDB8D` | 255, 219, 141 |
 | ![Medium-Yellow: \#FFB600](../.gitbook/assets/medium-yellow.png) | Yellow-Medium | `#FFB600` | 255, 182, 0 |
-| ![Medium-Dark-Yellow: \#D69200](../.gitbook/assets/medium-dark-yellow.png) | Yellow-Medium-Dark | `#D69200` | 214, 146, 0 |
-| ![Dark-Yellow: \#B37A00](../.gitbook/assets/dark-yellow.png) | Yellow-Dark | `#B37A00` | 179, 122, 0 |
+| ![](https://blobscdn.gitbook.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-LPWP46krdBhvVZjXTI3%2F-Lx9usMMw2mVhSYMiN1n%2F-Lx9x0b8SCZAgj0mQotA%2Fimage.png?alt=media&token=ffaa74df-88a9-4b5b-a01b-e0a0fa9fac25) | Yellow-Medium-Dark | `#EF9000` | 239, 144, 0 |
+| ![](https://blobscdn.gitbook.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-LPWP46krdBhvVZjXTI3%2F-Lx9usMMw2mVhSYMiN1n%2F-Lx9x5wVaixrKU3TD_CE%2Fimage.png?alt=media&token=0226cfdf-4697-4db2-b988-9cdfb8ccdcf2) | Yellow-Dark | `#DA7500` | 218, 117, 0 |
 
 ## Purple
 
@@ -98,9 +98,9 @@ Color helps distinguishes our brand and helps us to create consistent experience
 
 | Color | Name | Hex Code | RGB |
 | :--- | :--- | :--- | :--- |
-| ![](../.gitbook/assets/image%20%281%29.png) | Off-White | `#FBFBFB` | 251, 251, 251 |
-| ![](../.gitbook/assets/image%20%288%29.png) | Dark-White | `#F4F4F4` | 244, 244, 244 |
-| ![](../.gitbook/assets/image%20%283%29.png) | Text-Black | `#434343` | 67, 67, 67 |
+| ![](../.gitbook/assets/image%20%282%29.png) | Off-White | `#FBFBFB` | 251, 251, 251 |
+| ![](../.gitbook/assets/image%20%2814%29.png) | Dark-White | `#F4F4F4` | 244, 244, 244 |
+| ![](../.gitbook/assets/image%20%289%29.png) | Text-Black | `#434343` | 67, 67, 67 |
 
 ## Color Table
 
@@ -109,6 +109,6 @@ Color helps distinguishes our brand and helps us to create consistent experience
 | **Light** | `#EEF6F9` | `#EDF7D6` | `#E8EFF2` | `#FCEBC6` | `#FFD8D8` | `#E0F6F2` | `#EDD1EB` |
 | **Medium-Light** | `#CDE9F8` | `#D5EBBF` | `#DAE2E6` | `#FFDB8D` | `#FC9A9A` | `#A6E9DD` | `#B87DB4` |
 | **Medium** | `#0BB8E3` | `#67BD24` | `#C2CED3` | `#FFB600` | `#E74343` | `#3DCAB1` | `#893383` |
-| **Medium-Dark** | `#036DA1` | `#4A8A18` | `#9CABB5` | `#D69200` | `#B81919` | `#3DAF88` | `#700C6A` |
-| **Dark** | `#073556` | `#215913` | `#667884` | `#B37A00` | `#851919` | `#0A5145` | `#4C0B47` |
+| **Medium-Dark** | `#036DA1` | `#4A8A18` | `#9CABB5` | `#EF9000` | `#B81919` | `#3DAF88` | `#700C6A` |
+| **Dark** | `#073556` | `#215913` | `#667884` | `#DA7500` | `#851919` | `#046856` | `#4C0B47` |
 
